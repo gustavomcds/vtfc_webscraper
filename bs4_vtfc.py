@@ -6,7 +6,7 @@ from scraper.export import export_to_csv, export_to_json, export_to_sqlite
 
 # Reading parameters file
 with open(os.path.join('config', 'params.yaml'), 'r') as file:
-    params = yaml.load(file)
+    params = yaml.safe_load(file)
 
 # Choose between FR and ENG
 LANG = input('Choose the language: ')
