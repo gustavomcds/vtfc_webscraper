@@ -1,0 +1,5 @@
+OUTPUTFOLDERNAME: 'output'
+OUTPUTFILENAME_FR: 'fr_most_used_verbs_conjugation'
+OUTPUTFILENAME_ENG: 'eng_most_used_verbs_conjugation'
+HOME_URL_FR: 'https://www.gymglish.com/fr/conjugaison/vatefaireconjuguer/'
+HOME_URL_ENG: 'https://www.gymglish.com/fr/conjugaison/anglais'
