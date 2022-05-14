@@ -63,10 +63,12 @@ def export_to_sqlite(data, db_path, db_name='ConjugationMostUsedVerbs.db', heade
         - List containing columnns headers
     """
 
-    if len(headers) != 4:
-        raise Exception('headers must receive a list with 4 elements')
+    if not isinstance(headers, list):
+        raise Exception('The argument "header" must be a list')
+    elif len(headers) != 4:
+        raise Exception('The argument "headers" must has 4 elements')
     elif not all(isinstance(header, str) for header in headers):
-        raise Exception('All elements of headers must be a str instance')
+        raise Exception('All elements of the argument "headers" must be strings')
 
     data_for_dataframe = list()
 
