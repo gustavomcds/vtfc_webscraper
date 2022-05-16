@@ -15,13 +15,12 @@ def get_most_used_verbs(url) -> dict:
     page = requests.get(url)
 
     html = BeautifulSoup(page.text, 'html.parser')
-
     list_verbs = html.find('div', class_='verb-list').find('div', class_='text').find_all('a', class_='verb')
 
     dict_verbs = dict()
 
     for verb in list_verbs:
-        dict_verbs[verb.text] = 'https://www.gymglish.com' + verb['href']
+        dict_verbs[verb.string] = 'https://www.gymglish.com' + verb['href']
 
     return dict_verbs
 
@@ -47,7 +46,7 @@ def get_one_verb_conjugation(url, strip_conjug_verb) -> dict:
 
     for tense in all_tenses:    
 
-        dict_verb_conjugations[tense.find('h3', class_='tense-name').text] = list()
+        dict_verb_conjugations[tense.find('h3', class_='tense-name').string] = list()
 
         conjugations = tense.find('ul', class_='conjucation-forms').find_all('li')
 
@@ -55,10 +54,10 @@ def get_one_verb_conjugation(url, strip_conjug_verb) -> dict:
 
             try:
 
-                dict_verb_conjugations[tense.find('h3', class_='tense-name').text].append(
+                dict_verb_conjugations[tense.find('h3', class_='tense-name').string].append(
                     {
                         'pronoun' : conjugation.find(text=True).lstrip(), 
-                        'conjugated_verb' : conjugation.find('span').text.strip() if strip_conjug_verb else conjugation.find('span').text
+                        'conjugated_verb' : conjugation.find('span').string.strip() if strip_conjug_verb else conjugation.find('span').string
                     }
                 )
 

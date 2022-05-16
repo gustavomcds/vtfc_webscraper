@@ -1,0 +1,5302 @@
+Verb,Tense,Pronoun,ConjugatedVerb
+Être,Présent,je ,suis
+Être,Présent,tu ,es
+Être,Présent,il ,est
+Être,Présent,nous ,sommes
+Être,Présent,vous ,êtes
+Être,Présent,ils ,sont
+Être,Passé composé,j'ai ,été
+Être,Passé composé,tu as ,été
+Être,Passé composé,il a ,été
+Être,Passé composé,nous avons ,été
+Être,Passé composé,vous avez ,été
+Être,Passé composé,ils ont ,été
+Être,Imparfait,j',étais
+Être,Imparfait,tu ,étais
+Être,Imparfait,il ,était
+Être,Imparfait,nous ,étions
+Être,Imparfait,vous ,étiez
+Être,Imparfait,ils ,étaient
+Être,Plus-que-parfait,j'avais ,été
+Être,Plus-que-parfait,tu avais ,été
+Être,Plus-que-parfait,il avait ,été
+Être,Plus-que-parfait,nous avions ,été
+Être,Plus-que-parfait,vous aviez ,été
+Être,Plus-que-parfait,ils avaient ,été
+Être,Passé simple,je ,fus
+Être,Passé simple,tu ,fus
+Être,Passé simple,il ,fut
+Être,Passé simple,nous ,fûmes
+Être,Passé simple,vous ,fûtes
+Être,Passé simple,ils ,furent
+Être,Passé antérieur,j'eus ,été
+Être,Passé antérieur,tu eus ,été
+Être,Passé antérieur,il eut ,été
+Être,Passé antérieur,nous eûmes ,été
+Être,Passé antérieur,vous eûtes ,été
+Être,Passé antérieur,ils eurent ,été
+Être,Futur,je ,serai
+Être,Futur,tu ,seras
+Être,Futur,il ,sera
+Être,Futur,nous ,serons
+Être,Futur,vous ,serez
+Être,Futur,ils ,seront
+Être,Futur antérieur,j'aurai ,été
+Être,Futur antérieur,tu auras ,été
+Être,Futur antérieur,il aura ,été
+Être,Futur antérieur,nous aurons ,été
+Être,Futur antérieur,vous aurez ,été
+Être,Futur antérieur,ils auront ,été
+Être,Futur proche,je vais ,être
+Être,Futur proche,tu vas ,être
+Être,Futur proche,il va ,être
+Être,Futur proche,nous allons ,être
+Être,Futur proche,vous allez ,être
+Être,Futur proche,ils vont ,être
+Avoir,Présent,j',ai
+Avoir,Présent,tu ,as
+Avoir,Présent,il ,a
+Avoir,Présent,nous ,avons
+Avoir,Présent,vous ,avez
+Avoir,Présent,ils ,ont
+Avoir,Passé composé,j'ai ,eu
+Avoir,Passé composé,tu as ,eu
+Avoir,Passé composé,il a ,eu
+Avoir,Passé composé,nous avons ,eu
+Avoir,Passé composé,vous avez ,eu
+Avoir,Passé composé,ils ont ,eu
+Avoir,Imparfait,j',avais
+Avoir,Imparfait,tu ,avais
+Avoir,Imparfait,il ,avait
+Avoir,Imparfait,nous ,avions
+Avoir,Imparfait,vous ,aviez
+Avoir,Imparfait,ils ,avaient
+Avoir,Plus-que-parfait,j'avais ,eu
+Avoir,Plus-que-parfait,tu avais ,eu
+Avoir,Plus-que-parfait,il avait ,eu
+Avoir,Plus-que-parfait,nous avions ,eu
+Avoir,Plus-que-parfait,vous aviez ,eu
+Avoir,Plus-que-parfait,ils avaient ,eu
+Avoir,Passé simple,j',eus
+Avoir,Passé simple,tu ,eus
+Avoir,Passé simple,il ,eut
+Avoir,Passé simple,nous ,eûmes
+Avoir,Passé simple,vous ,eûtes
+Avoir,Passé simple,ils ,eurent
+Avoir,Passé antérieur,j'eus ,eu
+Avoir,Passé antérieur,tu eus ,eu
+Avoir,Passé antérieur,il eut ,eu
+Avoir,Passé antérieur,nous eûmes ,eu
+Avoir,Passé antérieur,vous eûtes ,eu
+Avoir,Passé antérieur,ils eurent ,eu
+Avoir,Futur,j',aurai
+Avoir,Futur,tu ,auras
+Avoir,Futur,il ,aura
+Avoir,Futur,nous ,aurons
+Avoir,Futur,vous ,aurez
+Avoir,Futur,ils ,auront
+Avoir,Futur antérieur,j'aurai ,eu
+Avoir,Futur antérieur,tu auras ,eu
+Avoir,Futur antérieur,il aura ,eu
+Avoir,Futur antérieur,nous aurons ,eu
+Avoir,Futur antérieur,vous aurez ,eu
+Avoir,Futur antérieur,ils auront ,eu
+Avoir,Futur proche,je vais ,avoir
+Avoir,Futur proche,tu vas ,avoir
+Avoir,Futur proche,il va ,avoir
+Avoir,Futur proche,nous allons ,avoir
+Avoir,Futur proche,vous allez ,avoir
+Avoir,Futur proche,ils vont ,avoir
+Faire,Présent,je f,ais
+Faire,Présent,tu f,ais
+Faire,Présent,il f,ait
+Faire,Présent,nous f,aisons
+Faire,Présent,vous f,aites
+Faire,Présent,ils f,ont
+Faire,Passé composé,j'ai f,ait
+Faire,Passé composé,tu as f,ait
+Faire,Passé composé,il a f,ait
+Faire,Passé composé,nous avons f,ait
+Faire,Passé composé,vous avez f,ait
+Faire,Passé composé,ils ont f,ait
+Faire,Imparfait,je f,aisais
+Faire,Imparfait,tu f,aisais
+Faire,Imparfait,il f,aisait
+Faire,Imparfait,nous f,aisions
+Faire,Imparfait,vous f,aisiez
+Faire,Imparfait,ils f,aisaient
+Faire,Plus-que-parfait,j'avais f,ait
+Faire,Plus-que-parfait,tu avais f,ait
+Faire,Plus-que-parfait,il avait f,ait
+Faire,Plus-que-parfait,nous avions f,ait
+Faire,Plus-que-parfait,vous aviez f,ait
+Faire,Plus-que-parfait,ils avaient f,ait
+Faire,Passé simple,je f,is
+Faire,Passé simple,tu f,is
+Faire,Passé simple,il f,it
+Faire,Passé simple,nous f,îmes
+Faire,Passé simple,vous f,îtes
+Faire,Passé simple,ils f,irent
+Faire,Passé antérieur,j'eus f,ait
+Faire,Passé antérieur,tu eus f,ait
+Faire,Passé antérieur,il eut f,ait
+Faire,Passé antérieur,nous eûmes f,ait
+Faire,Passé antérieur,vous eûtes f,ait
+Faire,Passé antérieur,ils eurent f,ait
+Faire,Futur,je f,erai
+Faire,Futur,tu f,eras
+Faire,Futur,il f,era
+Faire,Futur,nous f,erons
+Faire,Futur,vous f,erez
+Faire,Futur,ils f,eront
+Faire,Futur antérieur,j'aurai f,ait
+Faire,Futur antérieur,tu auras f,ait
+Faire,Futur antérieur,il aura f,ait
+Faire,Futur antérieur,nous aurons f,ait
+Faire,Futur antérieur,vous aurez f,ait
+Faire,Futur antérieur,ils auront f,ait
+Faire,Futur proche,je vais f,aire
+Faire,Futur proche,tu vas f,aire
+Faire,Futur proche,il va f,aire
+Faire,Futur proche,nous allons f,aire
+Faire,Futur proche,vous allez f,aire
+Faire,Futur proche,ils vont f,aire
+Dire,Présent,je d,is
+Dire,Présent,tu d,is
+Dire,Présent,il d,it
+Dire,Présent,nous d,isons
+Dire,Présent,vous d,ites
+Dire,Présent,ils d,isent
+Dire,Passé composé,j'ai d,it
+Dire,Passé composé,tu as d,it
+Dire,Passé composé,il a d,it
+Dire,Passé composé,nous avons d,it
+Dire,Passé composé,vous avez d,it
+Dire,Passé composé,ils ont d,it
+Dire,Imparfait,je d,isais
+Dire,Imparfait,tu d,isais
+Dire,Imparfait,il d,isait
+Dire,Imparfait,nous d,isions
+Dire,Imparfait,vous d,isiez
+Dire,Imparfait,ils d,isaient
+Dire,Plus-que-parfait,j'avais d,it
+Dire,Plus-que-parfait,tu avais d,it
+Dire,Plus-que-parfait,il avait d,it
+Dire,Plus-que-parfait,nous avions d,it
+Dire,Plus-que-parfait,vous aviez d,it
+Dire,Plus-que-parfait,ils avaient d,it
+Dire,Passé simple,je d,is
+Dire,Passé simple,tu d,is
+Dire,Passé simple,il d,it
+Dire,Passé simple,nous d,îmes
+Dire,Passé simple,vous d,îtes
+Dire,Passé simple,ils d,irent
+Dire,Passé antérieur,j'eus d,it
+Dire,Passé antérieur,tu eus d,it
+Dire,Passé antérieur,il eut d,it
+Dire,Passé antérieur,nous eûmes d,it
+Dire,Passé antérieur,vous eûtes d,it
+Dire,Passé antérieur,ils eurent d,it
+Dire,Futur,je d,irai
+Dire,Futur,tu d,iras
+Dire,Futur,il d,ira
+Dire,Futur,nous d,irons
+Dire,Futur,vous d,irez
+Dire,Futur,ils d,iront
+Dire,Futur antérieur,j'aurai d,it
+Dire,Futur antérieur,tu auras d,it
+Dire,Futur antérieur,il aura d,it
+Dire,Futur antérieur,nous aurons d,it
+Dire,Futur antérieur,vous aurez d,it
+Dire,Futur antérieur,ils auront d,it
+Dire,Futur proche,je vais d,ire
+Dire,Futur proche,tu vas d,ire
+Dire,Futur proche,il va d,ire
+Dire,Futur proche,nous allons d,ire
+Dire,Futur proche,vous allez d,ire
+Dire,Futur proche,ils vont d,ire
+Pouvoir,Présent,je p,eux
+Pouvoir,Présent,tu p,eux
+Pouvoir,Présent,il p,eut
+Pouvoir,Présent,nous p,ouvons
+Pouvoir,Présent,vous p,ouvez
+Pouvoir,Présent,ils p,euvent
+Pouvoir,Passé composé,j'ai p,u
+Pouvoir,Passé composé,tu as p,u
+Pouvoir,Passé composé,il a p,u
+Pouvoir,Passé composé,nous avons p,u
+Pouvoir,Passé composé,vous avez p,u
+Pouvoir,Passé composé,ils ont p,u
+Pouvoir,Imparfait,je p,ouvais
+Pouvoir,Imparfait,tu p,ouvais
+Pouvoir,Imparfait,il p,ouvait
+Pouvoir,Imparfait,nous p,ouvions
+Pouvoir,Imparfait,vous p,ouviez
+Pouvoir,Imparfait,ils p,ouvaient
+Pouvoir,Plus-que-parfait,j'avais p,u
+Pouvoir,Plus-que-parfait,tu avais p,u
+Pouvoir,Plus-que-parfait,il avait p,u
+Pouvoir,Plus-que-parfait,nous avions p,u
+Pouvoir,Plus-que-parfait,vous aviez p,u
+Pouvoir,Plus-que-parfait,ils avaient p,u
+Pouvoir,Passé simple,je p,us
+Pouvoir,Passé simple,tu p,us
+Pouvoir,Passé simple,il p,ut
+Pouvoir,Passé simple,nous p,ûmes
+Pouvoir,Passé simple,vous p,ûtes
+Pouvoir,Passé simple,ils p,urent
+Pouvoir,Passé antérieur,j'eus p,u
+Pouvoir,Passé antérieur,tu eus p,u
+Pouvoir,Passé antérieur,il eut p,u
+Pouvoir,Passé antérieur,nous eûmes p,u
+Pouvoir,Passé antérieur,vous eûtes p,u
+Pouvoir,Passé antérieur,ils eurent p,u
+Pouvoir,Futur,je p,ourrai
+Pouvoir,Futur,tu p,ourras
+Pouvoir,Futur,il p,ourra
+Pouvoir,Futur,nous p,ourrons
+Pouvoir,Futur,vous p,ourrez
+Pouvoir,Futur,ils p,ourront
+Pouvoir,Futur antérieur,j'aurai p,u
+Pouvoir,Futur antérieur,tu auras p,u
+Pouvoir,Futur antérieur,il aura p,u
+Pouvoir,Futur antérieur,nous aurons p,u
+Pouvoir,Futur antérieur,vous aurez p,u
+Pouvoir,Futur antérieur,ils auront p,u
+Pouvoir,Futur proche,je vais p,ouvoir
+Pouvoir,Futur proche,tu vas p,ouvoir
+Pouvoir,Futur proche,il va p,ouvoir
+Pouvoir,Futur proche,nous allons p,ouvoir
+Pouvoir,Futur proche,vous allez p,ouvoir
+Pouvoir,Futur proche,ils vont p,ouvoir
+Aller,Présent,je ,vais
+Aller,Présent,tu ,vas
+Aller,Présent,il ,va
+Aller,Présent,nous ,allons
+Aller,Présent,vous ,allez
+Aller,Présent,ils ,vont
+Aller,Passé composé,je suis ,allé
+Aller,Passé composé,tu es ,allé
+Aller,Passé composé,il est ,allé
+Aller,Passé composé,nous sommes ,allés
+Aller,Passé composé,vous êtes ,allés
+Aller,Passé composé,ils sont ,allés
+Aller,Imparfait,j',allais
+Aller,Imparfait,tu ,allais
+Aller,Imparfait,il ,allait
+Aller,Imparfait,nous ,allions
+Aller,Imparfait,vous ,alliez
+Aller,Imparfait,ils ,allaient
+Aller,Plus-que-parfait,j'étais ,allé
+Aller,Plus-que-parfait,tu étais ,allé
+Aller,Plus-que-parfait,il était ,allé
+Aller,Plus-que-parfait,nous étions ,allés
+Aller,Plus-que-parfait,vous étiez ,allés
+Aller,Plus-que-parfait,ils étaient ,allés
+Aller,Passé simple,j',allai
+Aller,Passé simple,tu ,allas
+Aller,Passé simple,il ,alla
+Aller,Passé simple,nous ,allâmes
+Aller,Passé simple,vous ,allâtes
+Aller,Passé simple,ils ,allèrent
+Aller,Passé antérieur,je fus ,allé
+Aller,Passé antérieur,tu fus ,allé
+Aller,Passé antérieur,il fut ,allé
+Aller,Passé antérieur,nous fûmes ,allés
+Aller,Passé antérieur,vous fûtes ,allés
+Aller,Passé antérieur,ils furent ,allés
+Aller,Futur,j',irai
+Aller,Futur,tu ,iras
+Aller,Futur,il ,ira
+Aller,Futur,nous ,irons
+Aller,Futur,vous ,irez
+Aller,Futur,ils ,iront
+Aller,Futur antérieur,je serai ,allé
+Aller,Futur antérieur,tu seras ,allé
+Aller,Futur antérieur,il sera ,allé
+Aller,Futur antérieur,nous serons ,allés
+Aller,Futur antérieur,vous serez ,allés
+Aller,Futur antérieur,ils seront ,allés
+Aller,Futur proche,je vais ,aller
+Aller,Futur proche,tu vas ,aller
+Aller,Futur proche,il va ,aller
+Aller,Futur proche,nous allons ,aller
+Aller,Futur proche,vous allez ,aller
+Aller,Futur proche,ils vont ,aller
+Voir,Présent,je v,ois
+Voir,Présent,tu v,ois
+Voir,Présent,il v,oit
+Voir,Présent,nous v,oyons
+Voir,Présent,vous v,oyez
+Voir,Présent,ils v,oient
+Voir,Passé composé,j'ai v,u
+Voir,Passé composé,tu as v,u
+Voir,Passé composé,il a v,u
+Voir,Passé composé,nous avons v,u
+Voir,Passé composé,vous avez v,u
+Voir,Passé composé,ils ont v,u
+Voir,Imparfait,je v,oyais
+Voir,Imparfait,tu v,oyais
+Voir,Imparfait,il v,oyait
+Voir,Imparfait,nous v,oyions
+Voir,Imparfait,vous v,oyiez
+Voir,Imparfait,ils v,oyaient
+Voir,Plus-que-parfait,j'avais v,u
+Voir,Plus-que-parfait,tu avais v,u
+Voir,Plus-que-parfait,il avait v,u
+Voir,Plus-que-parfait,nous avions v,u
+Voir,Plus-que-parfait,vous aviez v,u
+Voir,Plus-que-parfait,ils avaient v,u
+Voir,Passé simple,je v,is
+Voir,Passé simple,tu v,is
+Voir,Passé simple,il v,it
+Voir,Passé simple,nous v,îmes
+Voir,Passé simple,vous v,îtes
+Voir,Passé simple,ils v,irent
+Voir,Passé antérieur,j'eus v,u
+Voir,Passé antérieur,tu eus v,u
+Voir,Passé antérieur,il eut v,u
+Voir,Passé antérieur,nous eûmes v,u
+Voir,Passé antérieur,vous eûtes v,u
+Voir,Passé antérieur,ils eurent v,u
+Voir,Futur,je v,errai
+Voir,Futur,tu v,erras
+Voir,Futur,il v,erra
+Voir,Futur,nous v,errons
+Voir,Futur,vous v,errez
+Voir,Futur,ils v,erront
+Voir,Futur antérieur,j'aurai v,u
+Voir,Futur antérieur,tu auras v,u
+Voir,Futur antérieur,il aura v,u
+Voir,Futur antérieur,nous aurons v,u
+Voir,Futur antérieur,vous aurez v,u
+Voir,Futur antérieur,ils auront v,u
+Voir,Futur proche,je vais v,oir
+Voir,Futur proche,tu vas v,oir
+Voir,Futur proche,il va v,oir
+Voir,Futur proche,nous allons v,oir
+Voir,Futur proche,vous allez v,oir
+Voir,Futur proche,ils vont v,oir
+Savoir,Présent,je s,ais
+Savoir,Présent,tu s,ais
+Savoir,Présent,il s,ait
+Savoir,Présent,nous s,avons
+Savoir,Présent,vous s,avez
+Savoir,Présent,ils s,avent
+Savoir,Passé composé,j'ai s,u
+Savoir,Passé composé,tu as s,u
+Savoir,Passé composé,il a s,u
+Savoir,Passé composé,nous avons s,u
+Savoir,Passé composé,vous avez s,u
+Savoir,Passé composé,ils ont s,u
+Savoir,Imparfait,je s,avais
+Savoir,Imparfait,tu s,avais
+Savoir,Imparfait,il s,avait
+Savoir,Imparfait,nous s,avions
+Savoir,Imparfait,vous s,aviez
+Savoir,Imparfait,ils s,avaient
+Savoir,Plus-que-parfait,j'avais s,u
+Savoir,Plus-que-parfait,tu avais s,u
+Savoir,Plus-que-parfait,il avait s,u
+Savoir,Plus-que-parfait,nous avions s,u
+Savoir,Plus-que-parfait,vous aviez s,u
+Savoir,Plus-que-parfait,ils avaient s,u
+Savoir,Passé simple,je s,us
+Savoir,Passé simple,tu s,us
+Savoir,Passé simple,il s,ut
+Savoir,Passé simple,nous s,ûmes
+Savoir,Passé simple,vous s,ûtes
+Savoir,Passé simple,ils s,urent
+Savoir,Passé antérieur,j'eus s,u
+Savoir,Passé antérieur,tu eus s,u
+Savoir,Passé antérieur,il eut s,u
+Savoir,Passé antérieur,nous eûmes s,u
+Savoir,Passé antérieur,vous eûtes s,u
+Savoir,Passé antérieur,ils eurent s,u
+Savoir,Futur,je s,aurai
+Savoir,Futur,tu s,auras
+Savoir,Futur,il s,aura
+Savoir,Futur,nous s,aurons
+Savoir,Futur,vous s,aurez
+Savoir,Futur,ils s,auront
+Savoir,Futur antérieur,j'aurai s,u
+Savoir,Futur antérieur,tu auras s,u
+Savoir,Futur antérieur,il aura s,u
+Savoir,Futur antérieur,nous aurons s,u
+Savoir,Futur antérieur,vous aurez s,u
+Savoir,Futur antérieur,ils auront s,u
+Savoir,Futur proche,je vais s,avoir
+Savoir,Futur proche,tu vas s,avoir
+Savoir,Futur proche,il va s,avoir
+Savoir,Futur proche,nous allons s,avoir
+Savoir,Futur proche,vous allez s,avoir
+Savoir,Futur proche,ils vont s,avoir
+Vouloir,Présent,je v,eux
+Vouloir,Présent,tu v,eux
+Vouloir,Présent,il v,eut
+Vouloir,Présent,nous v,oulons
+Vouloir,Présent,vous v,oulez
+Vouloir,Présent,ils v,eulent
+Vouloir,Passé composé,j'ai v,oulu
+Vouloir,Passé composé,tu as v,oulu
+Vouloir,Passé composé,il a v,oulu
+Vouloir,Passé composé,nous avons v,oulu
+Vouloir,Passé composé,vous avez v,oulu
+Vouloir,Passé composé,ils ont v,oulu
+Vouloir,Imparfait,je v,oulais
+Vouloir,Imparfait,tu v,oulais
+Vouloir,Imparfait,il v,oulait
+Vouloir,Imparfait,nous v,oulions
+Vouloir,Imparfait,vous v,ouliez
+Vouloir,Imparfait,ils v,oulaient
+Vouloir,Plus-que-parfait,j'avais v,oulu
+Vouloir,Plus-que-parfait,tu avais v,oulu
+Vouloir,Plus-que-parfait,il avait v,oulu
+Vouloir,Plus-que-parfait,nous avions v,oulu
+Vouloir,Plus-que-parfait,vous aviez v,oulu
+Vouloir,Plus-que-parfait,ils avaient v,oulu
+Vouloir,Passé simple,je v,oulus
+Vouloir,Passé simple,tu v,oulus
+Vouloir,Passé simple,il v,oulut
+Vouloir,Passé simple,nous v,oulûmes
+Vouloir,Passé simple,vous v,oulûtes
+Vouloir,Passé simple,ils v,oulurent
+Vouloir,Passé antérieur,j'eus v,oulu
+Vouloir,Passé antérieur,tu eus v,oulu
+Vouloir,Passé antérieur,il eut v,oulu
+Vouloir,Passé antérieur,nous eûmes v,oulu
+Vouloir,Passé antérieur,vous eûtes v,oulu
+Vouloir,Passé antérieur,ils eurent v,oulu
+Vouloir,Futur,je v,oudrai
+Vouloir,Futur,tu v,oudras
+Vouloir,Futur,il v,oudra
+Vouloir,Futur,nous v,oudrons
+Vouloir,Futur,vous v,oudrez
+Vouloir,Futur,ils v,oudront
+Vouloir,Futur antérieur,j'aurai v,oulu
+Vouloir,Futur antérieur,tu auras v,oulu
+Vouloir,Futur antérieur,il aura v,oulu
+Vouloir,Futur antérieur,nous aurons v,oulu
+Vouloir,Futur antérieur,vous aurez v,oulu
+Vouloir,Futur antérieur,ils auront v,oulu
+Vouloir,Futur proche,je vais v,ouloir
+Vouloir,Futur proche,tu vas v,ouloir
+Vouloir,Futur proche,il va v,ouloir
+Vouloir,Futur proche,nous allons v,ouloir
+Vouloir,Futur proche,vous allez v,ouloir
+Vouloir,Futur proche,ils vont v,ouloir
+Venir,Présent,je v,iens
+Venir,Présent,tu v,iens
+Venir,Présent,il v,ient
+Venir,Présent,nous v,enons
+Venir,Présent,vous v,enez
+Venir,Présent,ils v,iennent
+Venir,Passé composé,je suis v,enu
+Venir,Passé composé,tu es v,enu
+Venir,Passé composé,il est v,enu
+Venir,Passé composé,nous sommes v,enus
+Venir,Passé composé,vous êtes v,enus
+Venir,Passé composé,ils sont v,enus
+Venir,Imparfait,je v,enais
+Venir,Imparfait,tu v,enais
+Venir,Imparfait,il v,enait
+Venir,Imparfait,nous v,enions
+Venir,Imparfait,vous v,eniez
+Venir,Imparfait,ils v,enaient
+Venir,Plus-que-parfait,j'étais v,enu
+Venir,Plus-que-parfait,tu étais v,enu
+Venir,Plus-que-parfait,il était v,enu
+Venir,Plus-que-parfait,nous étions v,enus
+Venir,Plus-que-parfait,vous étiez v,enus
+Venir,Plus-que-parfait,ils étaient v,enus
+Venir,Passé simple,je v,ins
+Venir,Passé simple,tu v,ins
+Venir,Passé simple,il v,int
+Venir,Passé simple,nous v,înmes
+Venir,Passé simple,vous v,întes
+Venir,Passé simple,ils v,inrent
+Venir,Passé antérieur,je fus v,enu
+Venir,Passé antérieur,tu fus v,enu
+Venir,Passé antérieur,il fut v,enu
+Venir,Passé antérieur,nous fûmes v,enus
+Venir,Passé antérieur,vous fûtes v,enus
+Venir,Passé antérieur,ils furent v,enus
+Venir,Futur,je v,iendrai
+Venir,Futur,tu v,iendras
+Venir,Futur,il v,iendra
+Venir,Futur,nous v,iendrons
+Venir,Futur,vous v,iendrez
+Venir,Futur,ils v,iendront
+Venir,Futur antérieur,je serai v,enu
+Venir,Futur antérieur,tu seras v,enu
+Venir,Futur antérieur,il sera v,enu
+Venir,Futur antérieur,nous serons v,enus
+Venir,Futur antérieur,vous serez v,enus
+Venir,Futur antérieur,ils seront v,enus
+Venir,Futur proche,je vais v,enir
+Venir,Futur proche,tu vas v,enir
+Venir,Futur proche,il va v,enir
+Venir,Futur proche,nous allons v,enir
+Venir,Futur proche,vous allez v,enir
+Venir,Futur proche,ils vont v,enir
+Falloir,Présent,il fa,ut
+Falloir,Passé composé,il a fa,llu
+Falloir,Imparfait,il fa,llait
+Falloir,Plus-que-parfait,il avait fa,llu
+Falloir,Passé simple,il fa,llut
+Falloir,Passé antérieur,il eut fa,llu
+Falloir,Futur,il fa,udra
+Falloir,Futur antérieur,il aura fa,llu
+Falloir,Futur proche,il va fa,lloir
+Devoir,Présent,je d,ois
+Devoir,Présent,tu d,ois
+Devoir,Présent,il d,oit
+Devoir,Présent,nous d,evons
+Devoir,Présent,vous d,evez
+Devoir,Présent,ils d,oivent
+Devoir,Passé composé,j'ai d,û
+Devoir,Passé composé,tu as d,û
+Devoir,Passé composé,il a d,û
+Devoir,Passé composé,nous avons d,û
+Devoir,Passé composé,vous avez d,û
+Devoir,Passé composé,ils ont d,û
+Devoir,Imparfait,je d,evais
+Devoir,Imparfait,tu d,evais
+Devoir,Imparfait,il d,evait
+Devoir,Imparfait,nous d,evions
+Devoir,Imparfait,vous d,eviez
+Devoir,Imparfait,ils d,evaient
+Devoir,Plus-que-parfait,j'avais d,û
+Devoir,Plus-que-parfait,tu avais d,û
+Devoir,Plus-que-parfait,il avait d,û
+Devoir,Plus-que-parfait,nous avions d,û
+Devoir,Plus-que-parfait,vous aviez d,û
+Devoir,Plus-que-parfait,ils avaient d,û
+Devoir,Passé simple,je d,us
+Devoir,Passé simple,tu d,us
+Devoir,Passé simple,il d,ut
+Devoir,Passé simple,nous d,ûmes
+Devoir,Passé simple,vous d,ûtes
+Devoir,Passé simple,ils d,urent
+Devoir,Passé antérieur,j'eus d,û
+Devoir,Passé antérieur,tu eus d,û
+Devoir,Passé antérieur,il eut d,û
+Devoir,Passé antérieur,nous eûmes d,û
+Devoir,Passé antérieur,vous eûtes d,û
+Devoir,Passé antérieur,ils eurent d,û
+Devoir,Futur,je d,evrai
+Devoir,Futur,tu d,evras
+Devoir,Futur,il d,evra
+Devoir,Futur,nous d,evrons
+Devoir,Futur,vous d,evrez
+Devoir,Futur,ils d,evront
+Devoir,Futur antérieur,j'aurai d,û
+Devoir,Futur antérieur,tu auras d,û
+Devoir,Futur antérieur,il aura d,û
+Devoir,Futur antérieur,nous aurons d,û
+Devoir,Futur antérieur,vous aurez d,û
+Devoir,Futur antérieur,ils auront d,û
+Devoir,Futur proche,je vais d,evoir
+Devoir,Futur proche,tu vas d,evoir
+Devoir,Futur proche,il va d,evoir
+Devoir,Futur proche,nous allons d,evoir
+Devoir,Futur proche,vous allez d,evoir
+Devoir,Futur proche,ils vont d,evoir
+Croire,Présent,je cr,ois
+Croire,Présent,tu cr,ois
+Croire,Présent,il cr,oit
+Croire,Présent,nous cr,oyons
+Croire,Présent,vous cr,oyez
+Croire,Présent,ils cr,oient
+Croire,Passé composé,j'ai cr,u
+Croire,Passé composé,tu as cr,u
+Croire,Passé composé,il a cr,u
+Croire,Passé composé,nous avons cr,u
+Croire,Passé composé,vous avez cr,u
+Croire,Passé composé,ils ont cr,u
+Croire,Imparfait,je cr,oyais
+Croire,Imparfait,tu cr,oyais
+Croire,Imparfait,il cr,oyait
+Croire,Imparfait,nous cr,oyions
+Croire,Imparfait,vous cr,oyiez
+Croire,Imparfait,ils cr,oyaient
+Croire,Plus-que-parfait,j'avais cr,u
+Croire,Plus-que-parfait,tu avais cr,u
+Croire,Plus-que-parfait,il avait cr,u
+Croire,Plus-que-parfait,nous avions cr,u
+Croire,Plus-que-parfait,vous aviez cr,u
+Croire,Plus-que-parfait,ils avaient cr,u
+Croire,Passé simple,je cr,us
+Croire,Passé simple,tu cr,us
+Croire,Passé simple,il cr,ut
+Croire,Passé simple,nous cr,ûmes
+Croire,Passé simple,vous cr,ûtes
+Croire,Passé simple,ils cr,urent
+Croire,Passé antérieur,j'eus cr,u
+Croire,Passé antérieur,tu eus cr,u
+Croire,Passé antérieur,il eut cr,u
+Croire,Passé antérieur,nous eûmes cr,u
+Croire,Passé antérieur,vous eûtes cr,u
+Croire,Passé antérieur,ils eurent cr,u
+Croire,Futur,je cr,oirai
+Croire,Futur,tu cr,oiras
+Croire,Futur,il cr,oira
+Croire,Futur,nous cr,oirons
+Croire,Futur,vous cr,oirez
+Croire,Futur,ils cr,oiront
+Croire,Futur antérieur,j'aurai cr,u
+Croire,Futur antérieur,tu auras cr,u
+Croire,Futur antérieur,il aura cr,u
+Croire,Futur antérieur,nous aurons cr,u
+Croire,Futur antérieur,vous aurez cr,u
+Croire,Futur antérieur,ils auront cr,u
+Croire,Futur proche,je vais cr,oire
+Croire,Futur proche,tu vas cr,oire
+Croire,Futur proche,il va cr,oire
+Croire,Futur proche,nous allons cr,oire
+Croire,Futur proche,vous allez cr,oire
+Croire,Futur proche,ils vont cr,oire
+Trouver,Présent,je trouv,e
+Trouver,Présent,tu trouv,es
+Trouver,Présent,il trouv,e
+Trouver,Présent,nous trouv,ons
+Trouver,Présent,vous trouv,ez
+Trouver,Présent,ils trouv,ent
+Trouver,Passé composé,j'ai trouv,é
+Trouver,Passé composé,tu as trouv,é
+Trouver,Passé composé,il a trouv,é
+Trouver,Passé composé,nous avons trouv,é
+Trouver,Passé composé,vous avez trouv,é
+Trouver,Passé composé,ils ont trouv,é
+Trouver,Imparfait,je trouv,ais
+Trouver,Imparfait,tu trouv,ais
+Trouver,Imparfait,il trouv,ait
+Trouver,Imparfait,nous trouv,ions
+Trouver,Imparfait,vous trouv,iez
+Trouver,Imparfait,ils trouv,aient
+Trouver,Plus-que-parfait,j'avais trouv,é
+Trouver,Plus-que-parfait,tu avais trouv,é
+Trouver,Plus-que-parfait,il avait trouv,é
+Trouver,Plus-que-parfait,nous avions trouv,é
+Trouver,Plus-que-parfait,vous aviez trouv,é
+Trouver,Plus-que-parfait,ils avaient trouv,é
+Trouver,Passé simple,je trouv,ai
+Trouver,Passé simple,tu trouv,as
+Trouver,Passé simple,il trouv,a
+Trouver,Passé simple,nous trouv,âmes
+Trouver,Passé simple,vous trouv,âtes
+Trouver,Passé simple,ils trouv,èrent
+Trouver,Passé antérieur,j'eus trouv,é
+Trouver,Passé antérieur,tu eus trouv,é
+Trouver,Passé antérieur,il eut trouv,é
+Trouver,Passé antérieur,nous eûmes trouv,é
+Trouver,Passé antérieur,vous eûtes trouv,é
+Trouver,Passé antérieur,ils eurent trouv,é
+Trouver,Futur,je trouv,erai
+Trouver,Futur,tu trouv,eras
+Trouver,Futur,il trouv,era
+Trouver,Futur,nous trouv,erons
+Trouver,Futur,vous trouv,erez
+Trouver,Futur,ils trouv,eront
+Trouver,Futur antérieur,j'aurai trouv,é
+Trouver,Futur antérieur,tu auras trouv,é
+Trouver,Futur antérieur,il aura trouv,é
+Trouver,Futur antérieur,nous aurons trouv,é
+Trouver,Futur antérieur,vous aurez trouv,é
+Trouver,Futur antérieur,ils auront trouv,é
+Trouver,Futur proche,je vais trouv,er
+Trouver,Futur proche,tu vas trouv,er
+Trouver,Futur proche,il va trouv,er
+Trouver,Futur proche,nous allons trouv,er
+Trouver,Futur proche,vous allez trouv,er
+Trouver,Futur proche,ils vont trouv,er
+Donner,Présent,je donn,e
+Donner,Présent,tu donn,es
+Donner,Présent,il donn,e
+Donner,Présent,nous donn,ons
+Donner,Présent,vous donn,ez
+Donner,Présent,ils donn,ent
+Donner,Passé composé,j'ai donn,é
+Donner,Passé composé,tu as donn,é
+Donner,Passé composé,il a donn,é
+Donner,Passé composé,nous avons donn,é
+Donner,Passé composé,vous avez donn,é
+Donner,Passé composé,ils ont donn,é
+Donner,Imparfait,je donn,ais
+Donner,Imparfait,tu donn,ais
+Donner,Imparfait,il donn,ait
+Donner,Imparfait,nous donn,ions
+Donner,Imparfait,vous donn,iez
+Donner,Imparfait,ils donn,aient
+Donner,Plus-que-parfait,j'avais donn,é
+Donner,Plus-que-parfait,tu avais donn,é
+Donner,Plus-que-parfait,il avait donn,é
+Donner,Plus-que-parfait,nous avions donn,é
+Donner,Plus-que-parfait,vous aviez donn,é
+Donner,Plus-que-parfait,ils avaient donn,é
+Donner,Passé simple,je donn,ai
+Donner,Passé simple,tu donn,as
+Donner,Passé simple,il donn,a
+Donner,Passé simple,nous donn,âmes
+Donner,Passé simple,vous donn,âtes
+Donner,Passé simple,ils donn,èrent
+Donner,Passé antérieur,j'eus donn,é
+Donner,Passé antérieur,tu eus donn,é
+Donner,Passé antérieur,il eut donn,é
+Donner,Passé antérieur,nous eûmes donn,é
+Donner,Passé antérieur,vous eûtes donn,é
+Donner,Passé antérieur,ils eurent donn,é
+Donner,Futur,je donn,erai
+Donner,Futur,tu donn,eras
+Donner,Futur,il donn,era
+Donner,Futur,nous donn,erons
+Donner,Futur,vous donn,erez
+Donner,Futur,ils donn,eront
+Donner,Futur antérieur,j'aurai donn,é
+Donner,Futur antérieur,tu auras donn,é
+Donner,Futur antérieur,il aura donn,é
+Donner,Futur antérieur,nous aurons donn,é
+Donner,Futur antérieur,vous aurez donn,é
+Donner,Futur antérieur,ils auront donn,é
+Donner,Futur proche,je vais donn,er
+Donner,Futur proche,tu vas donn,er
+Donner,Futur proche,il va donn,er
+Donner,Futur proche,nous allons donn,er
+Donner,Futur proche,vous allez donn,er
+Donner,Futur proche,ils vont donn,er
+Prendre,Présent,je pr,ends
+Prendre,Présent,tu pr,ends
+Prendre,Présent,il pr,end
+Prendre,Présent,nous pr,enons
+Prendre,Présent,vous pr,enez
+Prendre,Présent,ils pr,ennent
+Prendre,Passé composé,j'ai pr,is
+Prendre,Passé composé,tu as pr,is
+Prendre,Passé composé,il a pr,is
+Prendre,Passé composé,nous avons pr,is
+Prendre,Passé composé,vous avez pr,is
+Prendre,Passé composé,ils ont pr,is
+Prendre,Imparfait,je pr,enais
+Prendre,Imparfait,tu pr,enais
+Prendre,Imparfait,il pr,enait
+Prendre,Imparfait,nous pr,enions
+Prendre,Imparfait,vous pr,eniez
+Prendre,Imparfait,ils pr,enaient
+Prendre,Plus-que-parfait,j'avais pr,is
+Prendre,Plus-que-parfait,tu avais pr,is
+Prendre,Plus-que-parfait,il avait pr,is
+Prendre,Plus-que-parfait,nous avions pr,is
+Prendre,Plus-que-parfait,vous aviez pr,is
+Prendre,Plus-que-parfait,ils avaient pr,is
+Prendre,Passé simple,je pr,is
+Prendre,Passé simple,tu pr,is
+Prendre,Passé simple,il pr,it
+Prendre,Passé simple,nous pr,îmes
+Prendre,Passé simple,vous pr,îtes
+Prendre,Passé simple,ils pr,irent
+Prendre,Passé antérieur,j'eus pr,is
+Prendre,Passé antérieur,tu eus pr,is
+Prendre,Passé antérieur,il eut pr,is
+Prendre,Passé antérieur,nous eûmes pr,is
+Prendre,Passé antérieur,vous eûtes pr,is
+Prendre,Passé antérieur,ils eurent pr,is
+Prendre,Futur,je pr,endrai
+Prendre,Futur,tu pr,endras
+Prendre,Futur,il pr,endra
+Prendre,Futur,nous pr,endrons
+Prendre,Futur,vous pr,endrez
+Prendre,Futur,ils pr,endront
+Prendre,Futur antérieur,j'aurai pr,is
+Prendre,Futur antérieur,tu auras pr,is
+Prendre,Futur antérieur,il aura pr,is
+Prendre,Futur antérieur,nous aurons pr,is
+Prendre,Futur antérieur,vous aurez pr,is
+Prendre,Futur antérieur,ils auront pr,is
+Prendre,Futur proche,je vais pr,endre
+Prendre,Futur proche,tu vas pr,endre
+Prendre,Futur proche,il va pr,endre
+Prendre,Futur proche,nous allons pr,endre
+Prendre,Futur proche,vous allez pr,endre
+Prendre,Futur proche,ils vont pr,endre
+Parler,Présent,je parl,e
+Parler,Présent,tu parl,es
+Parler,Présent,il parl,e
+Parler,Présent,nous parl,ons
+Parler,Présent,vous parl,ez
+Parler,Présent,ils parl,ent
+Parler,Passé composé,j'ai parl,é
+Parler,Passé composé,tu as parl,é
+Parler,Passé composé,il a parl,é
+Parler,Passé composé,nous avons parl,é
+Parler,Passé composé,vous avez parl,é
+Parler,Passé composé,ils ont parl,é
+Parler,Imparfait,je parl,ais
+Parler,Imparfait,tu parl,ais
+Parler,Imparfait,il parl,ait
+Parler,Imparfait,nous parl,ions
+Parler,Imparfait,vous parl,iez
+Parler,Imparfait,ils parl,aient
+Parler,Plus-que-parfait,j'avais parl,é
+Parler,Plus-que-parfait,tu avais parl,é
+Parler,Plus-que-parfait,il avait parl,é
+Parler,Plus-que-parfait,nous avions parl,é
+Parler,Plus-que-parfait,vous aviez parl,é
+Parler,Plus-que-parfait,ils avaient parl,é
+Parler,Passé simple,je parl,ai
+Parler,Passé simple,tu parl,as
+Parler,Passé simple,il parl,a
+Parler,Passé simple,nous parl,âmes
+Parler,Passé simple,vous parl,âtes
+Parler,Passé simple,ils parl,èrent
+Parler,Passé antérieur,j'eus parl,é
+Parler,Passé antérieur,tu eus parl,é
+Parler,Passé antérieur,il eut parl,é
+Parler,Passé antérieur,nous eûmes parl,é
+Parler,Passé antérieur,vous eûtes parl,é
+Parler,Passé antérieur,ils eurent parl,é
+Parler,Futur,je parl,erai
+Parler,Futur,tu parl,eras
+Parler,Futur,il parl,era
+Parler,Futur,nous parl,erons
+Parler,Futur,vous parl,erez
+Parler,Futur,ils parl,eront
+Parler,Futur antérieur,j'aurai parl,é
+Parler,Futur antérieur,tu auras parl,é
+Parler,Futur antérieur,il aura parl,é
+Parler,Futur antérieur,nous aurons parl,é
+Parler,Futur antérieur,vous aurez parl,é
+Parler,Futur antérieur,ils auront parl,é
+Parler,Futur proche,je vais parl,er
+Parler,Futur proche,tu vas parl,er
+Parler,Futur proche,il va parl,er
+Parler,Futur proche,nous allons parl,er
+Parler,Futur proche,vous allez parl,er
+Parler,Futur proche,ils vont parl,er
+Aimer,Présent,j'aim,e
+Aimer,Présent,tu aim,es
+Aimer,Présent,il aim,e
+Aimer,Présent,nous aim,ons
+Aimer,Présent,vous aim,ez
+Aimer,Présent,ils aim,ent
+Aimer,Passé composé,j'ai aim,é
+Aimer,Passé composé,tu as aim,é
+Aimer,Passé composé,il a aim,é
+Aimer,Passé composé,nous avons aim,é
+Aimer,Passé composé,vous avez aim,é
+Aimer,Passé composé,ils ont aim,é
+Aimer,Imparfait,j'aim,ais
+Aimer,Imparfait,tu aim,ais
+Aimer,Imparfait,il aim,ait
+Aimer,Imparfait,nous aim,ions
+Aimer,Imparfait,vous aim,iez
+Aimer,Imparfait,ils aim,aient
+Aimer,Plus-que-parfait,j'avais aim,é
+Aimer,Plus-que-parfait,tu avais aim,é
+Aimer,Plus-que-parfait,il avait aim,é
+Aimer,Plus-que-parfait,nous avions aim,é
+Aimer,Plus-que-parfait,vous aviez aim,é
+Aimer,Plus-que-parfait,ils avaient aim,é
+Aimer,Passé simple,j'aim,ai
+Aimer,Passé simple,tu aim,as
+Aimer,Passé simple,il aim,a
+Aimer,Passé simple,nous aim,âmes
+Aimer,Passé simple,vous aim,âtes
+Aimer,Passé simple,ils aim,èrent
+Aimer,Passé antérieur,j'eus aim,é
+Aimer,Passé antérieur,tu eus aim,é
+Aimer,Passé antérieur,il eut aim,é
+Aimer,Passé antérieur,nous eûmes aim,é
+Aimer,Passé antérieur,vous eûtes aim,é
+Aimer,Passé antérieur,ils eurent aim,é
+Aimer,Futur,j'aim,erai
+Aimer,Futur,tu aim,eras
+Aimer,Futur,il aim,era
+Aimer,Futur,nous aim,erons
+Aimer,Futur,vous aim,erez
+Aimer,Futur,ils aim,eront
+Aimer,Futur antérieur,j'aurai aim,é
+Aimer,Futur antérieur,tu auras aim,é
+Aimer,Futur antérieur,il aura aim,é
+Aimer,Futur antérieur,nous aurons aim,é
+Aimer,Futur antérieur,vous aurez aim,é
+Aimer,Futur antérieur,ils auront aim,é
+Aimer,Futur proche,je vais aim,er
+Aimer,Futur proche,tu vas aim,er
+Aimer,Futur proche,il va aim,er
+Aimer,Futur proche,nous allons aim,er
+Aimer,Futur proche,vous allez aim,er
+Aimer,Futur proche,ils vont aim,er
+Passer,Présent,je pass,e
+Passer,Présent,tu pass,es
+Passer,Présent,il pass,e
+Passer,Présent,nous pass,ons
+Passer,Présent,vous pass,ez
+Passer,Présent,ils pass,ent
+Passer,Passé composé,je suis pass,é
+Passer,Passé composé,tu es pass,é
+Passer,Passé composé,il est pass,é
+Passer,Passé composé,nous sommes pass,és
+Passer,Passé composé,vous êtes pass,és
+Passer,Passé composé,ils sont pass,és
+Passer,Imparfait,je pass,ais
+Passer,Imparfait,tu pass,ais
+Passer,Imparfait,il pass,ait
+Passer,Imparfait,nous pass,ions
+Passer,Imparfait,vous pass,iez
+Passer,Imparfait,ils pass,aient
+Passer,Plus-que-parfait,j'étais pass,é
+Passer,Plus-que-parfait,tu étais pass,é
+Passer,Plus-que-parfait,il était pass,é
+Passer,Plus-que-parfait,nous étions pass,és
+Passer,Plus-que-parfait,vous étiez pass,és
+Passer,Plus-que-parfait,ils étaient pass,és
+Passer,Passé simple,je pass,ai
+Passer,Passé simple,tu pass,as
+Passer,Passé simple,il pass,a
+Passer,Passé simple,nous pass,âmes
+Passer,Passé simple,vous pass,âtes
+Passer,Passé simple,ils pass,èrent
+Passer,Passé antérieur,je fus pass,é
+Passer,Passé antérieur,tu fus pass,é
+Passer,Passé antérieur,il fut pass,é
+Passer,Passé antérieur,nous fûmes pass,és
+Passer,Passé antérieur,vous fûtes pass,és
+Passer,Passé antérieur,ils furent pass,és
+Passer,Futur,je pass,erai
+Passer,Futur,tu pass,eras
+Passer,Futur,il pass,era
+Passer,Futur,nous pass,erons
+Passer,Futur,vous pass,erez
+Passer,Futur,ils pass,eront
+Passer,Futur antérieur,je serai pass,é
+Passer,Futur antérieur,tu seras pass,é
+Passer,Futur antérieur,il sera pass,é
+Passer,Futur antérieur,nous serons pass,és
+Passer,Futur antérieur,vous serez pass,és
+Passer,Futur antérieur,ils seront pass,és
+Passer,Futur proche,je vais pass,er
+Passer,Futur proche,tu vas pass,er
+Passer,Futur proche,il va pass,er
+Passer,Futur proche,nous allons pass,er
+Passer,Futur proche,vous allez pass,er
+Passer,Futur proche,ils vont pass,er
+Mettre,Présent,je m,ets
+Mettre,Présent,tu m,ets
+Mettre,Présent,il m,et
+Mettre,Présent,nous m,ettons
+Mettre,Présent,vous m,ettez
+Mettre,Présent,ils m,ettent
+Mettre,Passé composé,j'ai m,is
+Mettre,Passé composé,tu as m,is
+Mettre,Passé composé,il a m,is
+Mettre,Passé composé,nous avons m,is
+Mettre,Passé composé,vous avez m,is
+Mettre,Passé composé,ils ont m,is
+Mettre,Imparfait,je m,ettais
+Mettre,Imparfait,tu m,ettais
+Mettre,Imparfait,il m,ettait
+Mettre,Imparfait,nous m,ettions
+Mettre,Imparfait,vous m,ettiez
+Mettre,Imparfait,ils m,ettaient
+Mettre,Plus-que-parfait,j'avais m,is
+Mettre,Plus-que-parfait,tu avais m,is
+Mettre,Plus-que-parfait,il avait m,is
+Mettre,Plus-que-parfait,nous avions m,is
+Mettre,Plus-que-parfait,vous aviez m,is
+Mettre,Plus-que-parfait,ils avaient m,is
+Mettre,Passé simple,je m,is
+Mettre,Passé simple,tu m,is
+Mettre,Passé simple,il m,it
+Mettre,Passé simple,nous m,îmes
+Mettre,Passé simple,vous m,îtes
+Mettre,Passé simple,ils m,irent
+Mettre,Passé antérieur,j'eus m,is
+Mettre,Passé antérieur,tu eus m,is
+Mettre,Passé antérieur,il eut m,is
+Mettre,Passé antérieur,nous eûmes m,is
+Mettre,Passé antérieur,vous eûtes m,is
+Mettre,Passé antérieur,ils eurent m,is
+Mettre,Futur,je m,ettrai
+Mettre,Futur,tu m,ettras
+Mettre,Futur,il m,ettra
+Mettre,Futur,nous m,ettrons
+Mettre,Futur,vous m,ettrez
+Mettre,Futur,ils m,ettront
+Mettre,Futur antérieur,j'aurai m,is
+Mettre,Futur antérieur,tu auras m,is
+Mettre,Futur antérieur,il aura m,is
+Mettre,Futur antérieur,nous aurons m,is
+Mettre,Futur antérieur,vous aurez m,is
+Mettre,Futur antérieur,ils auront m,is
+Mettre,Futur proche,je vais m,ettre
+Mettre,Futur proche,tu vas m,ettre
+Mettre,Futur proche,il va m,ettre
+Mettre,Futur proche,nous allons m,ettre
+Mettre,Futur proche,vous allez m,ettre
+Mettre,Futur proche,ils vont m,ettre
+Demander,Présent,je demand,e
+Demander,Présent,tu demand,es
+Demander,Présent,il demand,e
+Demander,Présent,nous demand,ons
+Demander,Présent,vous demand,ez
+Demander,Présent,ils demand,ent
+Demander,Passé composé,j'ai demand,é
+Demander,Passé composé,tu as demand,é
+Demander,Passé composé,il a demand,é
+Demander,Passé composé,nous avons demand,é
+Demander,Passé composé,vous avez demand,é
+Demander,Passé composé,ils ont demand,é
+Demander,Imparfait,je demand,ais
+Demander,Imparfait,tu demand,ais
+Demander,Imparfait,il demand,ait
+Demander,Imparfait,nous demand,ions
+Demander,Imparfait,vous demand,iez
+Demander,Imparfait,ils demand,aient
+Demander,Plus-que-parfait,j'avais demand,é
+Demander,Plus-que-parfait,tu avais demand,é
+Demander,Plus-que-parfait,il avait demand,é
+Demander,Plus-que-parfait,nous avions demand,é
+Demander,Plus-que-parfait,vous aviez demand,é
+Demander,Plus-que-parfait,ils avaient demand,é
+Demander,Passé simple,je demand,ai
+Demander,Passé simple,tu demand,as
+Demander,Passé simple,il demand,a
+Demander,Passé simple,nous demand,âmes
+Demander,Passé simple,vous demand,âtes
+Demander,Passé simple,ils demand,èrent
+Demander,Passé antérieur,j'eus demand,é
+Demander,Passé antérieur,tu eus demand,é
+Demander,Passé antérieur,il eut demand,é
+Demander,Passé antérieur,nous eûmes demand,é
+Demander,Passé antérieur,vous eûtes demand,é
+Demander,Passé antérieur,ils eurent demand,é
+Demander,Futur,je demand,erai
+Demander,Futur,tu demand,eras
+Demander,Futur,il demand,era
+Demander,Futur,nous demand,erons
+Demander,Futur,vous demand,erez
+Demander,Futur,ils demand,eront
+Demander,Futur antérieur,j'aurai demand,é
+Demander,Futur antérieur,tu auras demand,é
+Demander,Futur antérieur,il aura demand,é
+Demander,Futur antérieur,nous aurons demand,é
+Demander,Futur antérieur,vous aurez demand,é
+Demander,Futur antérieur,ils auront demand,é
+Demander,Futur proche,je vais demand,er
+Demander,Futur proche,tu vas demand,er
+Demander,Futur proche,il va demand,er
+Demander,Futur proche,nous allons demand,er
+Demander,Futur proche,vous allez demand,er
+Demander,Futur proche,ils vont demand,er
+Tenir,Présent,je t,iens
+Tenir,Présent,tu t,iens
+Tenir,Présent,il t,ient
+Tenir,Présent,nous t,enons
+Tenir,Présent,vous t,enez
+Tenir,Présent,ils t,iennent
+Tenir,Passé composé,j'ai t,enu
+Tenir,Passé composé,tu as t,enu
+Tenir,Passé composé,il a t,enu
+Tenir,Passé composé,nous avons t,enu
+Tenir,Passé composé,vous avez t,enu
+Tenir,Passé composé,ils ont t,enu
+Tenir,Imparfait,je t,enais
+Tenir,Imparfait,tu t,enais
+Tenir,Imparfait,il t,enait
+Tenir,Imparfait,nous t,enions
+Tenir,Imparfait,vous t,eniez
+Tenir,Imparfait,ils t,enaient
+Tenir,Plus-que-parfait,j'avais t,enu
+Tenir,Plus-que-parfait,tu avais t,enu
+Tenir,Plus-que-parfait,il avait t,enu
+Tenir,Plus-que-parfait,nous avions t,enu
+Tenir,Plus-que-parfait,vous aviez t,enu
+Tenir,Plus-que-parfait,ils avaient t,enu
+Tenir,Passé simple,je t,ins
+Tenir,Passé simple,tu t,ins
+Tenir,Passé simple,il t,int
+Tenir,Passé simple,nous t,înmes
+Tenir,Passé simple,vous t,întes
+Tenir,Passé simple,ils t,inrent
+Tenir,Passé antérieur,j'eus t,enu
+Tenir,Passé antérieur,tu eus t,enu
+Tenir,Passé antérieur,il eut t,enu
+Tenir,Passé antérieur,nous eûmes t,enu
+Tenir,Passé antérieur,vous eûtes t,enu
+Tenir,Passé antérieur,ils eurent t,enu
+Tenir,Futur,je t,iendrai
+Tenir,Futur,tu t,iendras
+Tenir,Futur,il t,iendra
+Tenir,Futur,nous t,iendrons
+Tenir,Futur,vous t,iendrez
+Tenir,Futur,ils t,iendront
+Tenir,Futur antérieur,j'aurai t,enu
+Tenir,Futur antérieur,tu auras t,enu
+Tenir,Futur antérieur,il aura t,enu
+Tenir,Futur antérieur,nous aurons t,enu
+Tenir,Futur antérieur,vous aurez t,enu
+Tenir,Futur antérieur,ils auront t,enu
+Tenir,Futur proche,je vais t,enir
+Tenir,Futur proche,tu vas t,enir
+Tenir,Futur proche,il va t,enir
+Tenir,Futur proche,nous allons t,enir
+Tenir,Futur proche,vous allez t,enir
+Tenir,Futur proche,ils vont t,enir
+Sembler,Présent,je sembl,e
+Sembler,Présent,tu sembl,es
+Sembler,Présent,il sembl,e
+Sembler,Présent,nous sembl,ons
+Sembler,Présent,vous sembl,ez
+Sembler,Présent,ils sembl,ent
+Sembler,Passé composé,j'ai sembl,é
+Sembler,Passé composé,tu as sembl,é
+Sembler,Passé composé,il a sembl,é
+Sembler,Passé composé,nous avons sembl,é
+Sembler,Passé composé,vous avez sembl,é
+Sembler,Passé composé,ils ont sembl,é
+Sembler,Imparfait,je sembl,ais
+Sembler,Imparfait,tu sembl,ais
+Sembler,Imparfait,il sembl,ait
+Sembler,Imparfait,nous sembl,ions
+Sembler,Imparfait,vous sembl,iez
+Sembler,Imparfait,ils sembl,aient
+Sembler,Plus-que-parfait,j'avais sembl,é
+Sembler,Plus-que-parfait,tu avais sembl,é
+Sembler,Plus-que-parfait,il avait sembl,é
+Sembler,Plus-que-parfait,nous avions sembl,é
+Sembler,Plus-que-parfait,vous aviez sembl,é
+Sembler,Plus-que-parfait,ils avaient sembl,é
+Sembler,Passé simple,je sembl,ai
+Sembler,Passé simple,tu sembl,as
+Sembler,Passé simple,il sembl,a
+Sembler,Passé simple,nous sembl,âmes
+Sembler,Passé simple,vous sembl,âtes
+Sembler,Passé simple,ils sembl,èrent
+Sembler,Passé antérieur,j'eus sembl,é
+Sembler,Passé antérieur,tu eus sembl,é
+Sembler,Passé antérieur,il eut sembl,é
+Sembler,Passé antérieur,nous eûmes sembl,é
+Sembler,Passé antérieur,vous eûtes sembl,é
+Sembler,Passé antérieur,ils eurent sembl,é
+Sembler,Futur,je sembl,erai
+Sembler,Futur,tu sembl,eras
+Sembler,Futur,il sembl,era
+Sembler,Futur,nous sembl,erons
+Sembler,Futur,vous sembl,erez
+Sembler,Futur,ils sembl,eront
+Sembler,Futur antérieur,j'aurai sembl,é
+Sembler,Futur antérieur,tu auras sembl,é
+Sembler,Futur antérieur,il aura sembl,é
+Sembler,Futur antérieur,nous aurons sembl,é
+Sembler,Futur antérieur,vous aurez sembl,é
+Sembler,Futur antérieur,ils auront sembl,é
+Sembler,Futur proche,je vais sembl,er
+Sembler,Futur proche,tu vas sembl,er
+Sembler,Futur proche,il va sembl,er
+Sembler,Futur proche,nous allons sembl,er
+Sembler,Futur proche,vous allez sembl,er
+Sembler,Futur proche,ils vont sembl,er
+Laisser,Présent,je laiss,e
+Laisser,Présent,tu laiss,es
+Laisser,Présent,il laiss,e
+Laisser,Présent,nous laiss,ons
+Laisser,Présent,vous laiss,ez
+Laisser,Présent,ils laiss,ent
+Laisser,Passé composé,j'ai laiss,é
+Laisser,Passé composé,tu as laiss,é
+Laisser,Passé composé,il a laiss,é
+Laisser,Passé composé,nous avons laiss,é
+Laisser,Passé composé,vous avez laiss,é
+Laisser,Passé composé,ils ont laiss,é
+Laisser,Imparfait,je laiss,ais
+Laisser,Imparfait,tu laiss,ais
+Laisser,Imparfait,il laiss,ait
+Laisser,Imparfait,nous laiss,ions
+Laisser,Imparfait,vous laiss,iez
+Laisser,Imparfait,ils laiss,aient
+Laisser,Plus-que-parfait,j'avais laiss,é
+Laisser,Plus-que-parfait,tu avais laiss,é
+Laisser,Plus-que-parfait,il avait laiss,é
+Laisser,Plus-que-parfait,nous avions laiss,é
+Laisser,Plus-que-parfait,vous aviez laiss,é
+Laisser,Plus-que-parfait,ils avaient laiss,é
+Laisser,Passé simple,je laiss,ai
+Laisser,Passé simple,tu laiss,as
+Laisser,Passé simple,il laiss,a
+Laisser,Passé simple,nous laiss,âmes
+Laisser,Passé simple,vous laiss,âtes
+Laisser,Passé simple,ils laiss,èrent
+Laisser,Passé antérieur,j'eus laiss,é
+Laisser,Passé antérieur,tu eus laiss,é
+Laisser,Passé antérieur,il eut laiss,é
+Laisser,Passé antérieur,nous eûmes laiss,é
+Laisser,Passé antérieur,vous eûtes laiss,é
+Laisser,Passé antérieur,ils eurent laiss,é
+Laisser,Futur,je laiss,erai
+Laisser,Futur,tu laiss,eras
+Laisser,Futur,il laiss,era
+Laisser,Futur,nous laiss,erons
+Laisser,Futur,vous laiss,erez
+Laisser,Futur,ils laiss,eront
+Laisser,Futur antérieur,j'aurai laiss,é
+Laisser,Futur antérieur,tu auras laiss,é
+Laisser,Futur antérieur,il aura laiss,é
+Laisser,Futur antérieur,nous aurons laiss,é
+Laisser,Futur antérieur,vous aurez laiss,é
+Laisser,Futur antérieur,ils auront laiss,é
+Laisser,Futur proche,je vais laiss,er
+Laisser,Futur proche,tu vas laiss,er
+Laisser,Futur proche,il va laiss,er
+Laisser,Futur proche,nous allons laiss,er
+Laisser,Futur proche,vous allez laiss,er
+Laisser,Futur proche,ils vont laiss,er
+Rester,Présent,je rest,e
+Rester,Présent,tu rest,es
+Rester,Présent,il rest,e
+Rester,Présent,nous rest,ons
+Rester,Présent,vous rest,ez
+Rester,Présent,ils rest,ent
+Rester,Passé composé,je suis rest,é
+Rester,Passé composé,tu es rest,é
+Rester,Passé composé,il est rest,é
+Rester,Passé composé,nous sommes rest,és
+Rester,Passé composé,vous êtes rest,és
+Rester,Passé composé,ils sont rest,és
+Rester,Imparfait,je rest,ais
+Rester,Imparfait,tu rest,ais
+Rester,Imparfait,il rest,ait
+Rester,Imparfait,nous rest,ions
+Rester,Imparfait,vous rest,iez
+Rester,Imparfait,ils rest,aient
+Rester,Plus-que-parfait,j'étais rest,é
+Rester,Plus-que-parfait,tu étais rest,é
+Rester,Plus-que-parfait,il était rest,é
+Rester,Plus-que-parfait,nous étions rest,és
+Rester,Plus-que-parfait,vous étiez rest,és
+Rester,Plus-que-parfait,ils étaient rest,és
+Rester,Passé simple,je rest,ai
+Rester,Passé simple,tu rest,as
+Rester,Passé simple,il rest,a
+Rester,Passé simple,nous rest,âmes
+Rester,Passé simple,vous rest,âtes
+Rester,Passé simple,ils rest,èrent
+Rester,Passé antérieur,je fus rest,é
+Rester,Passé antérieur,tu fus rest,é
+Rester,Passé antérieur,il fut rest,é
+Rester,Passé antérieur,nous fûmes rest,és
+Rester,Passé antérieur,vous fûtes rest,és
+Rester,Passé antérieur,ils furent rest,és
+Rester,Futur,je rest,erai
+Rester,Futur,tu rest,eras
+Rester,Futur,il rest,era
+Rester,Futur,nous rest,erons
+Rester,Futur,vous rest,erez
+Rester,Futur,ils rest,eront
+Rester,Futur antérieur,je serai rest,é
+Rester,Futur antérieur,tu seras rest,é
+Rester,Futur antérieur,il sera rest,é
+Rester,Futur antérieur,nous serons rest,és
+Rester,Futur antérieur,vous serez rest,és
+Rester,Futur antérieur,ils seront rest,és
+Rester,Futur proche,je vais rest,er
+Rester,Futur proche,tu vas rest,er
+Rester,Futur proche,il va rest,er
+Rester,Futur proche,nous allons rest,er
+Rester,Futur proche,vous allez rest,er
+Rester,Futur proche,ils vont rest,er
+Penser,Présent,je pens,e
+Penser,Présent,tu pens,es
+Penser,Présent,il pens,e
+Penser,Présent,nous pens,ons
+Penser,Présent,vous pens,ez
+Penser,Présent,ils pens,ent
+Penser,Passé composé,j'ai pens,é
+Penser,Passé composé,tu as pens,é
+Penser,Passé composé,il a pens,é
+Penser,Passé composé,nous avons pens,é
+Penser,Passé composé,vous avez pens,é
+Penser,Passé composé,ils ont pens,é
+Penser,Imparfait,je pens,ais
+Penser,Imparfait,tu pens,ais
+Penser,Imparfait,il pens,ait
+Penser,Imparfait,nous pens,ions
+Penser,Imparfait,vous pens,iez
+Penser,Imparfait,ils pens,aient
+Penser,Plus-que-parfait,j'avais pens,é
+Penser,Plus-que-parfait,tu avais pens,é
+Penser,Plus-que-parfait,il avait pens,é
+Penser,Plus-que-parfait,nous avions pens,é
+Penser,Plus-que-parfait,vous aviez pens,é
+Penser,Plus-que-parfait,ils avaient pens,é
+Penser,Passé simple,je pens,ai
+Penser,Passé simple,tu pens,as
+Penser,Passé simple,il pens,a
+Penser,Passé simple,nous pens,âmes
+Penser,Passé simple,vous pens,âtes
+Penser,Passé simple,ils pens,èrent
+Penser,Passé antérieur,j'eus pens,é
+Penser,Passé antérieur,tu eus pens,é
+Penser,Passé antérieur,il eut pens,é
+Penser,Passé antérieur,nous eûmes pens,é
+Penser,Passé antérieur,vous eûtes pens,é
+Penser,Passé antérieur,ils eurent pens,é
+Penser,Futur,je pens,erai
+Penser,Futur,tu pens,eras
+Penser,Futur,il pens,era
+Penser,Futur,nous pens,erons
+Penser,Futur,vous pens,erez
+Penser,Futur,ils pens,eront
+Penser,Futur antérieur,j'aurai pens,é
+Penser,Futur antérieur,tu auras pens,é
+Penser,Futur antérieur,il aura pens,é
+Penser,Futur antérieur,nous aurons pens,é
+Penser,Futur antérieur,vous aurez pens,é
+Penser,Futur antérieur,ils auront pens,é
+Penser,Futur proche,je vais pens,er
+Penser,Futur proche,tu vas pens,er
+Penser,Futur proche,il va pens,er
+Penser,Futur proche,nous allons pens,er
+Penser,Futur proche,vous allez pens,er
+Penser,Futur proche,ils vont pens,er
+Entendre,Présent,j'enten,ds
+Entendre,Présent,tu enten,ds
+Entendre,Présent,il enten,d
+Entendre,Présent,nous enten,dons
+Entendre,Présent,vous enten,dez
+Entendre,Présent,ils enten,dent
+Entendre,Passé composé,j'ai enten,du
+Entendre,Passé composé,tu as enten,du
+Entendre,Passé composé,il a enten,du
+Entendre,Passé composé,nous avons enten,du
+Entendre,Passé composé,vous avez enten,du
+Entendre,Passé composé,ils ont enten,du
+Entendre,Imparfait,j'enten,dais
+Entendre,Imparfait,tu enten,dais
+Entendre,Imparfait,il enten,dait
+Entendre,Imparfait,nous enten,dions
+Entendre,Imparfait,vous enten,diez
+Entendre,Imparfait,ils enten,daient
+Entendre,Plus-que-parfait,j'avais enten,du
+Entendre,Plus-que-parfait,tu avais enten,du
+Entendre,Plus-que-parfait,il avait enten,du
+Entendre,Plus-que-parfait,nous avions enten,du
+Entendre,Plus-que-parfait,vous aviez enten,du
+Entendre,Plus-que-parfait,ils avaient enten,du
+Entendre,Passé simple,j'enten,dis
+Entendre,Passé simple,tu enten,dis
+Entendre,Passé simple,il enten,dit
+Entendre,Passé simple,nous enten,dîmes
+Entendre,Passé simple,vous enten,dîtes
+Entendre,Passé simple,ils enten,dirent
+Entendre,Passé antérieur,j'eus enten,du
+Entendre,Passé antérieur,tu eus enten,du
+Entendre,Passé antérieur,il eut enten,du
+Entendre,Passé antérieur,nous eûmes enten,du
+Entendre,Passé antérieur,vous eûtes enten,du
+Entendre,Passé antérieur,ils eurent enten,du
+Entendre,Futur,j'enten,drai
+Entendre,Futur,tu enten,dras
+Entendre,Futur,il enten,dra
+Entendre,Futur,nous enten,drons
+Entendre,Futur,vous enten,drez
+Entendre,Futur,ils enten,dront
+Entendre,Futur antérieur,j'aurai enten,du
+Entendre,Futur antérieur,tu auras enten,du
+Entendre,Futur antérieur,il aura enten,du
+Entendre,Futur antérieur,nous aurons enten,du
+Entendre,Futur antérieur,vous aurez enten,du
+Entendre,Futur antérieur,ils auront enten,du
+Entendre,Futur proche,je vais enten,dre
+Entendre,Futur proche,tu vas enten,dre
+Entendre,Futur proche,il va enten,dre
+Entendre,Futur proche,nous allons enten,dre
+Entendre,Futur proche,vous allez enten,dre
+Entendre,Futur proche,ils vont enten,dre
+Regarder,Présent,je regard,e
+Regarder,Présent,tu regard,es
+Regarder,Présent,il regard,e
+Regarder,Présent,nous regard,ons
+Regarder,Présent,vous regard,ez
+Regarder,Présent,ils regard,ent
+Regarder,Passé composé,j'ai regard,é
+Regarder,Passé composé,tu as regard,é
+Regarder,Passé composé,il a regard,é
+Regarder,Passé composé,nous avons regard,é
+Regarder,Passé composé,vous avez regard,é
+Regarder,Passé composé,ils ont regard,é
+Regarder,Imparfait,je regard,ais
+Regarder,Imparfait,tu regard,ais
+Regarder,Imparfait,il regard,ait
+Regarder,Imparfait,nous regard,ions
+Regarder,Imparfait,vous regard,iez
+Regarder,Imparfait,ils regard,aient
+Regarder,Plus-que-parfait,j'avais regard,é
+Regarder,Plus-que-parfait,tu avais regard,é
+Regarder,Plus-que-parfait,il avait regard,é
+Regarder,Plus-que-parfait,nous avions regard,é
+Regarder,Plus-que-parfait,vous aviez regard,é
+Regarder,Plus-que-parfait,ils avaient regard,é
+Regarder,Passé simple,je regard,ai
+Regarder,Passé simple,tu regard,as
+Regarder,Passé simple,il regard,a
+Regarder,Passé simple,nous regard,âmes
+Regarder,Passé simple,vous regard,âtes
+Regarder,Passé simple,ils regard,èrent
+Regarder,Passé antérieur,j'eus regard,é
+Regarder,Passé antérieur,tu eus regard,é
+Regarder,Passé antérieur,il eut regard,é
+Regarder,Passé antérieur,nous eûmes regard,é
+Regarder,Passé antérieur,vous eûtes regard,é
+Regarder,Passé antérieur,ils eurent regard,é
+Regarder,Futur,je regard,erai
+Regarder,Futur,tu regard,eras
+Regarder,Futur,il regard,era
+Regarder,Futur,nous regard,erons
+Regarder,Futur,vous regard,erez
+Regarder,Futur,ils regard,eront
+Regarder,Futur antérieur,j'aurai regard,é
+Regarder,Futur antérieur,tu auras regard,é
+Regarder,Futur antérieur,il aura regard,é
+Regarder,Futur antérieur,nous aurons regard,é
+Regarder,Futur antérieur,vous aurez regard,é
+Regarder,Futur antérieur,ils auront regard,é
+Regarder,Futur proche,je vais regard,er
+Regarder,Futur proche,tu vas regard,er
+Regarder,Futur proche,il va regard,er
+Regarder,Futur proche,nous allons regard,er
+Regarder,Futur proche,vous allez regard,er
+Regarder,Futur proche,ils vont regard,er
+Répondre,Présent,je répon,ds
+Répondre,Présent,tu répon,ds
+Répondre,Présent,il répon,d
+Répondre,Présent,nous répon,dons
+Répondre,Présent,vous répon,dez
+Répondre,Présent,ils répon,dent
+Répondre,Passé composé,j'ai répon,du
+Répondre,Passé composé,tu as répon,du
+Répondre,Passé composé,il a répon,du
+Répondre,Passé composé,nous avons répon,du
+Répondre,Passé composé,vous avez répon,du
+Répondre,Passé composé,ils ont répon,du
+Répondre,Imparfait,je répon,dais
+Répondre,Imparfait,tu répon,dais
+Répondre,Imparfait,il répon,dait
+Répondre,Imparfait,nous répon,dions
+Répondre,Imparfait,vous répon,diez
+Répondre,Imparfait,ils répon,daient
+Répondre,Plus-que-parfait,j'avais répon,du
+Répondre,Plus-que-parfait,tu avais répon,du
+Répondre,Plus-que-parfait,il avait répon,du
+Répondre,Plus-que-parfait,nous avions répon,du
+Répondre,Plus-que-parfait,vous aviez répon,du
+Répondre,Plus-que-parfait,ils avaient répon,du
+Répondre,Passé simple,je répon,dis
+Répondre,Passé simple,tu répon,dis
+Répondre,Passé simple,il répon,dit
+Répondre,Passé simple,nous répon,dîmes
+Répondre,Passé simple,vous répon,dîtes
+Répondre,Passé simple,ils répon,dirent
+Répondre,Passé antérieur,j'eus répon,du
+Répondre,Passé antérieur,tu eus répon,du
+Répondre,Passé antérieur,il eut répon,du
+Répondre,Passé antérieur,nous eûmes répon,du
+Répondre,Passé antérieur,vous eûtes répon,du
+Répondre,Passé antérieur,ils eurent répon,du
+Répondre,Futur,je répon,drai
+Répondre,Futur,tu répon,dras
+Répondre,Futur,il répon,dra
+Répondre,Futur,nous répon,drons
+Répondre,Futur,vous répon,drez
+Répondre,Futur,ils répon,dront
+Répondre,Futur antérieur,j'aurai répon,du
+Répondre,Futur antérieur,tu auras répon,du
+Répondre,Futur antérieur,il aura répon,du
+Répondre,Futur antérieur,nous aurons répon,du
+Répondre,Futur antérieur,vous aurez répon,du
+Répondre,Futur antérieur,ils auront répon,du
+Répondre,Futur proche,je vais répon,dre
+Répondre,Futur proche,tu vas répon,dre
+Répondre,Futur proche,il va répon,dre
+Répondre,Futur proche,nous allons répon,dre
+Répondre,Futur proche,vous allez répon,dre
+Répondre,Futur proche,ils vont répon,dre
+Rendre,Présent,je ren,ds
+Rendre,Présent,tu ren,ds
+Rendre,Présent,il ren,d
+Rendre,Présent,nous ren,dons
+Rendre,Présent,vous ren,dez
+Rendre,Présent,ils ren,dent
+Rendre,Passé composé,j'ai ren,du
+Rendre,Passé composé,tu as ren,du
+Rendre,Passé composé,il a ren,du
+Rendre,Passé composé,nous avons ren,du
+Rendre,Passé composé,vous avez ren,du
+Rendre,Passé composé,ils ont ren,du
+Rendre,Imparfait,je ren,dais
+Rendre,Imparfait,tu ren,dais
+Rendre,Imparfait,il ren,dait
+Rendre,Imparfait,nous ren,dions
+Rendre,Imparfait,vous ren,diez
+Rendre,Imparfait,ils ren,daient
+Rendre,Plus-que-parfait,j'avais ren,du
+Rendre,Plus-que-parfait,tu avais ren,du
+Rendre,Plus-que-parfait,il avait ren,du
+Rendre,Plus-que-parfait,nous avions ren,du
+Rendre,Plus-que-parfait,vous aviez ren,du
+Rendre,Plus-que-parfait,ils avaient ren,du
+Rendre,Passé simple,je ren,dis
+Rendre,Passé simple,tu ren,dis
+Rendre,Passé simple,il ren,dit
+Rendre,Passé simple,nous ren,dîmes
+Rendre,Passé simple,vous ren,dîtes
+Rendre,Passé simple,ils ren,dirent
+Rendre,Passé antérieur,j'eus ren,du
+Rendre,Passé antérieur,tu eus ren,du
+Rendre,Passé antérieur,il eut ren,du
+Rendre,Passé antérieur,nous eûmes ren,du
+Rendre,Passé antérieur,vous eûtes ren,du
+Rendre,Passé antérieur,ils eurent ren,du
+Rendre,Futur,je ren,drai
+Rendre,Futur,tu ren,dras
+Rendre,Futur,il ren,dra
+Rendre,Futur,nous ren,drons
+Rendre,Futur,vous ren,drez
+Rendre,Futur,ils ren,dront
+Rendre,Futur antérieur,j'aurai ren,du
+Rendre,Futur antérieur,tu auras ren,du
+Rendre,Futur antérieur,il aura ren,du
+Rendre,Futur antérieur,nous aurons ren,du
+Rendre,Futur antérieur,vous aurez ren,du
+Rendre,Futur antérieur,ils auront ren,du
+Rendre,Futur proche,je vais ren,dre
+Rendre,Futur proche,tu vas ren,dre
+Rendre,Futur proche,il va ren,dre
+Rendre,Futur proche,nous allons ren,dre
+Rendre,Futur proche,vous allez ren,dre
+Rendre,Futur proche,ils vont ren,dre
+Connaître,Présent,je conn,ais
+Connaître,Présent,tu conn,ais
+Connaître,Présent,il conn,aît
+Connaître,Présent,nous conn,aissons
+Connaître,Présent,vous conn,aissez
+Connaître,Présent,ils conn,aissent
+Connaître,Passé composé,j'ai conn,u
+Connaître,Passé composé,tu as conn,u
+Connaître,Passé composé,il a conn,u
+Connaître,Passé composé,nous avons conn,u
+Connaître,Passé composé,vous avez conn,u
+Connaître,Passé composé,ils ont conn,u
+Connaître,Imparfait,je conn,aissais
+Connaître,Imparfait,tu conn,aissais
+Connaître,Imparfait,il conn,aissait
+Connaître,Imparfait,nous conn,aissions
+Connaître,Imparfait,vous conn,aissiez
+Connaître,Imparfait,ils conn,aissaient
+Connaître,Plus-que-parfait,j'avais conn,u
+Connaître,Plus-que-parfait,tu avais conn,u
+Connaître,Plus-que-parfait,il avait conn,u
+Connaître,Plus-que-parfait,nous avions conn,u
+Connaître,Plus-que-parfait,vous aviez conn,u
+Connaître,Plus-que-parfait,ils avaient conn,u
+Connaître,Passé simple,je conn,us
+Connaître,Passé simple,tu conn,us
+Connaître,Passé simple,il conn,ut
+Connaître,Passé simple,nous conn,ûmes
+Connaître,Passé simple,vous conn,ûtes
+Connaître,Passé simple,ils conn,urent
+Connaître,Passé antérieur,j'eus conn,u
+Connaître,Passé antérieur,tu eus conn,u
+Connaître,Passé antérieur,il eut conn,u
+Connaître,Passé antérieur,nous eûmes conn,u
+Connaître,Passé antérieur,vous eûtes conn,u
+Connaître,Passé antérieur,ils eurent conn,u
+Connaître,Futur,je conn,aîtrai
+Connaître,Futur,tu conn,aîtras
+Connaître,Futur,il conn,aîtra
+Connaître,Futur,nous conn,aîtrons
+Connaître,Futur,vous conn,aîtrez
+Connaître,Futur,ils conn,aîtront
+Connaître,Futur antérieur,j'aurai conn,u
+Connaître,Futur antérieur,tu auras conn,u
+Connaître,Futur antérieur,il aura conn,u
+Connaître,Futur antérieur,nous aurons conn,u
+Connaître,Futur antérieur,vous aurez conn,u
+Connaître,Futur antérieur,ils auront conn,u
+Connaître,Futur proche,je vais conn,aître
+Connaître,Futur proche,tu vas conn,aître
+Connaître,Futur proche,il va conn,aître
+Connaître,Futur proche,nous allons conn,aître
+Connaître,Futur proche,vous allez conn,aître
+Connaître,Futur proche,ils vont conn,aître
+Paraître,Présent,je par,ais
+Paraître,Présent,tu par,ais
+Paraître,Présent,il par,aît
+Paraître,Présent,nous par,aissons
+Paraître,Présent,vous par,aissez
+Paraître,Présent,ils par,aissent
+Paraître,Passé composé,j'ai par,u
+Paraître,Passé composé,tu as par,u
+Paraître,Passé composé,il a par,u
+Paraître,Passé composé,nous avons par,u
+Paraître,Passé composé,vous avez par,u
+Paraître,Passé composé,ils ont par,u
+Paraître,Imparfait,je par,aissais
+Paraître,Imparfait,tu par,aissais
+Paraître,Imparfait,il par,aissait
+Paraître,Imparfait,nous par,aissions
+Paraître,Imparfait,vous par,aissiez
+Paraître,Imparfait,ils par,aissaient
+Paraître,Plus-que-parfait,j'avais par,u
+Paraître,Plus-que-parfait,tu avais par,u
+Paraître,Plus-que-parfait,il avait par,u
+Paraître,Plus-que-parfait,nous avions par,u
+Paraître,Plus-que-parfait,vous aviez par,u
+Paraître,Plus-que-parfait,ils avaient par,u
+Paraître,Passé simple,je par,us
+Paraître,Passé simple,tu par,us
+Paraître,Passé simple,il par,ut
+Paraître,Passé simple,nous par,ûmes
+Paraître,Passé simple,vous par,ûtes
+Paraître,Passé simple,ils par,urent
+Paraître,Passé antérieur,j'eus par,u
+Paraître,Passé antérieur,tu eus par,u
+Paraître,Passé antérieur,il eut par,u
+Paraître,Passé antérieur,nous eûmes par,u
+Paraître,Passé antérieur,vous eûtes par,u
+Paraître,Passé antérieur,ils eurent par,u
+Paraître,Futur,je par,aîtrai
+Paraître,Futur,tu par,aîtras
+Paraître,Futur,il par,aîtra
+Paraître,Futur,nous par,aîtrons
+Paraître,Futur,vous par,aîtrez
+Paraître,Futur,ils par,aîtront
+Paraître,Futur antérieur,j'aurai par,u
+Paraître,Futur antérieur,tu auras par,u
+Paraître,Futur antérieur,il aura par,u
+Paraître,Futur antérieur,nous aurons par,u
+Paraître,Futur antérieur,vous aurez par,u
+Paraître,Futur antérieur,ils auront par,u
+Paraître,Futur proche,je vais par,aître
+Paraître,Futur proche,tu vas par,aître
+Paraître,Futur proche,il va par,aître
+Paraître,Futur proche,nous allons par,aître
+Paraître,Futur proche,vous allez par,aître
+Paraître,Futur proche,ils vont par,aître
+Arriver,Présent,j'arriv,e
+Arriver,Présent,tu arriv,es
+Arriver,Présent,il arriv,e
+Arriver,Présent,nous arriv,ons
+Arriver,Présent,vous arriv,ez
+Arriver,Présent,ils arriv,ent
+Arriver,Passé composé,je suis arriv,é
+Arriver,Passé composé,tu es arriv,é
+Arriver,Passé composé,il est arriv,é
+Arriver,Passé composé,nous sommes arriv,és
+Arriver,Passé composé,vous êtes arriv,és
+Arriver,Passé composé,ils sont arriv,és
+Arriver,Imparfait,j'arriv,ais
+Arriver,Imparfait,tu arriv,ais
+Arriver,Imparfait,il arriv,ait
+Arriver,Imparfait,nous arriv,ions
+Arriver,Imparfait,vous arriv,iez
+Arriver,Imparfait,ils arriv,aient
+Arriver,Plus-que-parfait,j'étais arriv,é
+Arriver,Plus-que-parfait,tu étais arriv,é
+Arriver,Plus-que-parfait,il était arriv,é
+Arriver,Plus-que-parfait,nous étions arriv,és
+Arriver,Plus-que-parfait,vous étiez arriv,és
+Arriver,Plus-que-parfait,ils étaient arriv,és
+Arriver,Passé simple,j'arriv,ai
+Arriver,Passé simple,tu arriv,as
+Arriver,Passé simple,il arriv,a
+Arriver,Passé simple,nous arriv,âmes
+Arriver,Passé simple,vous arriv,âtes
+Arriver,Passé simple,ils arriv,èrent
+Arriver,Passé antérieur,je fus arriv,é
+Arriver,Passé antérieur,tu fus arriv,é
+Arriver,Passé antérieur,il fut arriv,é
+Arriver,Passé antérieur,nous fûmes arriv,és
+Arriver,Passé antérieur,vous fûtes arriv,és
+Arriver,Passé antérieur,ils furent arriv,és
+Arriver,Futur,j'arriv,erai
+Arriver,Futur,tu arriv,eras
+Arriver,Futur,il arriv,era
+Arriver,Futur,nous arriv,erons
+Arriver,Futur,vous arriv,erez
+Arriver,Futur,ils arriv,eront
+Arriver,Futur antérieur,je serai arriv,é
+Arriver,Futur antérieur,tu seras arriv,é
+Arriver,Futur antérieur,il sera arriv,é
+Arriver,Futur antérieur,nous serons arriv,és
+Arriver,Futur antérieur,vous serez arriv,és
+Arriver,Futur antérieur,ils seront arriv,és
+Arriver,Futur proche,je vais arriv,er
+Arriver,Futur proche,tu vas arriv,er
+Arriver,Futur proche,il va arriv,er
+Arriver,Futur proche,nous allons arriv,er
+Arriver,Futur proche,vous allez arriv,er
+Arriver,Futur proche,ils vont arriv,er
+Sentir,Présent,je sen,s
+Sentir,Présent,tu sen,s
+Sentir,Présent,il sen,t
+Sentir,Présent,nous sen,tons
+Sentir,Présent,vous sen,tez
+Sentir,Présent,ils sen,tent
+Sentir,Passé composé,j'ai sen,ti
+Sentir,Passé composé,tu as sen,ti
+Sentir,Passé composé,il a sen,ti
+Sentir,Passé composé,nous avons sen,ti
+Sentir,Passé composé,vous avez sen,ti
+Sentir,Passé composé,ils ont sen,ti
+Sentir,Imparfait,je sen,tais
+Sentir,Imparfait,tu sen,tais
+Sentir,Imparfait,il sen,tait
+Sentir,Imparfait,nous sen,tions
+Sentir,Imparfait,vous sen,tiez
+Sentir,Imparfait,ils sen,taient
+Sentir,Plus-que-parfait,j'avais sen,ti
+Sentir,Plus-que-parfait,tu avais sen,ti
+Sentir,Plus-que-parfait,il avait sen,ti
+Sentir,Plus-que-parfait,nous avions sen,ti
+Sentir,Plus-que-parfait,vous aviez sen,ti
+Sentir,Plus-que-parfait,ils avaient sen,ti
+Sentir,Passé simple,je sen,tis
+Sentir,Passé simple,tu sen,tis
+Sentir,Passé simple,il sen,tit
+Sentir,Passé simple,nous sen,tîmes
+Sentir,Passé simple,vous sen,tîtes
+Sentir,Passé simple,ils sen,tirent
+Sentir,Passé antérieur,j'eus sen,ti
+Sentir,Passé antérieur,tu eus sen,ti
+Sentir,Passé antérieur,il eut sen,ti
+Sentir,Passé antérieur,nous eûmes sen,ti
+Sentir,Passé antérieur,vous eûtes sen,ti
+Sentir,Passé antérieur,ils eurent sen,ti
+Sentir,Futur,je sen,tirai
+Sentir,Futur,tu sen,tiras
+Sentir,Futur,il sen,tira
+Sentir,Futur,nous sen,tirons
+Sentir,Futur,vous sen,tirez
+Sentir,Futur,ils sen,tiront
+Sentir,Futur antérieur,j'aurai sen,ti
+Sentir,Futur antérieur,tu auras sen,ti
+Sentir,Futur antérieur,il aura sen,ti
+Sentir,Futur antérieur,nous aurons sen,ti
+Sentir,Futur antérieur,vous aurez sen,ti
+Sentir,Futur antérieur,ils auront sen,ti
+Sentir,Futur proche,je vais sen,tir
+Sentir,Futur proche,tu vas sen,tir
+Sentir,Futur proche,il va sen,tir
+Sentir,Futur proche,nous allons sen,tir
+Sentir,Futur proche,vous allez sen,tir
+Sentir,Futur proche,ils vont sen,tir
+Attendre,Présent,j'atten,ds
+Attendre,Présent,tu atten,ds
+Attendre,Présent,il atten,d
+Attendre,Présent,nous atten,dons
+Attendre,Présent,vous atten,dez
+Attendre,Présent,ils atten,dent
+Attendre,Passé composé,j'ai atten,du
+Attendre,Passé composé,tu as atten,du
+Attendre,Passé composé,il a atten,du
+Attendre,Passé composé,nous avons atten,du
+Attendre,Passé composé,vous avez atten,du
+Attendre,Passé composé,ils ont atten,du
+Attendre,Imparfait,j'atten,dais
+Attendre,Imparfait,tu atten,dais
+Attendre,Imparfait,il atten,dait
+Attendre,Imparfait,nous atten,dions
+Attendre,Imparfait,vous atten,diez
+Attendre,Imparfait,ils atten,daient
+Attendre,Plus-que-parfait,j'avais atten,du
+Attendre,Plus-que-parfait,tu avais atten,du
+Attendre,Plus-que-parfait,il avait atten,du
+Attendre,Plus-que-parfait,nous avions atten,du
+Attendre,Plus-que-parfait,vous aviez atten,du
+Attendre,Plus-que-parfait,ils avaient atten,du
+Attendre,Passé simple,j'atten,dis
+Attendre,Passé simple,tu atten,dis
+Attendre,Passé simple,il atten,dit
+Attendre,Passé simple,nous atten,dîmes
+Attendre,Passé simple,vous atten,dîtes
+Attendre,Passé simple,ils atten,dirent
+Attendre,Passé antérieur,j'eus atten,du
+Attendre,Passé antérieur,tu eus atten,du
+Attendre,Passé antérieur,il eut atten,du
+Attendre,Passé antérieur,nous eûmes atten,du
+Attendre,Passé antérieur,vous eûtes atten,du
+Attendre,Passé antérieur,ils eurent atten,du
+Attendre,Futur,j'atten,drai
+Attendre,Futur,tu atten,dras
+Attendre,Futur,il atten,dra
+Attendre,Futur,nous atten,drons
+Attendre,Futur,vous atten,drez
+Attendre,Futur,ils atten,dront
+Attendre,Futur antérieur,j'aurai atten,du
+Attendre,Futur antérieur,tu auras atten,du
+Attendre,Futur antérieur,il aura atten,du
+Attendre,Futur antérieur,nous aurons atten,du
+Attendre,Futur antérieur,vous aurez atten,du
+Attendre,Futur antérieur,ils auront atten,du
+Attendre,Futur proche,je vais atten,dre
+Attendre,Futur proche,tu vas atten,dre
+Attendre,Futur proche,il va atten,dre
+Attendre,Futur proche,nous allons atten,dre
+Attendre,Futur proche,vous allez atten,dre
+Attendre,Futur proche,ils vont atten,dre
+Vivre,Présent,je v,is
+Vivre,Présent,tu v,is
+Vivre,Présent,il v,it
+Vivre,Présent,nous v,ivons
+Vivre,Présent,vous v,ivez
+Vivre,Présent,ils v,ivent
+Vivre,Passé composé,j'ai v,écu
+Vivre,Passé composé,tu as v,écu
+Vivre,Passé composé,il a v,écu
+Vivre,Passé composé,nous avons v,écu
+Vivre,Passé composé,vous avez v,écu
+Vivre,Passé composé,ils ont v,écu
+Vivre,Imparfait,je v,ivais
+Vivre,Imparfait,tu v,ivais
+Vivre,Imparfait,il v,ivait
+Vivre,Imparfait,nous v,ivions
+Vivre,Imparfait,vous v,iviez
+Vivre,Imparfait,ils v,ivaient
+Vivre,Plus-que-parfait,j'avais v,écu
+Vivre,Plus-que-parfait,tu avais v,écu
+Vivre,Plus-que-parfait,il avait v,écu
+Vivre,Plus-que-parfait,nous avions v,écu
+Vivre,Plus-que-parfait,vous aviez v,écu
+Vivre,Plus-que-parfait,ils avaient v,écu
+Vivre,Passé simple,je v,écus
+Vivre,Passé simple,tu v,écus
+Vivre,Passé simple,il v,écut
+Vivre,Passé simple,nous v,écûmes
+Vivre,Passé simple,vous v,écûtes
+Vivre,Passé simple,ils v,écurent
+Vivre,Passé antérieur,j'eus v,écu
+Vivre,Passé antérieur,tu eus v,écu
+Vivre,Passé antérieur,il eut v,écu
+Vivre,Passé antérieur,nous eûmes v,écu
+Vivre,Passé antérieur,vous eûtes v,écu
+Vivre,Passé antérieur,ils eurent v,écu
+Vivre,Futur,je v,ivrai
+Vivre,Futur,tu v,ivras
+Vivre,Futur,il v,ivra
+Vivre,Futur,nous v,ivrons
+Vivre,Futur,vous v,ivrez
+Vivre,Futur,ils v,ivront
+Vivre,Futur antérieur,j'aurai v,écu
+Vivre,Futur antérieur,tu auras v,écu
+Vivre,Futur antérieur,il aura v,écu
+Vivre,Futur antérieur,nous aurons v,écu
+Vivre,Futur antérieur,vous aurez v,écu
+Vivre,Futur antérieur,ils auront v,écu
+Vivre,Futur proche,je vais v,ivre
+Vivre,Futur proche,tu vas v,ivre
+Vivre,Futur proche,il va v,ivre
+Vivre,Futur proche,nous allons v,ivre
+Vivre,Futur proche,vous allez v,ivre
+Vivre,Futur proche,ils vont v,ivre
+Chercher,Présent,je cherch,e
+Chercher,Présent,tu cherch,es
+Chercher,Présent,il cherch,e
+Chercher,Présent,nous cherch,ons
+Chercher,Présent,vous cherch,ez
+Chercher,Présent,ils cherch,ent
+Chercher,Passé composé,j'ai cherch,é
+Chercher,Passé composé,tu as cherch,é
+Chercher,Passé composé,il a cherch,é
+Chercher,Passé composé,nous avons cherch,é
+Chercher,Passé composé,vous avez cherch,é
+Chercher,Passé composé,ils ont cherch,é
+Chercher,Imparfait,je cherch,ais
+Chercher,Imparfait,tu cherch,ais
+Chercher,Imparfait,il cherch,ait
+Chercher,Imparfait,nous cherch,ions
+Chercher,Imparfait,vous cherch,iez
+Chercher,Imparfait,ils cherch,aient
+Chercher,Plus-que-parfait,j'avais cherch,é
+Chercher,Plus-que-parfait,tu avais cherch,é
+Chercher,Plus-que-parfait,il avait cherch,é
+Chercher,Plus-que-parfait,nous avions cherch,é
+Chercher,Plus-que-parfait,vous aviez cherch,é
+Chercher,Plus-que-parfait,ils avaient cherch,é
+Chercher,Passé simple,je cherch,ai
+Chercher,Passé simple,tu cherch,as
+Chercher,Passé simple,il cherch,a
+Chercher,Passé simple,nous cherch,âmes
+Chercher,Passé simple,vous cherch,âtes
+Chercher,Passé simple,ils cherch,èrent
+Chercher,Passé antérieur,j'eus cherch,é
+Chercher,Passé antérieur,tu eus cherch,é
+Chercher,Passé antérieur,il eut cherch,é
+Chercher,Passé antérieur,nous eûmes cherch,é
+Chercher,Passé antérieur,vous eûtes cherch,é
+Chercher,Passé antérieur,ils eurent cherch,é
+Chercher,Futur,je cherch,erai
+Chercher,Futur,tu cherch,eras
+Chercher,Futur,il cherch,era
+Chercher,Futur,nous cherch,erons
+Chercher,Futur,vous cherch,erez
+Chercher,Futur,ils cherch,eront
+Chercher,Futur antérieur,j'aurai cherch,é
+Chercher,Futur antérieur,tu auras cherch,é
+Chercher,Futur antérieur,il aura cherch,é
+Chercher,Futur antérieur,nous aurons cherch,é
+Chercher,Futur antérieur,vous aurez cherch,é
+Chercher,Futur antérieur,ils auront cherch,é
+Chercher,Futur proche,je vais cherch,er
+Chercher,Futur proche,tu vas cherch,er
+Chercher,Futur proche,il va cherch,er
+Chercher,Futur proche,nous allons cherch,er
+Chercher,Futur proche,vous allez cherch,er
+Chercher,Futur proche,ils vont cherch,er
+Comprendre,Présent,je compr,ends
+Comprendre,Présent,tu compr,ends
+Comprendre,Présent,il compr,end
+Comprendre,Présent,nous compr,enons
+Comprendre,Présent,vous compr,enez
+Comprendre,Présent,ils compr,ennent
+Comprendre,Passé composé,j'ai compr,is
+Comprendre,Passé composé,tu as compr,is
+Comprendre,Passé composé,il a compr,is
+Comprendre,Passé composé,nous avons compr,is
+Comprendre,Passé composé,vous avez compr,is
+Comprendre,Passé composé,ils ont compr,is
+Comprendre,Imparfait,je compr,enais
+Comprendre,Imparfait,tu compr,enais
+Comprendre,Imparfait,il compr,enait
+Comprendre,Imparfait,nous compr,enions
+Comprendre,Imparfait,vous compr,eniez
+Comprendre,Imparfait,ils compr,enaient
+Comprendre,Plus-que-parfait,j'avais compr,is
+Comprendre,Plus-que-parfait,tu avais compr,is
+Comprendre,Plus-que-parfait,il avait compr,is
+Comprendre,Plus-que-parfait,nous avions compr,is
+Comprendre,Plus-que-parfait,vous aviez compr,is
+Comprendre,Plus-que-parfait,ils avaient compr,is
+Comprendre,Passé simple,je compr,is
+Comprendre,Passé simple,tu compr,is
+Comprendre,Passé simple,il compr,it
+Comprendre,Passé simple,nous compr,îmes
+Comprendre,Passé simple,vous compr,îtes
+Comprendre,Passé simple,ils compr,irent
+Comprendre,Passé antérieur,j'eus compr,is
+Comprendre,Passé antérieur,tu eus compr,is
+Comprendre,Passé antérieur,il eut compr,is
+Comprendre,Passé antérieur,nous eûmes compr,is
+Comprendre,Passé antérieur,vous eûtes compr,is
+Comprendre,Passé antérieur,ils eurent compr,is
+Comprendre,Futur,je compr,endrai
+Comprendre,Futur,tu compr,endras
+Comprendre,Futur,il compr,endra
+Comprendre,Futur,nous compr,endrons
+Comprendre,Futur,vous compr,endrez
+Comprendre,Futur,ils compr,endront
+Comprendre,Futur antérieur,j'aurai compr,is
+Comprendre,Futur antérieur,tu auras compr,is
+Comprendre,Futur antérieur,il aura compr,is
+Comprendre,Futur antérieur,nous aurons compr,is
+Comprendre,Futur antérieur,vous aurez compr,is
+Comprendre,Futur antérieur,ils auront compr,is
+Comprendre,Futur proche,je vais compr,endre
+Comprendre,Futur proche,tu vas compr,endre
+Comprendre,Futur proche,il va compr,endre
+Comprendre,Futur proche,nous allons compr,endre
+Comprendre,Futur proche,vous allez compr,endre
+Comprendre,Futur proche,ils vont compr,endre
+Porter,Présent,je port,e
+Porter,Présent,tu port,es
+Porter,Présent,il port,e
+Porter,Présent,nous port,ons
+Porter,Présent,vous port,ez
+Porter,Présent,ils port,ent
+Porter,Passé composé,j'ai port,é
+Porter,Passé composé,tu as port,é
+Porter,Passé composé,il a port,é
+Porter,Passé composé,nous avons port,é
+Porter,Passé composé,vous avez port,é
+Porter,Passé composé,ils ont port,é
+Porter,Imparfait,je port,ais
+Porter,Imparfait,tu port,ais
+Porter,Imparfait,il port,ait
+Porter,Imparfait,nous port,ions
+Porter,Imparfait,vous port,iez
+Porter,Imparfait,ils port,aient
+Porter,Plus-que-parfait,j'avais port,é
+Porter,Plus-que-parfait,tu avais port,é
+Porter,Plus-que-parfait,il avait port,é
+Porter,Plus-que-parfait,nous avions port,é
+Porter,Plus-que-parfait,vous aviez port,é
+Porter,Plus-que-parfait,ils avaient port,é
+Porter,Passé simple,je port,ai
+Porter,Passé simple,tu port,as
+Porter,Passé simple,il port,a
+Porter,Passé simple,nous port,âmes
+Porter,Passé simple,vous port,âtes
+Porter,Passé simple,ils port,èrent
+Porter,Passé antérieur,j'eus port,é
+Porter,Passé antérieur,tu eus port,é
+Porter,Passé antérieur,il eut port,é
+Porter,Passé antérieur,nous eûmes port,é
+Porter,Passé antérieur,vous eûtes port,é
+Porter,Passé antérieur,ils eurent port,é
+Porter,Futur,je port,erai
+Porter,Futur,tu port,eras
+Porter,Futur,il port,era
+Porter,Futur,nous port,erons
+Porter,Futur,vous port,erez
+Porter,Futur,ils port,eront
+Porter,Futur antérieur,j'aurai port,é
+Porter,Futur antérieur,tu auras port,é
+Porter,Futur antérieur,il aura port,é
+Porter,Futur antérieur,nous aurons port,é
+Porter,Futur antérieur,vous aurez port,é
+Porter,Futur antérieur,ils auront port,é
+Porter,Futur proche,je vais port,er
+Porter,Futur proche,tu vas port,er
+Porter,Futur proche,il va port,er
+Porter,Futur proche,nous allons port,er
+Porter,Futur proche,vous allez port,er
+Porter,Futur proche,ils vont port,er
+Devenir,Présent,je dev,iens
+Devenir,Présent,tu dev,iens
+Devenir,Présent,il dev,ient
+Devenir,Présent,nous dev,enons
+Devenir,Présent,vous dev,enez
+Devenir,Présent,ils dev,iennent
+Devenir,Passé composé,je suis dev,enu
+Devenir,Passé composé,tu es dev,enu
+Devenir,Passé composé,il est dev,enu
+Devenir,Passé composé,nous sommes dev,enus
+Devenir,Passé composé,vous êtes dev,enus
+Devenir,Passé composé,ils sont dev,enus
+Devenir,Imparfait,je dev,enais
+Devenir,Imparfait,tu dev,enais
+Devenir,Imparfait,il dev,enait
+Devenir,Imparfait,nous dev,enions
+Devenir,Imparfait,vous dev,eniez
+Devenir,Imparfait,ils dev,enaient
+Devenir,Plus-que-parfait,j'étais dev,enu
+Devenir,Plus-que-parfait,tu étais dev,enu
+Devenir,Plus-que-parfait,il était dev,enu
+Devenir,Plus-que-parfait,nous étions dev,enus
+Devenir,Plus-que-parfait,vous étiez dev,enus
+Devenir,Plus-que-parfait,ils étaient dev,enus
+Devenir,Passé simple,je dev,ins
+Devenir,Passé simple,tu dev,ins
+Devenir,Passé simple,il dev,int
+Devenir,Passé simple,nous dev,înmes
+Devenir,Passé simple,vous dev,întes
+Devenir,Passé simple,ils dev,inrent
+Devenir,Passé antérieur,je fus dev,enu
+Devenir,Passé antérieur,tu fus dev,enu
+Devenir,Passé antérieur,il fut dev,enu
+Devenir,Passé antérieur,nous fûmes dev,enus
+Devenir,Passé antérieur,vous fûtes dev,enus
+Devenir,Passé antérieur,ils furent dev,enus
+Devenir,Futur,je dev,iendrai
+Devenir,Futur,tu dev,iendras
+Devenir,Futur,il dev,iendra
+Devenir,Futur,nous dev,iendrons
+Devenir,Futur,vous dev,iendrez
+Devenir,Futur,ils dev,iendront
+Devenir,Futur antérieur,je serai dev,enu
+Devenir,Futur antérieur,tu seras dev,enu
+Devenir,Futur antérieur,il sera dev,enu
+Devenir,Futur antérieur,nous serons dev,enus
+Devenir,Futur antérieur,vous serez dev,enus
+Devenir,Futur antérieur,ils seront dev,enus
+Devenir,Futur proche,je vais dev,enir
+Devenir,Futur proche,tu vas dev,enir
+Devenir,Futur proche,il va dev,enir
+Devenir,Futur proche,nous allons dev,enir
+Devenir,Futur proche,vous allez dev,enir
+Devenir,Futur proche,ils vont dev,enir
+Entrer,Présent,j'entr,e
+Entrer,Présent,tu entr,es
+Entrer,Présent,il entr,e
+Entrer,Présent,nous entr,ons
+Entrer,Présent,vous entr,ez
+Entrer,Présent,ils entr,ent
+Entrer,Passé composé,je suis entr,é
+Entrer,Passé composé,tu es entr,é
+Entrer,Passé composé,il est entr,é
+Entrer,Passé composé,nous sommes entr,és
+Entrer,Passé composé,vous êtes entr,és
+Entrer,Passé composé,ils sont entr,és
+Entrer,Imparfait,j'entr,ais
+Entrer,Imparfait,tu entr,ais
+Entrer,Imparfait,il entr,ait
+Entrer,Imparfait,nous entr,ions
+Entrer,Imparfait,vous entr,iez
+Entrer,Imparfait,ils entr,aient
+Entrer,Plus-que-parfait,j'étais entr,é
+Entrer,Plus-que-parfait,tu étais entr,é
+Entrer,Plus-que-parfait,il était entr,é
+Entrer,Plus-que-parfait,nous étions entr,és
+Entrer,Plus-que-parfait,vous étiez entr,és
+Entrer,Plus-que-parfait,ils étaient entr,és
+Entrer,Passé simple,j'entr,ai
+Entrer,Passé simple,tu entr,as
+Entrer,Passé simple,il entr,a
+Entrer,Passé simple,nous entr,âmes
+Entrer,Passé simple,vous entr,âtes
+Entrer,Passé simple,ils entr,èrent
+Entrer,Passé antérieur,je fus entr,é
+Entrer,Passé antérieur,tu fus entr,é
+Entrer,Passé antérieur,il fut entr,é
+Entrer,Passé antérieur,nous fûmes entr,és
+Entrer,Passé antérieur,vous fûtes entr,és
+Entrer,Passé antérieur,ils furent entr,és
+Entrer,Futur,j'entr,erai
+Entrer,Futur,tu entr,eras
+Entrer,Futur,il entr,era
+Entrer,Futur,nous entr,erons
+Entrer,Futur,vous entr,erez
+Entrer,Futur,ils entr,eront
+Entrer,Futur antérieur,je serai entr,é
+Entrer,Futur antérieur,tu seras entr,é
+Entrer,Futur antérieur,il sera entr,é
+Entrer,Futur antérieur,nous serons entr,és
+Entrer,Futur antérieur,vous serez entr,és
+Entrer,Futur antérieur,ils seront entr,és
+Entrer,Futur proche,je vais entr,er
+Entrer,Futur proche,tu vas entr,er
+Entrer,Futur proche,il va entr,er
+Entrer,Futur proche,nous allons entr,er
+Entrer,Futur proche,vous allez entr,er
+Entrer,Futur proche,ils vont entr,er
+Retenir,Présent,je ret,iens
+Retenir,Présent,tu ret,iens
+Retenir,Présent,il ret,ient
+Retenir,Présent,nous ret,enons
+Retenir,Présent,vous ret,enez
+Retenir,Présent,ils ret,iennent
+Retenir,Passé composé,j'ai ret,enu
+Retenir,Passé composé,tu as ret,enu
+Retenir,Passé composé,il a ret,enu
+Retenir,Passé composé,nous avons ret,enu
+Retenir,Passé composé,vous avez ret,enu
+Retenir,Passé composé,ils ont ret,enu
+Retenir,Imparfait,je ret,enais
+Retenir,Imparfait,tu ret,enais
+Retenir,Imparfait,il ret,enait
+Retenir,Imparfait,nous ret,enions
+Retenir,Imparfait,vous ret,eniez
+Retenir,Imparfait,ils ret,enaient
+Retenir,Plus-que-parfait,j'avais ret,enu
+Retenir,Plus-que-parfait,tu avais ret,enu
+Retenir,Plus-que-parfait,il avait ret,enu
+Retenir,Plus-que-parfait,nous avions ret,enu
+Retenir,Plus-que-parfait,vous aviez ret,enu
+Retenir,Plus-que-parfait,ils avaient ret,enu
+Retenir,Passé simple,je ret,ins
+Retenir,Passé simple,tu ret,ins
+Retenir,Passé simple,il ret,int
+Retenir,Passé simple,nous ret,înmes
+Retenir,Passé simple,vous ret,întes
+Retenir,Passé simple,ils ret,inrent
+Retenir,Passé antérieur,j'eus ret,enu
+Retenir,Passé antérieur,tu eus ret,enu
+Retenir,Passé antérieur,il eut ret,enu
+Retenir,Passé antérieur,nous eûmes ret,enu
+Retenir,Passé antérieur,vous eûtes ret,enu
+Retenir,Passé antérieur,ils eurent ret,enu
+Retenir,Futur,je ret,iendrai
+Retenir,Futur,tu ret,iendras
+Retenir,Futur,il ret,iendra
+Retenir,Futur,nous ret,iendrons
+Retenir,Futur,vous ret,iendrez
+Retenir,Futur,ils ret,iendront
+Retenir,Futur antérieur,j'aurai ret,enu
+Retenir,Futur antérieur,tu auras ret,enu
+Retenir,Futur antérieur,il aura ret,enu
+Retenir,Futur antérieur,nous aurons ret,enu
+Retenir,Futur antérieur,vous aurez ret,enu
+Retenir,Futur antérieur,ils auront ret,enu
+Retenir,Futur proche,je vais ret,enir
+Retenir,Futur proche,tu vas ret,enir
+Retenir,Futur proche,il va ret,enir
+Retenir,Futur proche,nous allons ret,enir
+Retenir,Futur proche,vous allez ret,enir
+Retenir,Futur proche,ils vont ret,enir
+Écrire,Présent,j'écri,s
+Écrire,Présent,tu écri,s
+Écrire,Présent,il écri,t
+Écrire,Présent,nous écri,vons
+Écrire,Présent,vous écri,vez
+Écrire,Présent,ils écri,vent
+Écrire,Passé composé,j'ai écri,t
+Écrire,Passé composé,tu as écri,t
+Écrire,Passé composé,il a écri,t
+Écrire,Passé composé,nous avons écri,t
+Écrire,Passé composé,vous avez écri,t
+Écrire,Passé composé,ils ont écri,t
+Écrire,Imparfait,j'écri,vais
+Écrire,Imparfait,tu écri,vais
+Écrire,Imparfait,il écri,vait
+Écrire,Imparfait,nous écri,vions
+Écrire,Imparfait,vous écri,viez
+Écrire,Imparfait,ils écri,vaient
+Écrire,Plus-que-parfait,j'avais écri,t
+Écrire,Plus-que-parfait,tu avais écri,t
+Écrire,Plus-que-parfait,il avait écri,t
+Écrire,Plus-que-parfait,nous avions écri,t
+Écrire,Plus-que-parfait,vous aviez écri,t
+Écrire,Plus-que-parfait,ils avaient écri,t
+Écrire,Passé simple,j'écri,vis
+Écrire,Passé simple,tu écri,vis
+Écrire,Passé simple,il écri,vit
+Écrire,Passé simple,nous écri,vîmes
+Écrire,Passé simple,vous écri,vîtes
+Écrire,Passé simple,ils écri,virent
+Écrire,Passé antérieur,j'eus écri,t
+Écrire,Passé antérieur,tu eus écri,t
+Écrire,Passé antérieur,il eut écri,t
+Écrire,Passé antérieur,nous eûmes écri,t
+Écrire,Passé antérieur,vous eûtes écri,t
+Écrire,Passé antérieur,ils eurent écri,t
+Écrire,Futur,j'écri,rai
+Écrire,Futur,tu écri,ras
+Écrire,Futur,il écri,ra
+Écrire,Futur,nous écri,rons
+Écrire,Futur,vous écri,rez
+Écrire,Futur,ils écri,ront
+Écrire,Futur antérieur,j'aurai écri,t
+Écrire,Futur antérieur,tu auras écri,t
+Écrire,Futur antérieur,il aura écri,t
+Écrire,Futur antérieur,nous aurons écri,t
+Écrire,Futur antérieur,vous aurez écri,t
+Écrire,Futur antérieur,ils auront écri,t
+Écrire,Futur proche,je vais écri,re
+Écrire,Futur proche,tu vas écri,re
+Écrire,Futur proche,il va écri,re
+Écrire,Futur proche,nous allons écri,re
+Écrire,Futur proche,vous allez écri,re
+Écrire,Futur proche,ils vont écri,re
+Appeler,Présent,j'app,elle
+Appeler,Présent,tu app,elles
+Appeler,Présent,il app,elle
+Appeler,Présent,nous app,elons
+Appeler,Présent,vous app,elez
+Appeler,Présent,ils app,ellent
+Appeler,Passé composé,j'ai app,elé
+Appeler,Passé composé,tu as app,elé
+Appeler,Passé composé,il a app,elé
+Appeler,Passé composé,nous avons app,elé
+Appeler,Passé composé,vous avez app,elé
+Appeler,Passé composé,ils ont app,elé
+Appeler,Imparfait,j'app,elais
+Appeler,Imparfait,tu app,elais
+Appeler,Imparfait,il app,elait
+Appeler,Imparfait,nous app,elions
+Appeler,Imparfait,vous app,eliez
+Appeler,Imparfait,ils app,elaient
+Appeler,Plus-que-parfait,j'avais app,elé
+Appeler,Plus-que-parfait,tu avais app,elé
+Appeler,Plus-que-parfait,il avait app,elé
+Appeler,Plus-que-parfait,nous avions app,elé
+Appeler,Plus-que-parfait,vous aviez app,elé
+Appeler,Plus-que-parfait,ils avaient app,elé
+Appeler,Passé simple,j'app,elai
+Appeler,Passé simple,tu app,elas
+Appeler,Passé simple,il app,ela
+Appeler,Passé simple,nous app,elâmes
+Appeler,Passé simple,vous app,elâtes
+Appeler,Passé simple,ils app,elèrent
+Appeler,Passé antérieur,j'eus app,elé
+Appeler,Passé antérieur,tu eus app,elé
+Appeler,Passé antérieur,il eut app,elé
+Appeler,Passé antérieur,nous eûmes app,elé
+Appeler,Passé antérieur,vous eûtes app,elé
+Appeler,Passé antérieur,ils eurent app,elé
+Appeler,Futur,j'app,ellerai
+Appeler,Futur,tu app,elleras
+Appeler,Futur,il app,ellera
+Appeler,Futur,nous app,ellerons
+Appeler,Futur,vous app,ellerez
+Appeler,Futur,ils app,elleront
+Appeler,Futur antérieur,j'aurai app,elé
+Appeler,Futur antérieur,tu auras app,elé
+Appeler,Futur antérieur,il aura app,elé
+Appeler,Futur antérieur,nous aurons app,elé
+Appeler,Futur antérieur,vous aurez app,elé
+Appeler,Futur antérieur,ils auront app,elé
+Appeler,Futur proche,je vais app,eler
+Appeler,Futur proche,tu vas app,eler
+Appeler,Futur proche,il va app,eler
+Appeler,Futur proche,nous allons app,eler
+Appeler,Futur proche,vous allez app,eler
+Appeler,Futur proche,ils vont app,eler
+Tomber,Présent,je tomb,e
+Tomber,Présent,tu tomb,es
+Tomber,Présent,il tomb,e
+Tomber,Présent,nous tomb,ons
+Tomber,Présent,vous tomb,ez
+Tomber,Présent,ils tomb,ent
+Tomber,Passé composé,je suis tomb,é
+Tomber,Passé composé,tu es tomb,é
+Tomber,Passé composé,il est tomb,é
+Tomber,Passé composé,nous sommes tomb,és
+Tomber,Passé composé,vous êtes tomb,és
+Tomber,Passé composé,ils sont tomb,és
+Tomber,Imparfait,je tomb,ais
+Tomber,Imparfait,tu tomb,ais
+Tomber,Imparfait,il tomb,ait
+Tomber,Imparfait,nous tomb,ions
+Tomber,Imparfait,vous tomb,iez
+Tomber,Imparfait,ils tomb,aient
+Tomber,Plus-que-parfait,j'étais tomb,é
+Tomber,Plus-que-parfait,tu étais tomb,é
+Tomber,Plus-que-parfait,il était tomb,é
+Tomber,Plus-que-parfait,nous étions tomb,és
+Tomber,Plus-que-parfait,vous étiez tomb,és
+Tomber,Plus-que-parfait,ils étaient tomb,és
+Tomber,Passé simple,je tomb,ai
+Tomber,Passé simple,tu tomb,as
+Tomber,Passé simple,il tomb,a
+Tomber,Passé simple,nous tomb,âmes
+Tomber,Passé simple,vous tomb,âtes
+Tomber,Passé simple,ils tomb,èrent
+Tomber,Passé antérieur,je fus tomb,é
+Tomber,Passé antérieur,tu fus tomb,é
+Tomber,Passé antérieur,il fut tomb,é
+Tomber,Passé antérieur,nous fûmes tomb,és
+Tomber,Passé antérieur,vous fûtes tomb,és
+Tomber,Passé antérieur,ils furent tomb,és
+Tomber,Futur,je tomb,erai
+Tomber,Futur,tu tomb,eras
+Tomber,Futur,il tomb,era
+Tomber,Futur,nous tomb,erons
+Tomber,Futur,vous tomb,erez
+Tomber,Futur,ils tomb,eront
+Tomber,Futur antérieur,je serai tomb,é
+Tomber,Futur antérieur,tu seras tomb,é
+Tomber,Futur antérieur,il sera tomb,é
+Tomber,Futur antérieur,nous serons tomb,és
+Tomber,Futur antérieur,vous serez tomb,és
+Tomber,Futur antérieur,ils seront tomb,és
+Tomber,Futur proche,je vais tomb,er
+Tomber,Futur proche,tu vas tomb,er
+Tomber,Futur proche,il va tomb,er
+Tomber,Futur proche,nous allons tomb,er
+Tomber,Futur proche,vous allez tomb,er
+Tomber,Futur proche,ils vont tomb,er
+Reprendre,Présent,je repr,ends
+Reprendre,Présent,tu repr,ends
+Reprendre,Présent,il repr,end
+Reprendre,Présent,nous repr,enons
+Reprendre,Présent,vous repr,enez
+Reprendre,Présent,ils repr,ennent
+Reprendre,Passé composé,j'ai repr,is
+Reprendre,Passé composé,tu as repr,is
+Reprendre,Passé composé,il a repr,is
+Reprendre,Passé composé,nous avons repr,is
+Reprendre,Passé composé,vous avez repr,is
+Reprendre,Passé composé,ils ont repr,is
+Reprendre,Imparfait,je repr,enais
+Reprendre,Imparfait,tu repr,enais
+Reprendre,Imparfait,il repr,enait
+Reprendre,Imparfait,nous repr,enions
+Reprendre,Imparfait,vous repr,eniez
+Reprendre,Imparfait,ils repr,enaient
+Reprendre,Plus-que-parfait,j'avais repr,is
+Reprendre,Plus-que-parfait,tu avais repr,is
+Reprendre,Plus-que-parfait,il avait repr,is
+Reprendre,Plus-que-parfait,nous avions repr,is
+Reprendre,Plus-que-parfait,vous aviez repr,is
+Reprendre,Plus-que-parfait,ils avaient repr,is
+Reprendre,Passé simple,je repr,is
+Reprendre,Passé simple,tu repr,is
+Reprendre,Passé simple,il repr,it
+Reprendre,Passé simple,nous repr,îmes
+Reprendre,Passé simple,vous repr,îtes
+Reprendre,Passé simple,ils repr,irent
+Reprendre,Passé antérieur,j'eus repr,is
+Reprendre,Passé antérieur,tu eus repr,is
+Reprendre,Passé antérieur,il eut repr,is
+Reprendre,Passé antérieur,nous eûmes repr,is
+Reprendre,Passé antérieur,vous eûtes repr,is
+Reprendre,Passé antérieur,ils eurent repr,is
+Reprendre,Futur,je repr,endrai
+Reprendre,Futur,tu repr,endras
+Reprendre,Futur,il repr,endra
+Reprendre,Futur,nous repr,endrons
+Reprendre,Futur,vous repr,endrez
+Reprendre,Futur,ils repr,endront
+Reprendre,Futur antérieur,j'aurai repr,is
+Reprendre,Futur antérieur,tu auras repr,is
+Reprendre,Futur antérieur,il aura repr,is
+Reprendre,Futur antérieur,nous aurons repr,is
+Reprendre,Futur antérieur,vous aurez repr,is
+Reprendre,Futur antérieur,ils auront repr,is
+Reprendre,Futur proche,je vais repr,endre
+Reprendre,Futur proche,tu vas repr,endre
+Reprendre,Futur proche,il va repr,endre
+Reprendre,Futur proche,nous allons repr,endre
+Reprendre,Futur proche,vous allez repr,endre
+Reprendre,Futur proche,ils vont repr,endre
+Commencer,Présent,je commen,ce
+Commencer,Présent,tu commen,ces
+Commencer,Présent,il commen,ce
+Commencer,Présent,nous commen,çons
+Commencer,Présent,vous commen,cez
+Commencer,Présent,ils commen,cent
+Commencer,Passé composé,j'ai commen,cé
+Commencer,Passé composé,tu as commen,cé
+Commencer,Passé composé,il a commen,cé
+Commencer,Passé composé,nous avons commen,cé
+Commencer,Passé composé,vous avez commen,cé
+Commencer,Passé composé,ils ont commen,cé
+Commencer,Imparfait,je commen,çais
+Commencer,Imparfait,tu commen,çais
+Commencer,Imparfait,il commen,çait
+Commencer,Imparfait,nous commen,cions
+Commencer,Imparfait,vous commen,ciez
+Commencer,Imparfait,ils commen,çaient
+Commencer,Plus-que-parfait,j'avais commen,cé
+Commencer,Plus-que-parfait,tu avais commen,cé
+Commencer,Plus-que-parfait,il avait commen,cé
+Commencer,Plus-que-parfait,nous avions commen,cé
+Commencer,Plus-que-parfait,vous aviez commen,cé
+Commencer,Plus-que-parfait,ils avaient commen,cé
+Commencer,Passé simple,je commen,çai
+Commencer,Passé simple,tu commen,ças
+Commencer,Passé simple,il commen,ça
+Commencer,Passé simple,nous commen,çâmes
+Commencer,Passé simple,vous commen,çâtes
+Commencer,Passé simple,ils commen,cèrent
+Commencer,Passé antérieur,j'eus commen,cé
+Commencer,Passé antérieur,tu eus commen,cé
+Commencer,Passé antérieur,il eut commen,cé
+Commencer,Passé antérieur,nous eûmes commen,cé
+Commencer,Passé antérieur,vous eûtes commen,cé
+Commencer,Passé antérieur,ils eurent commen,cé
+Commencer,Futur,je commen,cerai
+Commencer,Futur,tu commen,ceras
+Commencer,Futur,il commen,cera
+Commencer,Futur,nous commen,cerons
+Commencer,Futur,vous commen,cerez
+Commencer,Futur,ils commen,ceront
+Commencer,Futur antérieur,j'aurai commen,cé
+Commencer,Futur antérieur,tu auras commen,cé
+Commencer,Futur antérieur,il aura commen,cé
+Commencer,Futur antérieur,nous aurons commen,cé
+Commencer,Futur antérieur,vous aurez commen,cé
+Commencer,Futur antérieur,ils auront commen,cé
+Commencer,Futur proche,je vais commen,cer
+Commencer,Futur proche,tu vas commen,cer
+Commencer,Futur proche,il va commen,cer
+Commencer,Futur proche,nous allons commen,cer
+Commencer,Futur proche,vous allez commen,cer
+Commencer,Futur proche,ils vont commen,cer
+Suivre,Présent,je sui,s
+Suivre,Présent,tu sui,s
+Suivre,Présent,il sui,t
+Suivre,Présent,nous sui,vons
+Suivre,Présent,vous sui,vez
+Suivre,Présent,ils sui,vent
+Suivre,Passé composé,j'ai sui,vi
+Suivre,Passé composé,tu as sui,vi
+Suivre,Passé composé,il a sui,vi
+Suivre,Passé composé,nous avons sui,vi
+Suivre,Passé composé,vous avez sui,vi
+Suivre,Passé composé,ils ont sui,vi
+Suivre,Imparfait,je sui,vais
+Suivre,Imparfait,tu sui,vais
+Suivre,Imparfait,il sui,vait
+Suivre,Imparfait,nous sui,vions
+Suivre,Imparfait,vous sui,viez
+Suivre,Imparfait,ils sui,vaient
+Suivre,Plus-que-parfait,j'avais sui,vi
+Suivre,Plus-que-parfait,tu avais sui,vi
+Suivre,Plus-que-parfait,il avait sui,vi
+Suivre,Plus-que-parfait,nous avions sui,vi
+Suivre,Plus-que-parfait,vous aviez sui,vi
+Suivre,Plus-que-parfait,ils avaient sui,vi
+Suivre,Passé simple,je sui,vis
+Suivre,Passé simple,tu sui,vis
+Suivre,Passé simple,il sui,vit
+Suivre,Passé simple,nous sui,vîmes
+Suivre,Passé simple,vous sui,vîtes
+Suivre,Passé simple,ils sui,virent
+Suivre,Passé antérieur,j'eus sui,vi
+Suivre,Passé antérieur,tu eus sui,vi
+Suivre,Passé antérieur,il eut sui,vi
+Suivre,Passé antérieur,nous eûmes sui,vi
+Suivre,Passé antérieur,vous eûtes sui,vi
+Suivre,Passé antérieur,ils eurent sui,vi
+Suivre,Futur,je sui,vrai
+Suivre,Futur,tu sui,vras
+Suivre,Futur,il sui,vra
+Suivre,Futur,nous sui,vrons
+Suivre,Futur,vous sui,vrez
+Suivre,Futur,ils sui,vront
+Suivre,Futur antérieur,j'aurai sui,vi
+Suivre,Futur antérieur,tu auras sui,vi
+Suivre,Futur antérieur,il aura sui,vi
+Suivre,Futur antérieur,nous aurons sui,vi
+Suivre,Futur antérieur,vous aurez sui,vi
+Suivre,Futur antérieur,ils auront sui,vi
+Suivre,Futur proche,je vais sui,vre
+Suivre,Futur proche,tu vas sui,vre
+Suivre,Futur proche,il va sui,vre
+Suivre,Futur proche,nous allons sui,vre
+Suivre,Futur proche,vous allez sui,vre
+Suivre,Futur proche,ils vont sui,vre
+Montrer,Présent,je montr,e
+Montrer,Présent,tu montr,es
+Montrer,Présent,il montr,e
+Montrer,Présent,nous montr,ons
+Montrer,Présent,vous montr,ez
+Montrer,Présent,ils montr,ent
+Montrer,Passé composé,j'ai montr,é
+Montrer,Passé composé,tu as montr,é
+Montrer,Passé composé,il a montr,é
+Montrer,Passé composé,nous avons montr,é
+Montrer,Passé composé,vous avez montr,é
+Montrer,Passé composé,ils ont montr,é
+Montrer,Imparfait,je montr,ais
+Montrer,Imparfait,tu montr,ais
+Montrer,Imparfait,il montr,ait
+Montrer,Imparfait,nous montr,ions
+Montrer,Imparfait,vous montr,iez
+Montrer,Imparfait,ils montr,aient
+Montrer,Plus-que-parfait,j'avais montr,é
+Montrer,Plus-que-parfait,tu avais montr,é
+Montrer,Plus-que-parfait,il avait montr,é
+Montrer,Plus-que-parfait,nous avions montr,é
+Montrer,Plus-que-parfait,vous aviez montr,é
+Montrer,Plus-que-parfait,ils avaient montr,é
+Montrer,Passé simple,je montr,ai
+Montrer,Passé simple,tu montr,as
+Montrer,Passé simple,il montr,a
+Montrer,Passé simple,nous montr,âmes
+Montrer,Passé simple,vous montr,âtes
+Montrer,Passé simple,ils montr,èrent
+Montrer,Passé antérieur,j'eus montr,é
+Montrer,Passé antérieur,tu eus montr,é
+Montrer,Passé antérieur,il eut montr,é
+Montrer,Passé antérieur,nous eûmes montr,é
+Montrer,Passé antérieur,vous eûtes montr,é
+Montrer,Passé antérieur,ils eurent montr,é
+Montrer,Futur,je montr,erai
+Montrer,Futur,tu montr,eras
+Montrer,Futur,il montr,era
+Montrer,Futur,nous montr,erons
+Montrer,Futur,vous montr,erez
+Montrer,Futur,ils montr,eront
+Montrer,Futur antérieur,j'aurai montr,é
+Montrer,Futur antérieur,tu auras montr,é
+Montrer,Futur antérieur,il aura montr,é
+Montrer,Futur antérieur,nous aurons montr,é
+Montrer,Futur antérieur,vous aurez montr,é
+Montrer,Futur antérieur,ils auront montr,é
+Montrer,Futur proche,je vais montr,er
+Montrer,Futur proche,tu vas montr,er
+Montrer,Futur proche,il va montr,er
+Montrer,Futur proche,nous allons montr,er
+Montrer,Futur proche,vous allez montr,er
+Montrer,Futur proche,ils vont montr,er
+Partir,Présent,je par,s
+Partir,Présent,tu par,s
+Partir,Présent,il par,t
+Partir,Présent,nous par,tons
+Partir,Présent,vous par,tez
+Partir,Présent,ils par,tent
+Partir,Passé composé,je suis par,ti
+Partir,Passé composé,tu es par,ti
+Partir,Passé composé,il est par,ti
+Partir,Passé composé,nous sommes par,tis
+Partir,Passé composé,vous êtes par,tis
+Partir,Passé composé,ils sont par,tis
+Partir,Imparfait,je par,tais
+Partir,Imparfait,tu par,tais
+Partir,Imparfait,il par,tait
+Partir,Imparfait,nous par,tions
+Partir,Imparfait,vous par,tiez
+Partir,Imparfait,ils par,taient
+Partir,Plus-que-parfait,j'étais par,ti
+Partir,Plus-que-parfait,tu étais par,ti
+Partir,Plus-que-parfait,il était par,ti
+Partir,Plus-que-parfait,nous étions par,tis
+Partir,Plus-que-parfait,vous étiez par,tis
+Partir,Plus-que-parfait,ils étaient par,tis
+Partir,Passé simple,je par,tis
+Partir,Passé simple,tu par,tis
+Partir,Passé simple,il par,tit
+Partir,Passé simple,nous par,tîmes
+Partir,Passé simple,vous par,tîtes
+Partir,Passé simple,ils par,tirent
+Partir,Passé antérieur,je fus par,ti
+Partir,Passé antérieur,tu fus par,ti
+Partir,Passé antérieur,il fut par,ti
+Partir,Passé antérieur,nous fûmes par,tis
+Partir,Passé antérieur,vous fûtes par,tis
+Partir,Passé antérieur,ils furent par,tis
+Partir,Futur,je par,tirai
+Partir,Futur,tu par,tiras
+Partir,Futur,il par,tira
+Partir,Futur,nous par,tirons
+Partir,Futur,vous par,tirez
+Partir,Futur,ils par,tiront
+Partir,Futur antérieur,je serai par,ti
+Partir,Futur antérieur,tu seras par,ti
+Partir,Futur antérieur,il sera par,ti
+Partir,Futur antérieur,nous serons par,tis
+Partir,Futur antérieur,vous serez par,tis
+Partir,Futur antérieur,ils seront par,tis
+Partir,Futur proche,je vais par,tir
+Partir,Futur proche,tu vas par,tir
+Partir,Futur proche,il va par,tir
+Partir,Futur proche,nous allons par,tir
+Partir,Futur proche,vous allez par,tir
+Partir,Futur proche,ils vont par,tir
+Mourir,Présent,je m,eurs
+Mourir,Présent,tu m,eurs
+Mourir,Présent,il m,eurt
+Mourir,Présent,nous m,ourons
+Mourir,Présent,vous m,ourez
+Mourir,Présent,ils m,eurent
+Mourir,Passé composé,je suis m,ort
+Mourir,Passé composé,tu es m,ort
+Mourir,Passé composé,il est m,ort
+Mourir,Passé composé,nous sommes m,orts
+Mourir,Passé composé,vous êtes m,orts
+Mourir,Passé composé,ils sont m,orts
+Mourir,Imparfait,je m,ourais
+Mourir,Imparfait,tu m,ourais
+Mourir,Imparfait,il m,ourait
+Mourir,Imparfait,nous m,ourions
+Mourir,Imparfait,vous m,ouriez
+Mourir,Imparfait,ils m,ouraient
+Mourir,Plus-que-parfait,j'étais m,ort
+Mourir,Plus-que-parfait,tu étais m,ort
+Mourir,Plus-que-parfait,il était m,ort
+Mourir,Plus-que-parfait,nous étions m,orts
+Mourir,Plus-que-parfait,vous étiez m,orts
+Mourir,Plus-que-parfait,ils étaient m,orts
+Mourir,Passé simple,je m,ourus
+Mourir,Passé simple,tu m,ourus
+Mourir,Passé simple,il m,ourut
+Mourir,Passé simple,nous m,ourûmes
+Mourir,Passé simple,vous m,ourûtes
+Mourir,Passé simple,ils m,oururent
+Mourir,Passé antérieur,je fus m,ort
+Mourir,Passé antérieur,tu fus m,ort
+Mourir,Passé antérieur,il fut m,ort
+Mourir,Passé antérieur,nous fûmes m,orts
+Mourir,Passé antérieur,vous fûtes m,orts
+Mourir,Passé antérieur,ils furent m,orts
+Mourir,Futur,je m,ourrai
+Mourir,Futur,tu m,ourras
+Mourir,Futur,il m,ourra
+Mourir,Futur,nous m,ourrons
+Mourir,Futur,vous m,ourrez
+Mourir,Futur,ils m,ourront
+Mourir,Futur antérieur,je serai m,ort
+Mourir,Futur antérieur,tu seras m,ort
+Mourir,Futur antérieur,il sera m,ort
+Mourir,Futur antérieur,nous serons m,orts
+Mourir,Futur antérieur,vous serez m,orts
+Mourir,Futur antérieur,ils seront m,orts
+Mourir,Futur proche,je vais m,ourir
+Mourir,Futur proche,tu vas m,ourir
+Mourir,Futur proche,il va m,ourir
+Mourir,Futur proche,nous allons m,ourir
+Mourir,Futur proche,vous allez m,ourir
+Mourir,Futur proche,ils vont m,ourir
+Ouvrir,Présent,j'ouv,re
+Ouvrir,Présent,tu ouv,res
+Ouvrir,Présent,il ouv,re
+Ouvrir,Présent,nous ouv,rons
+Ouvrir,Présent,vous ouv,rez
+Ouvrir,Présent,ils ouv,rent
+Ouvrir,Passé composé,j'ai ouv,ert
+Ouvrir,Passé composé,tu as ouv,ert
+Ouvrir,Passé composé,il a ouv,ert
+Ouvrir,Passé composé,nous avons ouv,ert
+Ouvrir,Passé composé,vous avez ouv,ert
+Ouvrir,Passé composé,ils ont ouv,ert
+Ouvrir,Imparfait,j'ouv,rais
+Ouvrir,Imparfait,tu ouv,rais
+Ouvrir,Imparfait,il ouv,rait
+Ouvrir,Imparfait,nous ouv,rions
+Ouvrir,Imparfait,vous ouv,riez
+Ouvrir,Imparfait,ils ouv,raient
+Ouvrir,Plus-que-parfait,j'avais ouv,ert
+Ouvrir,Plus-que-parfait,tu avais ouv,ert
+Ouvrir,Plus-que-parfait,il avait ouv,ert
+Ouvrir,Plus-que-parfait,nous avions ouv,ert
+Ouvrir,Plus-que-parfait,vous aviez ouv,ert
+Ouvrir,Plus-que-parfait,ils avaient ouv,ert
+Ouvrir,Passé simple,j'ouv,ris
+Ouvrir,Passé simple,tu ouv,ris
+Ouvrir,Passé simple,il ouv,rit
+Ouvrir,Passé simple,nous ouv,rîmes
+Ouvrir,Passé simple,vous ouv,rîtes
+Ouvrir,Passé simple,ils ouv,rirent
+Ouvrir,Passé antérieur,j'eus ouv,ert
+Ouvrir,Passé antérieur,tu eus ouv,ert
+Ouvrir,Passé antérieur,il eut ouv,ert
+Ouvrir,Passé antérieur,nous eûmes ouv,ert
+Ouvrir,Passé antérieur,vous eûtes ouv,ert
+Ouvrir,Passé antérieur,ils eurent ouv,ert
+Ouvrir,Futur,j'ouv,rirai
+Ouvrir,Futur,tu ouv,riras
+Ouvrir,Futur,il ouv,rira
+Ouvrir,Futur,nous ouv,rirons
+Ouvrir,Futur,vous ouv,rirez
+Ouvrir,Futur,ils ouv,riront
+Ouvrir,Futur antérieur,j'aurai ouv,ert
+Ouvrir,Futur antérieur,tu auras ouv,ert
+Ouvrir,Futur antérieur,il aura ouv,ert
+Ouvrir,Futur antérieur,nous aurons ouv,ert
+Ouvrir,Futur antérieur,vous aurez ouv,ert
+Ouvrir,Futur antérieur,ils auront ouv,ert
+Ouvrir,Futur proche,je vais ouv,rir
+Ouvrir,Futur proche,tu vas ouv,rir
+Ouvrir,Futur proche,il va ouv,rir
+Ouvrir,Futur proche,nous allons ouv,rir
+Ouvrir,Futur proche,vous allez ouv,rir
+Ouvrir,Futur proche,ils vont ouv,rir
+Lire,Présent,je l,is
+Lire,Présent,tu l,is
+Lire,Présent,il l,it
+Lire,Présent,nous l,isons
+Lire,Présent,vous l,isez
+Lire,Présent,ils l,isent
+Lire,Passé composé,j'ai l,u
+Lire,Passé composé,tu as l,u
+Lire,Passé composé,il a l,u
+Lire,Passé composé,nous avons l,u
+Lire,Passé composé,vous avez l,u
+Lire,Passé composé,ils ont l,u
+Lire,Imparfait,je l,isais
+Lire,Imparfait,tu l,isais
+Lire,Imparfait,il l,isait
+Lire,Imparfait,nous l,isions
+Lire,Imparfait,vous l,isiez
+Lire,Imparfait,ils l,isaient
+Lire,Plus-que-parfait,j'avais l,u
+Lire,Plus-que-parfait,tu avais l,u
+Lire,Plus-que-parfait,il avait l,u
+Lire,Plus-que-parfait,nous avions l,u
+Lire,Plus-que-parfait,vous aviez l,u
+Lire,Plus-que-parfait,ils avaient l,u
+Lire,Passé simple,je l,us
+Lire,Passé simple,tu l,us
+Lire,Passé simple,il l,ut
+Lire,Passé simple,nous l,ûmes
+Lire,Passé simple,vous l,ûtes
+Lire,Passé simple,ils l,urent
+Lire,Passé antérieur,j'eus l,u
+Lire,Passé antérieur,tu eus l,u
+Lire,Passé antérieur,il eut l,u
+Lire,Passé antérieur,nous eûmes l,u
+Lire,Passé antérieur,vous eûtes l,u
+Lire,Passé antérieur,ils eurent l,u
+Lire,Futur,je l,irai
+Lire,Futur,tu l,iras
+Lire,Futur,il l,ira
+Lire,Futur,nous l,irons
+Lire,Futur,vous l,irez
+Lire,Futur,ils l,iront
+Lire,Futur antérieur,j'aurai l,u
+Lire,Futur antérieur,tu auras l,u
+Lire,Futur antérieur,il aura l,u
+Lire,Futur antérieur,nous aurons l,u
+Lire,Futur antérieur,vous aurez l,u
+Lire,Futur antérieur,ils auront l,u
+Lire,Futur proche,je vais l,ire
+Lire,Futur proche,tu vas l,ire
+Lire,Futur proche,il va l,ire
+Lire,Futur proche,nous allons l,ire
+Lire,Futur proche,vous allez l,ire
+Lire,Futur proche,ils vont l,ire
+Arrêter,Présent,j'arrêt,e
+Arrêter,Présent,tu arrêt,es
+Arrêter,Présent,il arrêt,e
+Arrêter,Présent,nous arrêt,ons
+Arrêter,Présent,vous arrêt,ez
+Arrêter,Présent,ils arrêt,ent
+Arrêter,Passé composé,j'ai arrêt,é
+Arrêter,Passé composé,tu as arrêt,é
+Arrêter,Passé composé,il a arrêt,é
+Arrêter,Passé composé,nous avons arrêt,é
+Arrêter,Passé composé,vous avez arrêt,é
+Arrêter,Passé composé,ils ont arrêt,é
+Arrêter,Imparfait,j'arrêt,ais
+Arrêter,Imparfait,tu arrêt,ais
+Arrêter,Imparfait,il arrêt,ait
+Arrêter,Imparfait,nous arrêt,ions
+Arrêter,Imparfait,vous arrêt,iez
+Arrêter,Imparfait,ils arrêt,aient
+Arrêter,Plus-que-parfait,j'avais arrêt,é
+Arrêter,Plus-que-parfait,tu avais arrêt,é
+Arrêter,Plus-que-parfait,il avait arrêt,é
+Arrêter,Plus-que-parfait,nous avions arrêt,é
+Arrêter,Plus-que-parfait,vous aviez arrêt,é
+Arrêter,Plus-que-parfait,ils avaient arrêt,é
+Arrêter,Passé simple,j'arrêt,ai
+Arrêter,Passé simple,tu arrêt,as
+Arrêter,Passé simple,il arrêt,a
+Arrêter,Passé simple,nous arrêt,âmes
+Arrêter,Passé simple,vous arrêt,âtes
+Arrêter,Passé simple,ils arrêt,èrent
+Arrêter,Passé antérieur,j'eus arrêt,é
+Arrêter,Passé antérieur,tu eus arrêt,é
+Arrêter,Passé antérieur,il eut arrêt,é
+Arrêter,Passé antérieur,nous eûmes arrêt,é
+Arrêter,Passé antérieur,vous eûtes arrêt,é
+Arrêter,Passé antérieur,ils eurent arrêt,é
+Arrêter,Futur,j'arrêt,erai
+Arrêter,Futur,tu arrêt,eras
+Arrêter,Futur,il arrêt,era
+Arrêter,Futur,nous arrêt,erons
+Arrêter,Futur,vous arrêt,erez
+Arrêter,Futur,ils arrêt,eront
+Arrêter,Futur antérieur,j'aurai arrêt,é
+Arrêter,Futur antérieur,tu auras arrêt,é
+Arrêter,Futur antérieur,il aura arrêt,é
+Arrêter,Futur antérieur,nous aurons arrêt,é
+Arrêter,Futur antérieur,vous aurez arrêt,é
+Arrêter,Futur antérieur,ils auront arrêt,é
+Arrêter,Futur proche,je vais arrêt,er
+Arrêter,Futur proche,tu vas arrêt,er
+Arrêter,Futur proche,il va arrêt,er
+Arrêter,Futur proche,nous allons arrêt,er
+Arrêter,Futur proche,vous allez arrêt,er
+Arrêter,Futur proche,ils vont arrêt,er
+Servir,Présent,je ser,s
+Servir,Présent,tu ser,s
+Servir,Présent,il ser,t
+Servir,Présent,nous ser,vons
+Servir,Présent,vous ser,vez
+Servir,Présent,ils ser,vent
+Servir,Passé composé,j'ai ser,vi
+Servir,Passé composé,tu as ser,vi
+Servir,Passé composé,il a ser,vi
+Servir,Passé composé,nous avons ser,vi
+Servir,Passé composé,vous avez ser,vi
+Servir,Passé composé,ils ont ser,vi
+Servir,Imparfait,je ser,vais
+Servir,Imparfait,tu ser,vais
+Servir,Imparfait,il ser,vait
+Servir,Imparfait,nous ser,vions
+Servir,Imparfait,vous ser,viez
+Servir,Imparfait,ils ser,vaient
+Servir,Plus-que-parfait,j'avais ser,vi
+Servir,Plus-que-parfait,tu avais ser,vi
+Servir,Plus-que-parfait,il avait ser,vi
+Servir,Plus-que-parfait,nous avions ser,vi
+Servir,Plus-que-parfait,vous aviez ser,vi
+Servir,Plus-que-parfait,ils avaient ser,vi
+Servir,Passé simple,je ser,vis
+Servir,Passé simple,tu ser,vis
+Servir,Passé simple,il ser,vit
+Servir,Passé simple,nous ser,vîmes
+Servir,Passé simple,vous ser,vîtes
+Servir,Passé simple,ils ser,virent
+Servir,Passé antérieur,j'eus ser,vi
+Servir,Passé antérieur,tu eus ser,vi
+Servir,Passé antérieur,il eut ser,vi
+Servir,Passé antérieur,nous eûmes ser,vi
+Servir,Passé antérieur,vous eûtes ser,vi
+Servir,Passé antérieur,ils eurent ser,vi
+Servir,Futur,je ser,virai
+Servir,Futur,tu ser,viras
+Servir,Futur,il ser,vira
+Servir,Futur,nous ser,virons
+Servir,Futur,vous ser,virez
+Servir,Futur,ils ser,viront
+Servir,Futur antérieur,j'aurai ser,vi
+Servir,Futur antérieur,tu auras ser,vi
+Servir,Futur antérieur,il aura ser,vi
+Servir,Futur antérieur,nous aurons ser,vi
+Servir,Futur antérieur,vous aurez ser,vi
+Servir,Futur antérieur,ils auront ser,vi
+Servir,Futur proche,je vais ser,vir
+Servir,Futur proche,tu vas ser,vir
+Servir,Futur proche,il va ser,vir
+Servir,Futur proche,nous allons ser,vir
+Servir,Futur proche,vous allez ser,vir
+Servir,Futur proche,ils vont ser,vir
+Jeter,Présent,je j,ette
+Jeter,Présent,tu j,ettes
+Jeter,Présent,il j,ette
+Jeter,Présent,nous j,etons
+Jeter,Présent,vous j,etez
+Jeter,Présent,ils j,ettent
+Jeter,Passé composé,j'ai j,eté
+Jeter,Passé composé,tu as j,eté
+Jeter,Passé composé,il a j,eté
+Jeter,Passé composé,nous avons j,eté
+Jeter,Passé composé,vous avez j,eté
+Jeter,Passé composé,ils ont j,eté
+Jeter,Imparfait,je j,etais
+Jeter,Imparfait,tu j,etais
+Jeter,Imparfait,il j,etait
+Jeter,Imparfait,nous j,etions
+Jeter,Imparfait,vous j,etiez
+Jeter,Imparfait,ils j,etaient
+Jeter,Plus-que-parfait,j'avais j,eté
+Jeter,Plus-que-parfait,tu avais j,eté
+Jeter,Plus-que-parfait,il avait j,eté
+Jeter,Plus-que-parfait,nous avions j,eté
+Jeter,Plus-que-parfait,vous aviez j,eté
+Jeter,Plus-que-parfait,ils avaient j,eté
+Jeter,Passé simple,je j,etai
+Jeter,Passé simple,tu j,etas
+Jeter,Passé simple,il j,eta
+Jeter,Passé simple,nous j,etâmes
+Jeter,Passé simple,vous j,etâtes
+Jeter,Passé simple,ils j,etèrent
+Jeter,Passé antérieur,j'eus j,eté
+Jeter,Passé antérieur,tu eus j,eté
+Jeter,Passé antérieur,il eut j,eté
+Jeter,Passé antérieur,nous eûmes j,eté
+Jeter,Passé antérieur,vous eûtes j,eté
+Jeter,Passé antérieur,ils eurent j,eté
+Jeter,Futur,je j,etterai
+Jeter,Futur,tu j,etteras
+Jeter,Futur,il j,ettera
+Jeter,Futur,nous j,etterons
+Jeter,Futur,vous j,etterez
+Jeter,Futur,ils j,etteront
+Jeter,Futur antérieur,j'aurai j,eté
+Jeter,Futur antérieur,tu auras j,eté
+Jeter,Futur antérieur,il aura j,eté
+Jeter,Futur antérieur,nous aurons j,eté
+Jeter,Futur antérieur,vous aurez j,eté
+Jeter,Futur antérieur,ils auront j,eté
+Jeter,Futur proche,je vais j,eter
+Jeter,Futur proche,tu vas j,eter
+Jeter,Futur proche,il va j,eter
+Jeter,Futur proche,nous allons j,eter
+Jeter,Futur proche,vous allez j,eter
+Jeter,Futur proche,ils vont j,eter
+Recevoir,Présent,je re,çois
+Recevoir,Présent,tu re,çois
+Recevoir,Présent,il re,çoit
+Recevoir,Présent,nous re,cevons
+Recevoir,Présent,vous re,cevez
+Recevoir,Présent,ils re,çoivent
+Recevoir,Passé composé,j'ai re,çu
+Recevoir,Passé composé,tu as re,çu
+Recevoir,Passé composé,il a re,çu
+Recevoir,Passé composé,nous avons re,çu
+Recevoir,Passé composé,vous avez re,çu
+Recevoir,Passé composé,ils ont re,çu
+Recevoir,Imparfait,je re,cevais
+Recevoir,Imparfait,tu re,cevais
+Recevoir,Imparfait,il re,cevait
+Recevoir,Imparfait,nous re,cevions
+Recevoir,Imparfait,vous re,ceviez
+Recevoir,Imparfait,ils re,cevaient
+Recevoir,Plus-que-parfait,j'avais re,çu
+Recevoir,Plus-que-parfait,tu avais re,çu
+Recevoir,Plus-que-parfait,il avait re,çu
+Recevoir,Plus-que-parfait,nous avions re,çu
+Recevoir,Plus-que-parfait,vous aviez re,çu
+Recevoir,Plus-que-parfait,ils avaient re,çu
+Recevoir,Passé simple,je re,çus
+Recevoir,Passé simple,tu re,çus
+Recevoir,Passé simple,il re,çut
+Recevoir,Passé simple,nous re,çûmes
+Recevoir,Passé simple,vous re,çûtes
+Recevoir,Passé simple,ils re,çurent
+Recevoir,Passé antérieur,j'eus re,çu
+Recevoir,Passé antérieur,tu eus re,çu
+Recevoir,Passé antérieur,il eut re,çu
+Recevoir,Passé antérieur,nous eûmes re,çu
+Recevoir,Passé antérieur,vous eûtes re,çu
+Recevoir,Passé antérieur,ils eurent re,çu
+Recevoir,Futur,je re,cevrai
+Recevoir,Futur,tu re,cevras
+Recevoir,Futur,il re,cevra
+Recevoir,Futur,nous re,cevrons
+Recevoir,Futur,vous re,cevrez
+Recevoir,Futur,ils re,cevront
+Recevoir,Futur antérieur,j'aurai re,çu
+Recevoir,Futur antérieur,tu auras re,çu
+Recevoir,Futur antérieur,il aura re,çu
+Recevoir,Futur antérieur,nous aurons re,çu
+Recevoir,Futur antérieur,vous aurez re,çu
+Recevoir,Futur antérieur,ils auront re,çu
+Recevoir,Futur proche,je vais re,cevoir
+Recevoir,Futur proche,tu vas re,cevoir
+Recevoir,Futur proche,il va re,cevoir
+Recevoir,Futur proche,nous allons re,cevoir
+Recevoir,Futur proche,vous allez re,cevoir
+Recevoir,Futur proche,ils vont re,cevoir
+Monter,Présent,je mont,e
+Monter,Présent,tu mont,es
+Monter,Présent,il mont,e
+Monter,Présent,nous mont,ons
+Monter,Présent,vous mont,ez
+Monter,Présent,ils mont,ent
+Monter,Passé composé,je suis mont,é
+Monter,Passé composé,tu es mont,é
+Monter,Passé composé,il est mont,é
+Monter,Passé composé,nous sommes mont,és
+Monter,Passé composé,vous êtes mont,és
+Monter,Passé composé,ils sont mont,és
+Monter,Imparfait,je mont,ais
+Monter,Imparfait,tu mont,ais
+Monter,Imparfait,il mont,ait
+Monter,Imparfait,nous mont,ions
+Monter,Imparfait,vous mont,iez
+Monter,Imparfait,ils mont,aient
+Monter,Plus-que-parfait,j'étais mont,é
+Monter,Plus-que-parfait,tu étais mont,é
+Monter,Plus-que-parfait,il était mont,é
+Monter,Plus-que-parfait,nous étions mont,és
+Monter,Plus-que-parfait,vous étiez mont,és
+Monter,Plus-que-parfait,ils étaient mont,és
+Monter,Passé simple,je mont,ai
+Monter,Passé simple,tu mont,as
+Monter,Passé simple,il mont,a
+Monter,Passé simple,nous mont,âmes
+Monter,Passé simple,vous mont,âtes
+Monter,Passé simple,ils mont,èrent
+Monter,Passé antérieur,je fus mont,é
+Monter,Passé antérieur,tu fus mont,é
+Monter,Passé antérieur,il fut mont,é
+Monter,Passé antérieur,nous fûmes mont,és
+Monter,Passé antérieur,vous fûtes mont,és
+Monter,Passé antérieur,ils furent mont,és
+Monter,Futur,je mont,erai
+Monter,Futur,tu mont,eras
+Monter,Futur,il mont,era
+Monter,Futur,nous mont,erons
+Monter,Futur,vous mont,erez
+Monter,Futur,ils mont,eront
+Monter,Futur antérieur,je serai mont,é
+Monter,Futur antérieur,tu seras mont,é
+Monter,Futur antérieur,il sera mont,é
+Monter,Futur antérieur,nous serons mont,és
+Monter,Futur antérieur,vous serez mont,és
+Monter,Futur antérieur,ils seront mont,és
+Monter,Futur proche,je vais mont,er
+Monter,Futur proche,tu vas mont,er
+Monter,Futur proche,il va mont,er
+Monter,Futur proche,nous allons mont,er
+Monter,Futur proche,vous allez mont,er
+Monter,Futur proche,ils vont mont,er
+Lever,Présent,je l,ève
+Lever,Présent,tu l,èves
+Lever,Présent,il l,ève
+Lever,Présent,nous l,evons
+Lever,Présent,vous l,evez
+Lever,Présent,ils l,èvent
+Lever,Passé composé,j'ai l,evé
+Lever,Passé composé,tu as l,evé
+Lever,Passé composé,il a l,evé
+Lever,Passé composé,nous avons l,evé
+Lever,Passé composé,vous avez l,evé
+Lever,Passé composé,ils ont l,evé
+Lever,Imparfait,je l,evais
+Lever,Imparfait,tu l,evais
+Lever,Imparfait,il l,evait
+Lever,Imparfait,nous l,evions
+Lever,Imparfait,vous l,eviez
+Lever,Imparfait,ils l,evaient
+Lever,Plus-que-parfait,j'avais l,evé
+Lever,Plus-que-parfait,tu avais l,evé
+Lever,Plus-que-parfait,il avait l,evé
+Lever,Plus-que-parfait,nous avions l,evé
+Lever,Plus-que-parfait,vous aviez l,evé
+Lever,Plus-que-parfait,ils avaient l,evé
+Lever,Passé simple,je l,evai
+Lever,Passé simple,tu l,evas
+Lever,Passé simple,il l,eva
+Lever,Passé simple,nous l,evâmes
+Lever,Passé simple,vous l,evâtes
+Lever,Passé simple,ils l,evèrent
+Lever,Passé antérieur,j'eus l,evé
+Lever,Passé antérieur,tu eus l,evé
+Lever,Passé antérieur,il eut l,evé
+Lever,Passé antérieur,nous eûmes l,evé
+Lever,Passé antérieur,vous eûtes l,evé
+Lever,Passé antérieur,ils eurent l,evé
+Lever,Futur,je l,èverai
+Lever,Futur,tu l,èveras
+Lever,Futur,il l,èvera
+Lever,Futur,nous l,èverons
+Lever,Futur,vous l,èverez
+Lever,Futur,ils l,èveront
+Lever,Futur antérieur,j'aurai l,evé
+Lever,Futur antérieur,tu auras l,evé
+Lever,Futur antérieur,il aura l,evé
+Lever,Futur antérieur,nous aurons l,evé
+Lever,Futur antérieur,vous aurez l,evé
+Lever,Futur antérieur,ils auront l,evé
+Lever,Futur proche,je vais l,ever
+Lever,Futur proche,tu vas l,ever
+Lever,Futur proche,il va l,ever
+Lever,Futur proche,nous allons l,ever
+Lever,Futur proche,vous allez l,ever
+Lever,Futur proche,ils vont l,ever
+Agir,Présent,j'ag,is
+Agir,Présent,tu ag,is
+Agir,Présent,il ag,it
+Agir,Présent,nous ag,issons
+Agir,Présent,vous ag,issez
+Agir,Présent,ils ag,issent
+Agir,Passé composé,j'ai ag,i
+Agir,Passé composé,tu as ag,i
+Agir,Passé composé,il a ag,i
+Agir,Passé composé,nous avons ag,i
+Agir,Passé composé,vous avez ag,i
+Agir,Passé composé,ils ont ag,i
+Agir,Imparfait,j'ag,issais
+Agir,Imparfait,tu ag,issais
+Agir,Imparfait,il ag,issait
+Agir,Imparfait,nous ag,issions
+Agir,Imparfait,vous ag,issiez
+Agir,Imparfait,ils ag,issaient
+Agir,Plus-que-parfait,j'avais ag,i
+Agir,Plus-que-parfait,tu avais ag,i
+Agir,Plus-que-parfait,il avait ag,i
+Agir,Plus-que-parfait,nous avions ag,i
+Agir,Plus-que-parfait,vous aviez ag,i
+Agir,Plus-que-parfait,ils avaient ag,i
+Agir,Passé simple,j'ag,is
+Agir,Passé simple,tu ag,is
+Agir,Passé simple,il ag,it
+Agir,Passé simple,nous ag,îmes
+Agir,Passé simple,vous ag,îtes
+Agir,Passé simple,ils ag,irent
+Agir,Passé antérieur,j'eus ag,i
+Agir,Passé antérieur,tu eus ag,i
+Agir,Passé antérieur,il eut ag,i
+Agir,Passé antérieur,nous eûmes ag,i
+Agir,Passé antérieur,vous eûtes ag,i
+Agir,Passé antérieur,ils eurent ag,i
+Agir,Futur,j'ag,irai
+Agir,Futur,tu ag,iras
+Agir,Futur,il ag,ira
+Agir,Futur,nous ag,irons
+Agir,Futur,vous ag,irez
+Agir,Futur,ils ag,iront
+Agir,Futur antérieur,j'aurai ag,i
+Agir,Futur antérieur,tu auras ag,i
+Agir,Futur antérieur,il aura ag,i
+Agir,Futur antérieur,nous aurons ag,i
+Agir,Futur antérieur,vous aurez ag,i
+Agir,Futur antérieur,ils auront ag,i
+Agir,Futur proche,je vais ag,ir
+Agir,Futur proche,tu vas ag,ir
+Agir,Futur proche,il va ag,ir
+Agir,Futur proche,nous allons ag,ir
+Agir,Futur proche,vous allez ag,ir
+Agir,Futur proche,ils vont ag,ir
+Perdre,Présent,je per,ds
+Perdre,Présent,tu per,ds
+Perdre,Présent,il per,d
+Perdre,Présent,nous per,dons
+Perdre,Présent,vous per,dez
+Perdre,Présent,ils per,dent
+Perdre,Passé composé,j'ai per,du
+Perdre,Passé composé,tu as per,du
+Perdre,Passé composé,il a per,du
+Perdre,Passé composé,nous avons per,du
+Perdre,Passé composé,vous avez per,du
+Perdre,Passé composé,ils ont per,du
+Perdre,Imparfait,je per,dais
+Perdre,Imparfait,tu per,dais
+Perdre,Imparfait,il per,dait
+Perdre,Imparfait,nous per,dions
+Perdre,Imparfait,vous per,diez
+Perdre,Imparfait,ils per,daient
+Perdre,Plus-que-parfait,j'avais per,du
+Perdre,Plus-que-parfait,tu avais per,du
+Perdre,Plus-que-parfait,il avait per,du
+Perdre,Plus-que-parfait,nous avions per,du
+Perdre,Plus-que-parfait,vous aviez per,du
+Perdre,Plus-que-parfait,ils avaient per,du
+Perdre,Passé simple,je per,dis
+Perdre,Passé simple,tu per,dis
+Perdre,Passé simple,il per,dit
+Perdre,Passé simple,nous per,dîmes
+Perdre,Passé simple,vous per,dîtes
+Perdre,Passé simple,ils per,dirent
+Perdre,Passé antérieur,j'eus per,du
+Perdre,Passé antérieur,tu eus per,du
+Perdre,Passé antérieur,il eut per,du
+Perdre,Passé antérieur,nous eûmes per,du
+Perdre,Passé antérieur,vous eûtes per,du
+Perdre,Passé antérieur,ils eurent per,du
+Perdre,Futur,je per,drai
+Perdre,Futur,tu per,dras
+Perdre,Futur,il per,dra
+Perdre,Futur,nous per,drons
+Perdre,Futur,vous per,drez
+Perdre,Futur,ils per,dront
+Perdre,Futur antérieur,j'aurai per,du
+Perdre,Futur antérieur,tu auras per,du
+Perdre,Futur antérieur,il aura per,du
+Perdre,Futur antérieur,nous aurons per,du
+Perdre,Futur antérieur,vous aurez per,du
+Perdre,Futur antérieur,ils auront per,du
+Perdre,Futur proche,je vais per,dre
+Perdre,Futur proche,tu vas per,dre
+Perdre,Futur proche,il va per,dre
+Perdre,Futur proche,nous allons per,dre
+Perdre,Futur proche,vous allez per,dre
+Perdre,Futur proche,ils vont per,dre
+Écouter,Présent,j'écout,e
+Écouter,Présent,tu écout,es
+Écouter,Présent,il écout,e
+Écouter,Présent,nous écout,ons
+Écouter,Présent,vous écout,ez
+Écouter,Présent,ils écout,ent
+Écouter,Passé composé,j'ai écout,é
+Écouter,Passé composé,tu as écout,é
+Écouter,Passé composé,il a écout,é
+Écouter,Passé composé,nous avons écout,é
+Écouter,Passé composé,vous avez écout,é
+Écouter,Passé composé,ils ont écout,é
+Écouter,Imparfait,j'écout,ais
+Écouter,Imparfait,tu écout,ais
+Écouter,Imparfait,il écout,ait
+Écouter,Imparfait,nous écout,ions
+Écouter,Imparfait,vous écout,iez
+Écouter,Imparfait,ils écout,aient
+Écouter,Plus-que-parfait,j'avais écout,é
+Écouter,Plus-que-parfait,tu avais écout,é
+Écouter,Plus-que-parfait,il avait écout,é
+Écouter,Plus-que-parfait,nous avions écout,é
+Écouter,Plus-que-parfait,vous aviez écout,é
+Écouter,Plus-que-parfait,ils avaient écout,é
+Écouter,Passé simple,j'écout,ai
+Écouter,Passé simple,tu écout,as
+Écouter,Passé simple,il écout,a
+Écouter,Passé simple,nous écout,âmes
+Écouter,Passé simple,vous écout,âtes
+Écouter,Passé simple,ils écout,èrent
+Écouter,Passé antérieur,j'eus écout,é
+Écouter,Passé antérieur,tu eus écout,é
+Écouter,Passé antérieur,il eut écout,é
+Écouter,Passé antérieur,nous eûmes écout,é
+Écouter,Passé antérieur,vous eûtes écout,é
+Écouter,Passé antérieur,ils eurent écout,é
+Écouter,Futur,j'écout,erai
+Écouter,Futur,tu écout,eras
+Écouter,Futur,il écout,era
+Écouter,Futur,nous écout,erons
+Écouter,Futur,vous écout,erez
+Écouter,Futur,ils écout,eront
+Écouter,Futur antérieur,j'aurai écout,é
+Écouter,Futur antérieur,tu auras écout,é
+Écouter,Futur antérieur,il aura écout,é
+Écouter,Futur antérieur,nous aurons écout,é
+Écouter,Futur antérieur,vous aurez écout,é
+Écouter,Futur antérieur,ils auront écout,é
+Écouter,Futur proche,je vais écout,er
+Écouter,Futur proche,tu vas écout,er
+Écouter,Futur proche,il va écout,er
+Écouter,Futur proche,nous allons écout,er
+Écouter,Futur proche,vous allez écout,er
+Écouter,Futur proche,ils vont écout,er
+Continuer,Présent,je continu,e
+Continuer,Présent,tu continu,es
+Continuer,Présent,il continu,e
+Continuer,Présent,nous continu,ons
+Continuer,Présent,vous continu,ez
+Continuer,Présent,ils continu,ent
+Continuer,Passé composé,j'ai continu,é
+Continuer,Passé composé,tu as continu,é
+Continuer,Passé composé,il a continu,é
+Continuer,Passé composé,nous avons continu,é
+Continuer,Passé composé,vous avez continu,é
+Continuer,Passé composé,ils ont continu,é
+Continuer,Imparfait,je continu,ais
+Continuer,Imparfait,tu continu,ais
+Continuer,Imparfait,il continu,ait
+Continuer,Imparfait,nous continu,ions
+Continuer,Imparfait,vous continu,iez
+Continuer,Imparfait,ils continu,aient
+Continuer,Plus-que-parfait,j'avais continu,é
+Continuer,Plus-que-parfait,tu avais continu,é
+Continuer,Plus-que-parfait,il avait continu,é
+Continuer,Plus-que-parfait,nous avions continu,é
+Continuer,Plus-que-parfait,vous aviez continu,é
+Continuer,Plus-que-parfait,ils avaient continu,é
+Continuer,Passé simple,je continu,ai
+Continuer,Passé simple,tu continu,as
+Continuer,Passé simple,il continu,a
+Continuer,Passé simple,nous continu,âmes
+Continuer,Passé simple,vous continu,âtes
+Continuer,Passé simple,ils continu,èrent
+Continuer,Passé antérieur,j'eus continu,é
+Continuer,Passé antérieur,tu eus continu,é
+Continuer,Passé antérieur,il eut continu,é
+Continuer,Passé antérieur,nous eûmes continu,é
+Continuer,Passé antérieur,vous eûtes continu,é
+Continuer,Passé antérieur,ils eurent continu,é
+Continuer,Futur,je continu,erai
+Continuer,Futur,tu continu,eras
+Continuer,Futur,il continu,era
+Continuer,Futur,nous continu,erons
+Continuer,Futur,vous continu,erez
+Continuer,Futur,ils continu,eront
+Continuer,Futur antérieur,j'aurai continu,é
+Continuer,Futur antérieur,tu auras continu,é
+Continuer,Futur antérieur,il aura continu,é
+Continuer,Futur antérieur,nous aurons continu,é
+Continuer,Futur antérieur,vous aurez continu,é
+Continuer,Futur antérieur,ils auront continu,é
+Continuer,Futur proche,je vais continu,er
+Continuer,Futur proche,tu vas continu,er
+Continuer,Futur proche,il va continu,er
+Continuer,Futur proche,nous allons continu,er
+Continuer,Futur proche,vous allez continu,er
+Continuer,Futur proche,ils vont continu,er
+Sourire,Présent,je sour,is
+Sourire,Présent,tu sour,is
+Sourire,Présent,il sour,it
+Sourire,Présent,nous sour,ions
+Sourire,Présent,vous sour,iez
+Sourire,Présent,ils sour,ient
+Sourire,Passé composé,j'ai sour,i
+Sourire,Passé composé,tu as sour,i
+Sourire,Passé composé,il a sour,i
+Sourire,Passé composé,nous avons sour,i
+Sourire,Passé composé,vous avez sour,i
+Sourire,Passé composé,ils ont sour,i
+Sourire,Imparfait,je sour,iais
+Sourire,Imparfait,tu sour,iais
+Sourire,Imparfait,il sour,iait
+Sourire,Imparfait,nous sour,iions
+Sourire,Imparfait,vous sour,iiez
+Sourire,Imparfait,ils sour,iaient
+Sourire,Plus-que-parfait,j'avais sour,i
+Sourire,Plus-que-parfait,tu avais sour,i
+Sourire,Plus-que-parfait,il avait sour,i
+Sourire,Plus-que-parfait,nous avions sour,i
+Sourire,Plus-que-parfait,vous aviez sour,i
+Sourire,Plus-que-parfait,ils avaient sour,i
+Sourire,Passé simple,je sour,is
+Sourire,Passé simple,tu sour,is
+Sourire,Passé simple,il sour,it
+Sourire,Passé simple,nous sour,îmes
+Sourire,Passé simple,vous sour,îtes
+Sourire,Passé simple,ils sour,irent
+Sourire,Passé antérieur,j'eus sour,i
+Sourire,Passé antérieur,tu eus sour,i
+Sourire,Passé antérieur,il eut sour,i
+Sourire,Passé antérieur,nous eûmes sour,i
+Sourire,Passé antérieur,vous eûtes sour,i
+Sourire,Passé antérieur,ils eurent sour,i
+Sourire,Futur,je sour,irai
+Sourire,Futur,tu sour,iras
+Sourire,Futur,il sour,ira
+Sourire,Futur,nous sour,irons
+Sourire,Futur,vous sour,irez
+Sourire,Futur,ils sour,iront
+Sourire,Futur antérieur,j'aurai sour,i
+Sourire,Futur antérieur,tu auras sour,i
+Sourire,Futur antérieur,il aura sour,i
+Sourire,Futur antérieur,nous aurons sour,i
+Sourire,Futur antérieur,vous aurez sour,i
+Sourire,Futur antérieur,ils auront sour,i
+Sourire,Futur proche,je vais sour,ire
+Sourire,Futur proche,tu vas sour,ire
+Sourire,Futur proche,il va sour,ire
+Sourire,Futur proche,nous allons sour,ire
+Sourire,Futur proche,vous allez sour,ire
+Sourire,Futur proche,ils vont sour,ire
+Apercevoir,Présent,j'aper,çois
+Apercevoir,Présent,tu aper,çois
+Apercevoir,Présent,il aper,çoit
+Apercevoir,Présent,nous aper,cevons
+Apercevoir,Présent,vous aper,cevez
+Apercevoir,Présent,ils aper,çoivent
+Apercevoir,Passé composé,j'ai aper,çu
+Apercevoir,Passé composé,tu as aper,çu
+Apercevoir,Passé composé,il a aper,çu
+Apercevoir,Passé composé,nous avons aper,çu
+Apercevoir,Passé composé,vous avez aper,çu
+Apercevoir,Passé composé,ils ont aper,çu
+Apercevoir,Imparfait,j'aper,cevais
+Apercevoir,Imparfait,tu aper,cevais
+Apercevoir,Imparfait,il aper,cevait
+Apercevoir,Imparfait,nous aper,cevions
+Apercevoir,Imparfait,vous aper,ceviez
+Apercevoir,Imparfait,ils aper,cevaient
+Apercevoir,Plus-que-parfait,j'avais aper,çu
+Apercevoir,Plus-que-parfait,tu avais aper,çu
+Apercevoir,Plus-que-parfait,il avait aper,çu
+Apercevoir,Plus-que-parfait,nous avions aper,çu
+Apercevoir,Plus-que-parfait,vous aviez aper,çu
+Apercevoir,Plus-que-parfait,ils avaient aper,çu
+Apercevoir,Passé simple,j'aper,çus
+Apercevoir,Passé simple,tu aper,çus
+Apercevoir,Passé simple,il aper,çut
+Apercevoir,Passé simple,nous aper,çûmes
+Apercevoir,Passé simple,vous aper,çûtes
+Apercevoir,Passé simple,ils aper,çurent
+Apercevoir,Passé antérieur,j'eus aper,çu
+Apercevoir,Passé antérieur,tu eus aper,çu
+Apercevoir,Passé antérieur,il eut aper,çu
+Apercevoir,Passé antérieur,nous eûmes aper,çu
+Apercevoir,Passé antérieur,vous eûtes aper,çu
+Apercevoir,Passé antérieur,ils eurent aper,çu
+Apercevoir,Futur,j'aper,cevrai
+Apercevoir,Futur,tu aper,cevras
+Apercevoir,Futur,il aper,cevra
+Apercevoir,Futur,nous aper,cevrons
+Apercevoir,Futur,vous aper,cevrez
+Apercevoir,Futur,ils aper,cevront
+Apercevoir,Futur antérieur,j'aurai aper,çu
+Apercevoir,Futur antérieur,tu auras aper,çu
+Apercevoir,Futur antérieur,il aura aper,çu
+Apercevoir,Futur antérieur,nous aurons aper,çu
+Apercevoir,Futur antérieur,vous aurez aper,çu
+Apercevoir,Futur antérieur,ils auront aper,çu
+Apercevoir,Futur proche,je vais aper,cevoir
+Apercevoir,Futur proche,tu vas aper,cevoir
+Apercevoir,Futur proche,il va aper,cevoir
+Apercevoir,Futur proche,nous allons aper,cevoir
+Apercevoir,Futur proche,vous allez aper,cevoir
+Apercevoir,Futur proche,ils vont aper,cevoir
+Reconnaître,Présent,je reconn,ais
+Reconnaître,Présent,tu reconn,ais
+Reconnaître,Présent,il reconn,aît
+Reconnaître,Présent,nous reconn,aissons
+Reconnaître,Présent,vous reconn,aissez
+Reconnaître,Présent,ils reconn,aissent
+Reconnaître,Passé composé,j'ai reconn,u
+Reconnaître,Passé composé,tu as reconn,u
+Reconnaître,Passé composé,il a reconn,u
+Reconnaître,Passé composé,nous avons reconn,u
+Reconnaître,Passé composé,vous avez reconn,u
+Reconnaître,Passé composé,ils ont reconn,u
+Reconnaître,Imparfait,je reconn,aissais
+Reconnaître,Imparfait,tu reconn,aissais
+Reconnaître,Imparfait,il reconn,aissait
+Reconnaître,Imparfait,nous reconn,aissions
+Reconnaître,Imparfait,vous reconn,aissiez
+Reconnaître,Imparfait,ils reconn,aissaient
+Reconnaître,Plus-que-parfait,j'avais reconn,u
+Reconnaître,Plus-que-parfait,tu avais reconn,u
+Reconnaître,Plus-que-parfait,il avait reconn,u
+Reconnaître,Plus-que-parfait,nous avions reconn,u
+Reconnaître,Plus-que-parfait,vous aviez reconn,u
+Reconnaître,Plus-que-parfait,ils avaient reconn,u
+Reconnaître,Passé simple,je reconn,us
+Reconnaître,Passé simple,tu reconn,us
+Reconnaître,Passé simple,il reconn,ut
+Reconnaître,Passé simple,nous reconn,ûmes
+Reconnaître,Passé simple,vous reconn,ûtes
+Reconnaître,Passé simple,ils reconn,urent
+Reconnaître,Passé antérieur,j'eus reconn,u
+Reconnaître,Passé antérieur,tu eus reconn,u
+Reconnaître,Passé antérieur,il eut reconn,u
+Reconnaître,Passé antérieur,nous eûmes reconn,u
+Reconnaître,Passé antérieur,vous eûtes reconn,u
+Reconnaître,Passé antérieur,ils eurent reconn,u
+Reconnaître,Futur,je reconn,aîtrai
+Reconnaître,Futur,tu reconn,aîtras
+Reconnaître,Futur,il reconn,aîtra
+Reconnaître,Futur,nous reconn,aîtrons
+Reconnaître,Futur,vous reconn,aîtrez
+Reconnaître,Futur,ils reconn,aîtront
+Reconnaître,Futur antérieur,j'aurai reconn,u
+Reconnaître,Futur antérieur,tu auras reconn,u
+Reconnaître,Futur antérieur,il aura reconn,u
+Reconnaître,Futur antérieur,nous aurons reconn,u
+Reconnaître,Futur antérieur,vous aurez reconn,u
+Reconnaître,Futur antérieur,ils auront reconn,u
+Reconnaître,Futur proche,je vais reconn,aître
+Reconnaître,Futur proche,tu vas reconn,aître
+Reconnaître,Futur proche,il va reconn,aître
+Reconnaître,Futur proche,nous allons reconn,aître
+Reconnaître,Futur proche,vous allez reconn,aître
+Reconnaître,Futur proche,ils vont reconn,aître
+Ajouter,Présent,j'ajout,e
+Ajouter,Présent,tu ajout,es
+Ajouter,Présent,il ajout,e
+Ajouter,Présent,nous ajout,ons
+Ajouter,Présent,vous ajout,ez
+Ajouter,Présent,ils ajout,ent
+Ajouter,Passé composé,j'ai ajout,é
+Ajouter,Passé composé,tu as ajout,é
+Ajouter,Passé composé,il a ajout,é
+Ajouter,Passé composé,nous avons ajout,é
+Ajouter,Passé composé,vous avez ajout,é
+Ajouter,Passé composé,ils ont ajout,é
+Ajouter,Imparfait,j'ajout,ais
+Ajouter,Imparfait,tu ajout,ais
+Ajouter,Imparfait,il ajout,ait
+Ajouter,Imparfait,nous ajout,ions
+Ajouter,Imparfait,vous ajout,iez
+Ajouter,Imparfait,ils ajout,aient
+Ajouter,Plus-que-parfait,j'avais ajout,é
+Ajouter,Plus-que-parfait,tu avais ajout,é
+Ajouter,Plus-que-parfait,il avait ajout,é
+Ajouter,Plus-que-parfait,nous avions ajout,é
+Ajouter,Plus-que-parfait,vous aviez ajout,é
+Ajouter,Plus-que-parfait,ils avaient ajout,é
+Ajouter,Passé simple,j'ajout,ai
+Ajouter,Passé simple,tu ajout,as
+Ajouter,Passé simple,il ajout,a
+Ajouter,Passé simple,nous ajout,âmes
+Ajouter,Passé simple,vous ajout,âtes
+Ajouter,Passé simple,ils ajout,èrent
+Ajouter,Passé antérieur,j'eus ajout,é
+Ajouter,Passé antérieur,tu eus ajout,é
+Ajouter,Passé antérieur,il eut ajout,é
+Ajouter,Passé antérieur,nous eûmes ajout,é
+Ajouter,Passé antérieur,vous eûtes ajout,é
+Ajouter,Passé antérieur,ils eurent ajout,é
+Ajouter,Futur,j'ajout,erai
+Ajouter,Futur,tu ajout,eras
+Ajouter,Futur,il ajout,era
+Ajouter,Futur,nous ajout,erons
+Ajouter,Futur,vous ajout,erez
+Ajouter,Futur,ils ajout,eront
+Ajouter,Futur antérieur,j'aurai ajout,é
+Ajouter,Futur antérieur,tu auras ajout,é
+Ajouter,Futur antérieur,il aura ajout,é
+Ajouter,Futur antérieur,nous aurons ajout,é
+Ajouter,Futur antérieur,vous aurez ajout,é
+Ajouter,Futur antérieur,ils auront ajout,é
+Ajouter,Futur proche,je vais ajout,er
+Ajouter,Futur proche,tu vas ajout,er
+Ajouter,Futur proche,il va ajout,er
+Ajouter,Futur proche,nous allons ajout,er
+Ajouter,Futur proche,vous allez ajout,er
+Ajouter,Futur proche,ils vont ajout,er
+Jouer,Présent,je jou,e
+Jouer,Présent,tu jou,es
+Jouer,Présent,il jou,e
+Jouer,Présent,nous jou,ons
+Jouer,Présent,vous jou,ez
+Jouer,Présent,ils jou,ent
+Jouer,Passé composé,j'ai jou,é
+Jouer,Passé composé,tu as jou,é
+Jouer,Passé composé,il a jou,é
+Jouer,Passé composé,nous avons jou,é
+Jouer,Passé composé,vous avez jou,é
+Jouer,Passé composé,ils ont jou,é
+Jouer,Imparfait,je jou,ais
+Jouer,Imparfait,tu jou,ais
+Jouer,Imparfait,il jou,ait
+Jouer,Imparfait,nous jou,ions
+Jouer,Imparfait,vous jou,iez
+Jouer,Imparfait,ils jou,aient
+Jouer,Plus-que-parfait,j'avais jou,é
+Jouer,Plus-que-parfait,tu avais jou,é
+Jouer,Plus-que-parfait,il avait jou,é
+Jouer,Plus-que-parfait,nous avions jou,é
+Jouer,Plus-que-parfait,vous aviez jou,é
+Jouer,Plus-que-parfait,ils avaient jou,é
+Jouer,Passé simple,je jou,ai
+Jouer,Passé simple,tu jou,as
+Jouer,Passé simple,il jou,a
+Jouer,Passé simple,nous jou,âmes
+Jouer,Passé simple,vous jou,âtes
+Jouer,Passé simple,ils jou,èrent
+Jouer,Passé antérieur,j'eus jou,é
+Jouer,Passé antérieur,tu eus jou,é
+Jouer,Passé antérieur,il eut jou,é
+Jouer,Passé antérieur,nous eûmes jou,é
+Jouer,Passé antérieur,vous eûtes jou,é
+Jouer,Passé antérieur,ils eurent jou,é
+Jouer,Futur,je jou,erai
+Jouer,Futur,tu jou,eras
+Jouer,Futur,il jou,era
+Jouer,Futur,nous jou,erons
+Jouer,Futur,vous jou,erez
+Jouer,Futur,ils jou,eront
+Jouer,Futur antérieur,j'aurai jou,é
+Jouer,Futur antérieur,tu auras jou,é
+Jouer,Futur antérieur,il aura jou,é
+Jouer,Futur antérieur,nous aurons jou,é
+Jouer,Futur antérieur,vous aurez jou,é
+Jouer,Futur antérieur,ils auront jou,é
+Jouer,Futur proche,je vais jou,er
+Jouer,Futur proche,tu vas jou,er
+Jouer,Futur proche,il va jou,er
+Jouer,Futur proche,nous allons jou,er
+Jouer,Futur proche,vous allez jou,er
+Jouer,Futur proche,ils vont jou,er
+Marcher,Présent,je march,e
+Marcher,Présent,tu march,es
+Marcher,Présent,il march,e
+Marcher,Présent,nous march,ons
+Marcher,Présent,vous march,ez
+Marcher,Présent,ils march,ent
+Marcher,Passé composé,j'ai march,é
+Marcher,Passé composé,tu as march,é
+Marcher,Passé composé,il a march,é
+Marcher,Passé composé,nous avons march,é
+Marcher,Passé composé,vous avez march,é
+Marcher,Passé composé,ils ont march,é
+Marcher,Imparfait,je march,ais
+Marcher,Imparfait,tu march,ais
+Marcher,Imparfait,il march,ait
+Marcher,Imparfait,nous march,ions
+Marcher,Imparfait,vous march,iez
+Marcher,Imparfait,ils march,aient
+Marcher,Plus-que-parfait,j'avais march,é
+Marcher,Plus-que-parfait,tu avais march,é
+Marcher,Plus-que-parfait,il avait march,é
+Marcher,Plus-que-parfait,nous avions march,é
+Marcher,Plus-que-parfait,vous aviez march,é
+Marcher,Plus-que-parfait,ils avaient march,é
+Marcher,Passé simple,je march,ai
+Marcher,Passé simple,tu march,as
+Marcher,Passé simple,il march,a
+Marcher,Passé simple,nous march,âmes
+Marcher,Passé simple,vous march,âtes
+Marcher,Passé simple,ils march,èrent
+Marcher,Passé antérieur,j'eus march,é
+Marcher,Passé antérieur,tu eus march,é
+Marcher,Passé antérieur,il eut march,é
+Marcher,Passé antérieur,nous eûmes march,é
+Marcher,Passé antérieur,vous eûtes march,é
+Marcher,Passé antérieur,ils eurent march,é
+Marcher,Futur,je march,erai
+Marcher,Futur,tu march,eras
+Marcher,Futur,il march,era
+Marcher,Futur,nous march,erons
+Marcher,Futur,vous march,erez
+Marcher,Futur,ils march,eront
+Marcher,Futur antérieur,j'aurai march,é
+Marcher,Futur antérieur,tu auras march,é
+Marcher,Futur antérieur,il aura march,é
+Marcher,Futur antérieur,nous aurons march,é
+Marcher,Futur antérieur,vous aurez march,é
+Marcher,Futur antérieur,ils auront march,é
+Marcher,Futur proche,je vais march,er
+Marcher,Futur proche,tu vas march,er
+Marcher,Futur proche,il va march,er
+Marcher,Futur proche,nous allons march,er
+Marcher,Futur proche,vous allez march,er
+Marcher,Futur proche,ils vont march,er
+Garder,Présent,je gard,e
+Garder,Présent,tu gard,es
+Garder,Présent,il gard,e
+Garder,Présent,nous gard,ons
+Garder,Présent,vous gard,ez
+Garder,Présent,ils gard,ent
+Garder,Passé composé,j'ai gard,é
+Garder,Passé composé,tu as gard,é
+Garder,Passé composé,il a gard,é
+Garder,Passé composé,nous avons gard,é
+Garder,Passé composé,vous avez gard,é
+Garder,Passé composé,ils ont gard,é
+Garder,Imparfait,je gard,ais
+Garder,Imparfait,tu gard,ais
+Garder,Imparfait,il gard,ait
+Garder,Imparfait,nous gard,ions
+Garder,Imparfait,vous gard,iez
+Garder,Imparfait,ils gard,aient
+Garder,Plus-que-parfait,j'avais gard,é
+Garder,Plus-que-parfait,tu avais gard,é
+Garder,Plus-que-parfait,il avait gard,é
+Garder,Plus-que-parfait,nous avions gard,é
+Garder,Plus-que-parfait,vous aviez gard,é
+Garder,Plus-que-parfait,ils avaient gard,é
+Garder,Passé simple,je gard,ai
+Garder,Passé simple,tu gard,as
+Garder,Passé simple,il gard,a
+Garder,Passé simple,nous gard,âmes
+Garder,Passé simple,vous gard,âtes
+Garder,Passé simple,ils gard,èrent
+Garder,Passé antérieur,j'eus gard,é
+Garder,Passé antérieur,tu eus gard,é
+Garder,Passé antérieur,il eut gard,é
+Garder,Passé antérieur,nous eûmes gard,é
+Garder,Passé antérieur,vous eûtes gard,é
+Garder,Passé antérieur,ils eurent gard,é
+Garder,Futur,je gard,erai
+Garder,Futur,tu gard,eras
+Garder,Futur,il gard,era
+Garder,Futur,nous gard,erons
+Garder,Futur,vous gard,erez
+Garder,Futur,ils gard,eront
+Garder,Futur antérieur,j'aurai gard,é
+Garder,Futur antérieur,tu auras gard,é
+Garder,Futur antérieur,il aura gard,é
+Garder,Futur antérieur,nous aurons gard,é
+Garder,Futur antérieur,vous aurez gard,é
+Garder,Futur antérieur,ils auront gard,é
+Garder,Futur proche,je vais gard,er
+Garder,Futur proche,tu vas gard,er
+Garder,Futur proche,il va gard,er
+Garder,Futur proche,nous allons gard,er
+Garder,Futur proche,vous allez gard,er
+Garder,Futur proche,ils vont gard,er
+Manquer,Présent,je manqu,e
+Manquer,Présent,tu manqu,es
+Manquer,Présent,il manqu,e
+Manquer,Présent,nous manqu,ons
+Manquer,Présent,vous manqu,ez
+Manquer,Présent,ils manqu,ent
+Manquer,Passé composé,j'ai manqu,é
+Manquer,Passé composé,tu as manqu,é
+Manquer,Passé composé,il a manqu,é
+Manquer,Passé composé,nous avons manqu,é
+Manquer,Passé composé,vous avez manqu,é
+Manquer,Passé composé,ils ont manqu,é
+Manquer,Imparfait,je manqu,ais
+Manquer,Imparfait,tu manqu,ais
+Manquer,Imparfait,il manqu,ait
+Manquer,Imparfait,nous manqu,ions
+Manquer,Imparfait,vous manqu,iez
+Manquer,Imparfait,ils manqu,aient
+Manquer,Plus-que-parfait,j'avais manqu,é
+Manquer,Plus-que-parfait,tu avais manqu,é
+Manquer,Plus-que-parfait,il avait manqu,é
+Manquer,Plus-que-parfait,nous avions manqu,é
+Manquer,Plus-que-parfait,vous aviez manqu,é
+Manquer,Plus-que-parfait,ils avaient manqu,é
+Manquer,Passé simple,je manqu,ai
+Manquer,Passé simple,tu manqu,as
+Manquer,Passé simple,il manqu,a
+Manquer,Passé simple,nous manqu,âmes
+Manquer,Passé simple,vous manqu,âtes
+Manquer,Passé simple,ils manqu,èrent
+Manquer,Passé antérieur,j'eus manqu,é
+Manquer,Passé antérieur,tu eus manqu,é
+Manquer,Passé antérieur,il eut manqu,é
+Manquer,Passé antérieur,nous eûmes manqu,é
+Manquer,Passé antérieur,vous eûtes manqu,é
+Manquer,Passé antérieur,ils eurent manqu,é
+Manquer,Futur,je manqu,erai
+Manquer,Futur,tu manqu,eras
+Manquer,Futur,il manqu,era
+Manquer,Futur,nous manqu,erons
+Manquer,Futur,vous manqu,erez
+Manquer,Futur,ils manqu,eront
+Manquer,Futur antérieur,j'aurai manqu,é
+Manquer,Futur antérieur,tu auras manqu,é
+Manquer,Futur antérieur,il aura manqu,é
+Manquer,Futur antérieur,nous aurons manqu,é
+Manquer,Futur antérieur,vous aurez manqu,é
+Manquer,Futur antérieur,ils auront manqu,é
+Manquer,Futur proche,je vais manqu,er
+Manquer,Futur proche,tu vas manqu,er
+Manquer,Futur proche,il va manqu,er
+Manquer,Futur proche,nous allons manqu,er
+Manquer,Futur proche,vous allez manqu,er
+Manquer,Futur proche,ils vont manqu,er
+Retrouver,Présent,je retrouv,e
+Retrouver,Présent,tu retrouv,es
+Retrouver,Présent,il retrouv,e
+Retrouver,Présent,nous retrouv,ons
+Retrouver,Présent,vous retrouv,ez
+Retrouver,Présent,ils retrouv,ent
+Retrouver,Passé composé,j'ai retrouv,é
+Retrouver,Passé composé,tu as retrouv,é
+Retrouver,Passé composé,il a retrouv,é
+Retrouver,Passé composé,nous avons retrouv,é
+Retrouver,Passé composé,vous avez retrouv,é
+Retrouver,Passé composé,ils ont retrouv,é
+Retrouver,Imparfait,je retrouv,ais
+Retrouver,Imparfait,tu retrouv,ais
+Retrouver,Imparfait,il retrouv,ait
+Retrouver,Imparfait,nous retrouv,ions
+Retrouver,Imparfait,vous retrouv,iez
+Retrouver,Imparfait,ils retrouv,aient
+Retrouver,Plus-que-parfait,j'avais retrouv,é
+Retrouver,Plus-que-parfait,tu avais retrouv,é
+Retrouver,Plus-que-parfait,il avait retrouv,é
+Retrouver,Plus-que-parfait,nous avions retrouv,é
+Retrouver,Plus-que-parfait,vous aviez retrouv,é
+Retrouver,Plus-que-parfait,ils avaient retrouv,é
+Retrouver,Passé simple,je retrouv,ai
+Retrouver,Passé simple,tu retrouv,as
+Retrouver,Passé simple,il retrouv,a
+Retrouver,Passé simple,nous retrouv,âmes
+Retrouver,Passé simple,vous retrouv,âtes
+Retrouver,Passé simple,ils retrouv,èrent
+Retrouver,Passé antérieur,j'eus retrouv,é
+Retrouver,Passé antérieur,tu eus retrouv,é
+Retrouver,Passé antérieur,il eut retrouv,é
+Retrouver,Passé antérieur,nous eûmes retrouv,é
+Retrouver,Passé antérieur,vous eûtes retrouv,é
+Retrouver,Passé antérieur,ils eurent retrouv,é
+Retrouver,Futur,je retrouv,erai
+Retrouver,Futur,tu retrouv,eras
+Retrouver,Futur,il retrouv,era
+Retrouver,Futur,nous retrouv,erons
+Retrouver,Futur,vous retrouv,erez
+Retrouver,Futur,ils retrouv,eront
+Retrouver,Futur antérieur,j'aurai retrouv,é
+Retrouver,Futur antérieur,tu auras retrouv,é
+Retrouver,Futur antérieur,il aura retrouv,é
+Retrouver,Futur antérieur,nous aurons retrouv,é
+Retrouver,Futur antérieur,vous aurez retrouv,é
+Retrouver,Futur antérieur,ils auront retrouv,é
+Retrouver,Futur proche,je vais retrouv,er
+Retrouver,Futur proche,tu vas retrouv,er
+Retrouver,Futur proche,il va retrouv,er
+Retrouver,Futur proche,nous allons retrouv,er
+Retrouver,Futur proche,vous allez retrouv,er
+Retrouver,Futur proche,ils vont retrouv,er
+Descendre,Présent,je descen,ds
+Descendre,Présent,tu descen,ds
+Descendre,Présent,il descen,d
+Descendre,Présent,nous descen,dons
+Descendre,Présent,vous descen,dez
+Descendre,Présent,ils descen,dent
+Descendre,Passé composé,je suis descen,du
+Descendre,Passé composé,tu es descen,du
+Descendre,Passé composé,il est descen,du
+Descendre,Passé composé,nous sommes descen,dus
+Descendre,Passé composé,vous êtes descen,dus
+Descendre,Passé composé,ils sont descen,dus
+Descendre,Imparfait,je descen,dais
+Descendre,Imparfait,tu descen,dais
+Descendre,Imparfait,il descen,dait
+Descendre,Imparfait,nous descen,dions
+Descendre,Imparfait,vous descen,diez
+Descendre,Imparfait,ils descen,daient
+Descendre,Plus-que-parfait,j'étais descen,du
+Descendre,Plus-que-parfait,tu étais descen,du
+Descendre,Plus-que-parfait,il était descen,du
+Descendre,Plus-que-parfait,nous étions descen,dus
+Descendre,Plus-que-parfait,vous étiez descen,dus
+Descendre,Plus-que-parfait,ils étaient descen,dus
+Descendre,Passé simple,je descen,dis
+Descendre,Passé simple,tu descen,dis
+Descendre,Passé simple,il descen,dit
+Descendre,Passé simple,nous descen,dîmes
+Descendre,Passé simple,vous descen,dîtes
+Descendre,Passé simple,ils descen,dirent
+Descendre,Passé antérieur,je fus descen,du
+Descendre,Passé antérieur,tu fus descen,du
+Descendre,Passé antérieur,il fut descen,du
+Descendre,Passé antérieur,nous fûmes descen,dus
+Descendre,Passé antérieur,vous fûtes descen,dus
+Descendre,Passé antérieur,ils furent descen,dus
+Descendre,Futur,je descen,drai
+Descendre,Futur,tu descen,dras
+Descendre,Futur,il descen,dra
+Descendre,Futur,nous descen,drons
+Descendre,Futur,vous descen,drez
+Descendre,Futur,ils descen,dront
+Descendre,Futur antérieur,je serai descen,du
+Descendre,Futur antérieur,tu seras descen,du
+Descendre,Futur antérieur,il sera descen,du
+Descendre,Futur antérieur,nous serons descen,dus
+Descendre,Futur antérieur,vous serez descen,dus
+Descendre,Futur antérieur,ils seront descen,dus
+Descendre,Futur proche,je vais descen,dre
+Descendre,Futur proche,tu vas descen,dre
+Descendre,Futur proche,il va descen,dre
+Descendre,Futur proche,nous allons descen,dre
+Descendre,Futur proche,vous allez descen,dre
+Descendre,Futur proche,ils vont descen,dre
+Rappeler,Présent,je rapp,elle
+Rappeler,Présent,tu rapp,elles
+Rappeler,Présent,il rapp,elle
+Rappeler,Présent,nous rapp,elons
+Rappeler,Présent,vous rapp,elez
+Rappeler,Présent,ils rapp,ellent
+Rappeler,Passé composé,j'ai rapp,elé
+Rappeler,Passé composé,tu as rapp,elé
+Rappeler,Passé composé,il a rapp,elé
+Rappeler,Passé composé,nous avons rapp,elé
+Rappeler,Passé composé,vous avez rapp,elé
+Rappeler,Passé composé,ils ont rapp,elé
+Rappeler,Imparfait,je rapp,elais
+Rappeler,Imparfait,tu rapp,elais
+Rappeler,Imparfait,il rapp,elait
+Rappeler,Imparfait,nous rapp,elions
+Rappeler,Imparfait,vous rapp,eliez
+Rappeler,Imparfait,ils rapp,elaient
+Rappeler,Plus-que-parfait,j'avais rapp,elé
+Rappeler,Plus-que-parfait,tu avais rapp,elé
+Rappeler,Plus-que-parfait,il avait rapp,elé
+Rappeler,Plus-que-parfait,nous avions rapp,elé
+Rappeler,Plus-que-parfait,vous aviez rapp,elé
+Rappeler,Plus-que-parfait,ils avaient rapp,elé
+Rappeler,Passé simple,je rapp,elai
+Rappeler,Passé simple,tu rapp,elas
+Rappeler,Passé simple,il rapp,ela
+Rappeler,Passé simple,nous rapp,elâmes
+Rappeler,Passé simple,vous rapp,elâtes
+Rappeler,Passé simple,ils rapp,elèrent
+Rappeler,Passé antérieur,j'eus rapp,elé
+Rappeler,Passé antérieur,tu eus rapp,elé
+Rappeler,Passé antérieur,il eut rapp,elé
+Rappeler,Passé antérieur,nous eûmes rapp,elé
+Rappeler,Passé antérieur,vous eûtes rapp,elé
+Rappeler,Passé antérieur,ils eurent rapp,elé
+Rappeler,Futur,je rapp,ellerai
+Rappeler,Futur,tu rapp,elleras
+Rappeler,Futur,il rapp,ellera
+Rappeler,Futur,nous rapp,ellerons
+Rappeler,Futur,vous rapp,ellerez
+Rappeler,Futur,ils rapp,elleront
+Rappeler,Futur antérieur,j'aurai rapp,elé
+Rappeler,Futur antérieur,tu auras rapp,elé
+Rappeler,Futur antérieur,il aura rapp,elé
+Rappeler,Futur antérieur,nous aurons rapp,elé
+Rappeler,Futur antérieur,vous aurez rapp,elé
+Rappeler,Futur antérieur,ils auront rapp,elé
+Rappeler,Futur proche,je vais rapp,eler
+Rappeler,Futur proche,tu vas rapp,eler
+Rappeler,Futur proche,il va rapp,eler
+Rappeler,Futur proche,nous allons rapp,eler
+Rappeler,Futur proche,vous allez rapp,eler
+Rappeler,Futur proche,ils vont rapp,eler
+Quitter,Présent,je quitt,e
+Quitter,Présent,tu quitt,es
+Quitter,Présent,il quitt,e
+Quitter,Présent,nous quitt,ons
+Quitter,Présent,vous quitt,ez
+Quitter,Présent,ils quitt,ent
+Quitter,Passé composé,j'ai quitt,é
+Quitter,Passé composé,tu as quitt,é
+Quitter,Passé composé,il a quitt,é
+Quitter,Passé composé,nous avons quitt,é
+Quitter,Passé composé,vous avez quitt,é
+Quitter,Passé composé,ils ont quitt,é
+Quitter,Imparfait,je quitt,ais
+Quitter,Imparfait,tu quitt,ais
+Quitter,Imparfait,il quitt,ait
+Quitter,Imparfait,nous quitt,ions
+Quitter,Imparfait,vous quitt,iez
+Quitter,Imparfait,ils quitt,aient
+Quitter,Plus-que-parfait,j'avais quitt,é
+Quitter,Plus-que-parfait,tu avais quitt,é
+Quitter,Plus-que-parfait,il avait quitt,é
+Quitter,Plus-que-parfait,nous avions quitt,é
+Quitter,Plus-que-parfait,vous aviez quitt,é
+Quitter,Plus-que-parfait,ils avaient quitt,é
+Quitter,Passé simple,je quitt,ai
+Quitter,Passé simple,tu quitt,as
+Quitter,Passé simple,il quitt,a
+Quitter,Passé simple,nous quitt,âmes
+Quitter,Passé simple,vous quitt,âtes
+Quitter,Passé simple,ils quitt,èrent
+Quitter,Passé antérieur,j'eus quitt,é
+Quitter,Passé antérieur,tu eus quitt,é
+Quitter,Passé antérieur,il eut quitt,é
+Quitter,Passé antérieur,nous eûmes quitt,é
+Quitter,Passé antérieur,vous eûtes quitt,é
+Quitter,Passé antérieur,ils eurent quitt,é
+Quitter,Futur,je quitt,erai
+Quitter,Futur,tu quitt,eras
+Quitter,Futur,il quitt,era
+Quitter,Futur,nous quitt,erons
+Quitter,Futur,vous quitt,erez
+Quitter,Futur,ils quitt,eront
+Quitter,Futur antérieur,j'aurai quitt,é
+Quitter,Futur antérieur,tu auras quitt,é
+Quitter,Futur antérieur,il aura quitt,é
+Quitter,Futur antérieur,nous aurons quitt,é
+Quitter,Futur antérieur,vous aurez quitt,é
+Quitter,Futur antérieur,ils auront quitt,é
+Quitter,Futur proche,je vais quitt,er
+Quitter,Futur proche,tu vas quitt,er
+Quitter,Futur proche,il va quitt,er
+Quitter,Futur proche,nous allons quitt,er
+Quitter,Futur proche,vous allez quitt,er
+Quitter,Futur proche,ils vont quitt,er
+Tourner,Présent,je tourn,e
+Tourner,Présent,tu tourn,es
+Tourner,Présent,il tourn,e
+Tourner,Présent,nous tourn,ons
+Tourner,Présent,vous tourn,ez
+Tourner,Présent,ils tourn,ent
+Tourner,Passé composé,j'ai tourn,é
+Tourner,Passé composé,tu as tourn,é
+Tourner,Passé composé,il a tourn,é
+Tourner,Passé composé,nous avons tourn,é
+Tourner,Passé composé,vous avez tourn,é
+Tourner,Passé composé,ils ont tourn,é
+Tourner,Imparfait,je tourn,ais
+Tourner,Imparfait,tu tourn,ais
+Tourner,Imparfait,il tourn,ait
+Tourner,Imparfait,nous tourn,ions
+Tourner,Imparfait,vous tourn,iez
+Tourner,Imparfait,ils tourn,aient
+Tourner,Plus-que-parfait,j'avais tourn,é
+Tourner,Plus-que-parfait,tu avais tourn,é
+Tourner,Plus-que-parfait,il avait tourn,é
+Tourner,Plus-que-parfait,nous avions tourn,é
+Tourner,Plus-que-parfait,vous aviez tourn,é
+Tourner,Plus-que-parfait,ils avaient tourn,é
+Tourner,Passé simple,je tourn,ai
+Tourner,Passé simple,tu tourn,as
+Tourner,Passé simple,il tourn,a
+Tourner,Passé simple,nous tourn,âmes
+Tourner,Passé simple,vous tourn,âtes
+Tourner,Passé simple,ils tourn,èrent
+Tourner,Passé antérieur,j'eus tourn,é
+Tourner,Passé antérieur,tu eus tourn,é
+Tourner,Passé antérieur,il eut tourn,é
+Tourner,Passé antérieur,nous eûmes tourn,é
+Tourner,Passé antérieur,vous eûtes tourn,é
+Tourner,Passé antérieur,ils eurent tourn,é
+Tourner,Futur,je tourn,erai
+Tourner,Futur,tu tourn,eras
+Tourner,Futur,il tourn,era
+Tourner,Futur,nous tourn,erons
+Tourner,Futur,vous tourn,erez
+Tourner,Futur,ils tourn,eront
+Tourner,Futur antérieur,j'aurai tourn,é
+Tourner,Futur antérieur,tu auras tourn,é
+Tourner,Futur antérieur,il aura tourn,é
+Tourner,Futur antérieur,nous aurons tourn,é
+Tourner,Futur antérieur,vous aurez tourn,é
+Tourner,Futur antérieur,ils auront tourn,é
+Tourner,Futur proche,je vais tourn,er
+Tourner,Futur proche,tu vas tourn,er
+Tourner,Futur proche,il va tourn,er
+Tourner,Futur proche,nous allons tourn,er
+Tourner,Futur proche,vous allez tourn,er
+Tourner,Futur proche,ils vont tourn,er
+Finir,Présent,je fin,is
+Finir,Présent,tu fin,is
+Finir,Présent,il fin,it
+Finir,Présent,nous fin,issons
+Finir,Présent,vous fin,issez
+Finir,Présent,ils fin,issent
+Finir,Passé composé,j'ai fin,i
+Finir,Passé composé,tu as fin,i
+Finir,Passé composé,il a fin,i
+Finir,Passé composé,nous avons fin,i
+Finir,Passé composé,vous avez fin,i
+Finir,Passé composé,ils ont fin,i
+Finir,Imparfait,je fin,issais
+Finir,Imparfait,tu fin,issais
+Finir,Imparfait,il fin,issait
+Finir,Imparfait,nous fin,issions
+Finir,Imparfait,vous fin,issiez
+Finir,Imparfait,ils fin,issaient
+Finir,Plus-que-parfait,j'avais fin,i
+Finir,Plus-que-parfait,tu avais fin,i
+Finir,Plus-que-parfait,il avait fin,i
+Finir,Plus-que-parfait,nous avions fin,i
+Finir,Plus-que-parfait,vous aviez fin,i
+Finir,Plus-que-parfait,ils avaient fin,i
+Finir,Passé simple,je fin,is
+Finir,Passé simple,tu fin,is
+Finir,Passé simple,il fin,it
+Finir,Passé simple,nous fin,îmes
+Finir,Passé simple,vous fin,îtes
+Finir,Passé simple,ils fin,irent
+Finir,Passé antérieur,j'eus fin,i
+Finir,Passé antérieur,tu eus fin,i
+Finir,Passé antérieur,il eut fin,i
+Finir,Passé antérieur,nous eûmes fin,i
+Finir,Passé antérieur,vous eûtes fin,i
+Finir,Passé antérieur,ils eurent fin,i
+Finir,Futur,je fin,irai
+Finir,Futur,tu fin,iras
+Finir,Futur,il fin,ira
+Finir,Futur,nous fin,irons
+Finir,Futur,vous fin,irez
+Finir,Futur,ils fin,iront
+Finir,Futur antérieur,j'aurai fin,i
+Finir,Futur antérieur,tu auras fin,i
+Finir,Futur antérieur,il aura fin,i
+Finir,Futur antérieur,nous aurons fin,i
+Finir,Futur antérieur,vous aurez fin,i
+Finir,Futur antérieur,ils auront fin,i
+Finir,Futur proche,je vais fin,ir
+Finir,Futur proche,tu vas fin,ir
+Finir,Futur proche,il va fin,ir
+Finir,Futur proche,nous allons fin,ir
+Finir,Futur proche,vous allez fin,ir
+Finir,Futur proche,ils vont fin,ir
+Crier,Présent,je cri,e
+Crier,Présent,tu cri,es
+Crier,Présent,il cri,e
+Crier,Présent,nous cri,ons
+Crier,Présent,vous cri,ez
+Crier,Présent,ils cri,ent
+Crier,Passé composé,j'ai cri,é
+Crier,Passé composé,tu as cri,é
+Crier,Passé composé,il a cri,é
+Crier,Passé composé,nous avons cri,é
+Crier,Passé composé,vous avez cri,é
+Crier,Passé composé,ils ont cri,é
+Crier,Imparfait,je cri,ais
+Crier,Imparfait,tu cri,ais
+Crier,Imparfait,il cri,ait
+Crier,Imparfait,nous cri,ions
+Crier,Imparfait,vous cri,iez
+Crier,Imparfait,ils cri,aient
+Crier,Plus-que-parfait,j'avais cri,é
+Crier,Plus-que-parfait,tu avais cri,é
+Crier,Plus-que-parfait,il avait cri,é
+Crier,Plus-que-parfait,nous avions cri,é
+Crier,Plus-que-parfait,vous aviez cri,é
+Crier,Plus-que-parfait,ils avaient cri,é
+Crier,Passé simple,je cri,ai
+Crier,Passé simple,tu cri,as
+Crier,Passé simple,il cri,a
+Crier,Passé simple,nous cri,âmes
+Crier,Passé simple,vous cri,âtes
+Crier,Passé simple,ils cri,èrent
+Crier,Passé antérieur,j'eus cri,é
+Crier,Passé antérieur,tu eus cri,é
+Crier,Passé antérieur,il eut cri,é
+Crier,Passé antérieur,nous eûmes cri,é
+Crier,Passé antérieur,vous eûtes cri,é
+Crier,Passé antérieur,ils eurent cri,é
+Crier,Futur,je cri,erai
+Crier,Futur,tu cri,eras
+Crier,Futur,il cri,era
+Crier,Futur,nous cri,erons
+Crier,Futur,vous cri,erez
+Crier,Futur,ils cri,eront
+Crier,Futur antérieur,j'aurai cri,é
+Crier,Futur antérieur,tu auras cri,é
+Crier,Futur antérieur,il aura cri,é
+Crier,Futur antérieur,nous aurons cri,é
+Crier,Futur antérieur,vous aurez cri,é
+Crier,Futur antérieur,ils auront cri,é
+Crier,Futur proche,je vais cri,er
+Crier,Futur proche,tu vas cri,er
+Crier,Futur proche,il va cri,er
+Crier,Futur proche,nous allons cri,er
+Crier,Futur proche,vous allez cri,er
+Crier,Futur proche,ils vont cri,er
+Courir,Présent,je cour,s
+Courir,Présent,tu cour,s
+Courir,Présent,il cour,t
+Courir,Présent,nous cour,ons
+Courir,Présent,vous cour,ez
+Courir,Présent,ils cour,ent
+Courir,Passé composé,j'ai cour,u
+Courir,Passé composé,tu as cour,u
+Courir,Passé composé,il a cour,u
+Courir,Passé composé,nous avons cour,u
+Courir,Passé composé,vous avez cour,u
+Courir,Passé composé,ils ont cour,u
+Courir,Imparfait,je cour,ais
+Courir,Imparfait,tu cour,ais
+Courir,Imparfait,il cour,ait
+Courir,Imparfait,nous cour,ions
+Courir,Imparfait,vous cour,iez
+Courir,Imparfait,ils cour,aient
+Courir,Plus-que-parfait,j'avais cour,u
+Courir,Plus-que-parfait,tu avais cour,u
+Courir,Plus-que-parfait,il avait cour,u
+Courir,Plus-que-parfait,nous avions cour,u
+Courir,Plus-que-parfait,vous aviez cour,u
+Courir,Plus-que-parfait,ils avaient cour,u
+Courir,Passé simple,je cour,us
+Courir,Passé simple,tu cour,us
+Courir,Passé simple,il cour,ut
+Courir,Passé simple,nous cour,ûmes
+Courir,Passé simple,vous cour,ûtes
+Courir,Passé simple,ils cour,urent
+Courir,Passé antérieur,j'eus cour,u
+Courir,Passé antérieur,tu eus cour,u
+Courir,Passé antérieur,il eut cour,u
+Courir,Passé antérieur,nous eûmes cour,u
+Courir,Passé antérieur,vous eûtes cour,u
+Courir,Passé antérieur,ils eurent cour,u
+Courir,Futur,je cour,rai
+Courir,Futur,tu cour,ras
+Courir,Futur,il cour,ra
+Courir,Futur,nous cour,rons
+Courir,Futur,vous cour,rez
+Courir,Futur,ils cour,ront
+Courir,Futur antérieur,j'aurai cour,u
+Courir,Futur antérieur,tu auras cour,u
+Courir,Futur antérieur,il aura cour,u
+Courir,Futur antérieur,nous aurons cour,u
+Courir,Futur antérieur,vous aurez cour,u
+Courir,Futur antérieur,ils auront cour,u
+Courir,Futur proche,je vais cour,ir
+Courir,Futur proche,tu vas cour,ir
+Courir,Futur proche,il va cour,ir
+Courir,Futur proche,nous allons cour,ir
+Courir,Futur proche,vous allez cour,ir
+Courir,Futur proche,ils vont cour,ir
+Permettre,Présent,je perm,ets
+Permettre,Présent,tu perm,ets
+Permettre,Présent,il perm,et
+Permettre,Présent,nous perm,ettons
+Permettre,Présent,vous perm,ettez
+Permettre,Présent,ils perm,ettent
+Permettre,Passé composé,j'ai perm,is
+Permettre,Passé composé,tu as perm,is
+Permettre,Passé composé,il a perm,is
+Permettre,Passé composé,nous avons perm,is
+Permettre,Passé composé,vous avez perm,is
+Permettre,Passé composé,ils ont perm,is
+Permettre,Imparfait,je perm,ettais
+Permettre,Imparfait,tu perm,ettais
+Permettre,Imparfait,il perm,ettait
+Permettre,Imparfait,nous perm,ettions
+Permettre,Imparfait,vous perm,ettiez
+Permettre,Imparfait,ils perm,ettaient
+Permettre,Plus-que-parfait,j'avais perm,is
+Permettre,Plus-que-parfait,tu avais perm,is
+Permettre,Plus-que-parfait,il avait perm,is
+Permettre,Plus-que-parfait,nous avions perm,is
+Permettre,Plus-que-parfait,vous aviez perm,is
+Permettre,Plus-que-parfait,ils avaient perm,is
+Permettre,Passé simple,je perm,is
+Permettre,Passé simple,tu perm,is
+Permettre,Passé simple,il perm,it
+Permettre,Passé simple,nous perm,îmes
+Permettre,Passé simple,vous perm,îtes
+Permettre,Passé simple,ils perm,irent
+Permettre,Passé antérieur,j'eus perm,is
+Permettre,Passé antérieur,tu eus perm,is
+Permettre,Passé antérieur,il eut perm,is
+Permettre,Passé antérieur,nous eûmes perm,is
+Permettre,Passé antérieur,vous eûtes perm,is
+Permettre,Passé antérieur,ils eurent perm,is
+Permettre,Futur,je perm,ettrai
+Permettre,Futur,tu perm,ettras
+Permettre,Futur,il perm,ettra
+Permettre,Futur,nous perm,ettrons
+Permettre,Futur,vous perm,ettrez
+Permettre,Futur,ils perm,ettront
+Permettre,Futur antérieur,j'aurai perm,is
+Permettre,Futur antérieur,tu auras perm,is
+Permettre,Futur antérieur,il aura perm,is
+Permettre,Futur antérieur,nous aurons perm,is
+Permettre,Futur antérieur,vous aurez perm,is
+Permettre,Futur antérieur,ils auront perm,is
+Permettre,Futur proche,je vais perm,ettre
+Permettre,Futur proche,tu vas perm,ettre
+Permettre,Futur proche,il va perm,ettre
+Permettre,Futur proche,nous allons perm,ettre
+Permettre,Futur proche,vous allez perm,ettre
+Permettre,Futur proche,ils vont perm,ettre
+Songer,Présent,je son,ge
+Songer,Présent,tu son,ges
+Songer,Présent,il son,ge
+Songer,Présent,nous son,geons
+Songer,Présent,vous son,gez
+Songer,Présent,ils son,gent
+Songer,Passé composé,j'ai son,gé
+Songer,Passé composé,tu as son,gé
+Songer,Passé composé,il a son,gé
+Songer,Passé composé,nous avons son,gé
+Songer,Passé composé,vous avez son,gé
+Songer,Passé composé,ils ont son,gé
+Songer,Imparfait,je son,geais
+Songer,Imparfait,tu son,geais
+Songer,Imparfait,il son,geait
+Songer,Imparfait,nous son,gions
+Songer,Imparfait,vous son,giez
+Songer,Imparfait,ils son,geaient
+Songer,Plus-que-parfait,j'avais son,gé
+Songer,Plus-que-parfait,tu avais son,gé
+Songer,Plus-que-parfait,il avait son,gé
+Songer,Plus-que-parfait,nous avions son,gé
+Songer,Plus-que-parfait,vous aviez son,gé
+Songer,Plus-que-parfait,ils avaient son,gé
+Songer,Passé simple,je son,geai
+Songer,Passé simple,tu son,geas
+Songer,Passé simple,il son,gea
+Songer,Passé simple,nous son,geâmes
+Songer,Passé simple,vous son,geâtes
+Songer,Passé simple,ils son,gèrent
+Songer,Passé antérieur,j'eus son,gé
+Songer,Passé antérieur,tu eus son,gé
+Songer,Passé antérieur,il eut son,gé
+Songer,Passé antérieur,nous eûmes son,gé
+Songer,Passé antérieur,vous eûtes son,gé
+Songer,Passé antérieur,ils eurent son,gé
+Songer,Futur,je son,gerai
+Songer,Futur,tu son,geras
+Songer,Futur,il son,gera
+Songer,Futur,nous son,gerons
+Songer,Futur,vous son,gerez
+Songer,Futur,ils son,geront
+Songer,Futur antérieur,j'aurai son,gé
+Songer,Futur antérieur,tu auras son,gé
+Songer,Futur antérieur,il aura son,gé
+Songer,Futur antérieur,nous aurons son,gé
+Songer,Futur antérieur,vous aurez son,gé
+Songer,Futur antérieur,ils auront son,gé
+Songer,Futur proche,je vais son,ger
+Songer,Futur proche,tu vas son,ger
+Songer,Futur proche,il va son,ger
+Songer,Futur proche,nous allons son,ger
+Songer,Futur proche,vous allez son,ger
+Songer,Futur proche,ils vont son,ger
+Offrir,Présent,j'off,re
+Offrir,Présent,tu off,res
+Offrir,Présent,il off,re
+Offrir,Présent,nous off,rons
+Offrir,Présent,vous off,rez
+Offrir,Présent,ils off,rent
+Offrir,Passé composé,j'ai off,ert
+Offrir,Passé composé,tu as off,ert
+Offrir,Passé composé,il a off,ert
+Offrir,Passé composé,nous avons off,ert
+Offrir,Passé composé,vous avez off,ert
+Offrir,Passé composé,ils ont off,ert
+Offrir,Imparfait,j'off,rais
+Offrir,Imparfait,tu off,rais
+Offrir,Imparfait,il off,rait
+Offrir,Imparfait,nous off,rions
+Offrir,Imparfait,vous off,riez
+Offrir,Imparfait,ils off,raient
+Offrir,Plus-que-parfait,j'avais off,ert
+Offrir,Plus-que-parfait,tu avais off,ert
+Offrir,Plus-que-parfait,il avait off,ert
+Offrir,Plus-que-parfait,nous avions off,ert
+Offrir,Plus-que-parfait,vous aviez off,ert
+Offrir,Plus-que-parfait,ils avaient off,ert
+Offrir,Passé simple,j'off,ris
+Offrir,Passé simple,tu off,ris
+Offrir,Passé simple,il off,rit
+Offrir,Passé simple,nous off,rîmes
+Offrir,Passé simple,vous off,rîtes
+Offrir,Passé simple,ils off,rirent
+Offrir,Passé antérieur,j'eus off,ert
+Offrir,Passé antérieur,tu eus off,ert
+Offrir,Passé antérieur,il eut off,ert
+Offrir,Passé antérieur,nous eûmes off,ert
+Offrir,Passé antérieur,vous eûtes off,ert
+Offrir,Passé antérieur,ils eurent off,ert
+Offrir,Futur,j'off,rirai
+Offrir,Futur,tu off,riras
+Offrir,Futur,il off,rira
+Offrir,Futur,nous off,rirons
+Offrir,Futur,vous off,rirez
+Offrir,Futur,ils off,riront
+Offrir,Futur antérieur,j'aurai off,ert
+Offrir,Futur antérieur,tu auras off,ert
+Offrir,Futur antérieur,il aura off,ert
+Offrir,Futur antérieur,nous aurons off,ert
+Offrir,Futur antérieur,vous aurez off,ert
+Offrir,Futur antérieur,ils auront off,ert
+Offrir,Futur proche,je vais off,rir
+Offrir,Futur proche,tu vas off,rir
+Offrir,Futur proche,il va off,rir
+Offrir,Futur proche,nous allons off,rir
+Offrir,Futur proche,vous allez off,rir
+Offrir,Futur proche,ils vont off,rir
+Présenter,Présent,je présent,e
+Présenter,Présent,tu présent,es
+Présenter,Présent,il présent,e
+Présenter,Présent,nous présent,ons
+Présenter,Présent,vous présent,ez
+Présenter,Présent,ils présent,ent
+Présenter,Passé composé,j'ai présent,é
+Présenter,Passé composé,tu as présent,é
+Présenter,Passé composé,il a présent,é
+Présenter,Passé composé,nous avons présent,é
+Présenter,Passé composé,vous avez présent,é
+Présenter,Passé composé,ils ont présent,é
+Présenter,Imparfait,je présent,ais
+Présenter,Imparfait,tu présent,ais
+Présenter,Imparfait,il présent,ait
+Présenter,Imparfait,nous présent,ions
+Présenter,Imparfait,vous présent,iez
+Présenter,Imparfait,ils présent,aient
+Présenter,Plus-que-parfait,j'avais présent,é
+Présenter,Plus-que-parfait,tu avais présent,é
+Présenter,Plus-que-parfait,il avait présent,é
+Présenter,Plus-que-parfait,nous avions présent,é
+Présenter,Plus-que-parfait,vous aviez présent,é
+Présenter,Plus-que-parfait,ils avaient présent,é
+Présenter,Passé simple,je présent,ai
+Présenter,Passé simple,tu présent,as
+Présenter,Passé simple,il présent,a
+Présenter,Passé simple,nous présent,âmes
+Présenter,Passé simple,vous présent,âtes
+Présenter,Passé simple,ils présent,èrent
+Présenter,Passé antérieur,j'eus présent,é
+Présenter,Passé antérieur,tu eus présent,é
+Présenter,Passé antérieur,il eut présent,é
+Présenter,Passé antérieur,nous eûmes présent,é
+Présenter,Passé antérieur,vous eûtes présent,é
+Présenter,Passé antérieur,ils eurent présent,é
+Présenter,Futur,je présent,erai
+Présenter,Futur,tu présent,eras
+Présenter,Futur,il présent,era
+Présenter,Futur,nous présent,erons
+Présenter,Futur,vous présent,erez
+Présenter,Futur,ils présent,eront
+Présenter,Futur antérieur,j'aurai présent,é
+Présenter,Futur antérieur,tu auras présent,é
+Présenter,Futur antérieur,il aura présent,é
+Présenter,Futur antérieur,nous aurons présent,é
+Présenter,Futur antérieur,vous aurez présent,é
+Présenter,Futur antérieur,ils auront présent,é
+Présenter,Futur proche,je vais présent,er
+Présenter,Futur proche,tu vas présent,er
+Présenter,Futur proche,il va présent,er
+Présenter,Futur proche,nous allons présent,er
+Présenter,Futur proche,vous allez présent,er
+Présenter,Futur proche,ils vont présent,er
+Apprendre,Présent,j'appr,ends
+Apprendre,Présent,tu appr,ends
+Apprendre,Présent,il appr,end
+Apprendre,Présent,nous appr,enons
+Apprendre,Présent,vous appr,enez
+Apprendre,Présent,ils appr,ennent
+Apprendre,Passé composé,j'ai appr,is
+Apprendre,Passé composé,tu as appr,is
+Apprendre,Passé composé,il a appr,is
+Apprendre,Passé composé,nous avons appr,is
+Apprendre,Passé composé,vous avez appr,is
+Apprendre,Passé composé,ils ont appr,is
+Apprendre,Imparfait,j'appr,enais
+Apprendre,Imparfait,tu appr,enais
+Apprendre,Imparfait,il appr,enait
+Apprendre,Imparfait,nous appr,enions
+Apprendre,Imparfait,vous appr,eniez
+Apprendre,Imparfait,ils appr,enaient
+Apprendre,Plus-que-parfait,j'avais appr,is
+Apprendre,Plus-que-parfait,tu avais appr,is
+Apprendre,Plus-que-parfait,il avait appr,is
+Apprendre,Plus-que-parfait,nous avions appr,is
+Apprendre,Plus-que-parfait,vous aviez appr,is
+Apprendre,Plus-que-parfait,ils avaient appr,is
+Apprendre,Passé simple,j'appr,is
+Apprendre,Passé simple,tu appr,is
+Apprendre,Passé simple,il appr,it
+Apprendre,Passé simple,nous appr,îmes
+Apprendre,Passé simple,vous appr,îtes
+Apprendre,Passé simple,ils appr,irent
+Apprendre,Passé antérieur,j'eus appr,is
+Apprendre,Passé antérieur,tu eus appr,is
+Apprendre,Passé antérieur,il eut appr,is
+Apprendre,Passé antérieur,nous eûmes appr,is
+Apprendre,Passé antérieur,vous eûtes appr,is
+Apprendre,Passé antérieur,ils eurent appr,is
+Apprendre,Futur,j'appr,endrai
+Apprendre,Futur,tu appr,endras
+Apprendre,Futur,il appr,endra
+Apprendre,Futur,nous appr,endrons
+Apprendre,Futur,vous appr,endrez
+Apprendre,Futur,ils appr,endront
+Apprendre,Futur antérieur,j'aurai appr,is
+Apprendre,Futur antérieur,tu auras appr,is
+Apprendre,Futur antérieur,il aura appr,is
+Apprendre,Futur antérieur,nous aurons appr,is
+Apprendre,Futur antérieur,vous aurez appr,is
+Apprendre,Futur antérieur,ils auront appr,is
+Apprendre,Futur proche,je vais appr,endre
+Apprendre,Futur proche,tu vas appr,endre
+Apprendre,Futur proche,il va appr,endre
+Apprendre,Futur proche,nous allons appr,endre
+Apprendre,Futur proche,vous allez appr,endre
+Apprendre,Futur proche,ils vont appr,endre
+Souffrir,Présent,je souff,re
+Souffrir,Présent,tu souff,res
+Souffrir,Présent,il souff,re
+Souffrir,Présent,nous souff,rons
+Souffrir,Présent,vous souff,rez
+Souffrir,Présent,ils souff,rent
+Souffrir,Passé composé,j'ai souff,ert
+Souffrir,Passé composé,tu as souff,ert
+Souffrir,Passé composé,il a souff,ert
+Souffrir,Passé composé,nous avons souff,ert
+Souffrir,Passé composé,vous avez souff,ert
+Souffrir,Passé composé,ils ont souff,ert
+Souffrir,Imparfait,je souff,rais
+Souffrir,Imparfait,tu souff,rais
+Souffrir,Imparfait,il souff,rait
+Souffrir,Imparfait,nous souff,rions
+Souffrir,Imparfait,vous souff,riez
+Souffrir,Imparfait,ils souff,raient
+Souffrir,Plus-que-parfait,j'avais souff,ert
+Souffrir,Plus-que-parfait,tu avais souff,ert
+Souffrir,Plus-que-parfait,il avait souff,ert
+Souffrir,Plus-que-parfait,nous avions souff,ert
+Souffrir,Plus-que-parfait,vous aviez souff,ert
+Souffrir,Plus-que-parfait,ils avaient souff,ert
+Souffrir,Passé simple,je souff,ris
+Souffrir,Passé simple,tu souff,ris
+Souffrir,Passé simple,il souff,rit
+Souffrir,Passé simple,nous souff,rîmes
+Souffrir,Passé simple,vous souff,rîtes
+Souffrir,Passé simple,ils souff,rirent
+Souffrir,Passé antérieur,j'eus souff,ert
+Souffrir,Passé antérieur,tu eus souff,ert
+Souffrir,Passé antérieur,il eut souff,ert
+Souffrir,Passé antérieur,nous eûmes souff,ert
+Souffrir,Passé antérieur,vous eûtes souff,ert
+Souffrir,Passé antérieur,ils eurent souff,ert
+Souffrir,Futur,je souff,rirai
+Souffrir,Futur,tu souff,riras
+Souffrir,Futur,il souff,rira
+Souffrir,Futur,nous souff,rirons
+Souffrir,Futur,vous souff,rirez
+Souffrir,Futur,ils souff,riront
+Souffrir,Futur antérieur,j'aurai souff,ert
+Souffrir,Futur antérieur,tu auras souff,ert
+Souffrir,Futur antérieur,il aura souff,ert
+Souffrir,Futur antérieur,nous aurons souff,ert
+Souffrir,Futur antérieur,vous aurez souff,ert
+Souffrir,Futur antérieur,ils auront souff,ert
+Souffrir,Futur proche,je vais souff,rir
+Souffrir,Futur proche,tu vas souff,rir
+Souffrir,Futur proche,il va souff,rir
+Souffrir,Futur proche,nous allons souff,rir
+Souffrir,Futur proche,vous allez souff,rir
+Souffrir,Futur proche,ils vont souff,rir
+Exister,Présent,j'exist,e
+Exister,Présent,tu exist,es
+Exister,Présent,il exist,e
+Exister,Présent,nous exist,ons
+Exister,Présent,vous exist,ez
+Exister,Présent,ils exist,ent
+Exister,Passé composé,j'ai exist,é
+Exister,Passé composé,tu as exist,é
+Exister,Passé composé,il a exist,é
+Exister,Passé composé,nous avons exist,é
+Exister,Passé composé,vous avez exist,é
+Exister,Passé composé,ils ont exist,é
+Exister,Imparfait,j'exist,ais
+Exister,Imparfait,tu exist,ais
+Exister,Imparfait,il exist,ait
+Exister,Imparfait,nous exist,ions
+Exister,Imparfait,vous exist,iez
+Exister,Imparfait,ils exist,aient
+Exister,Plus-que-parfait,j'avais exist,é
+Exister,Plus-que-parfait,tu avais exist,é
+Exister,Plus-que-parfait,il avait exist,é
+Exister,Plus-que-parfait,nous avions exist,é
+Exister,Plus-que-parfait,vous aviez exist,é
+Exister,Plus-que-parfait,ils avaient exist,é
+Exister,Passé simple,j'exist,ai
+Exister,Passé simple,tu exist,as
+Exister,Passé simple,il exist,a
+Exister,Passé simple,nous exist,âmes
+Exister,Passé simple,vous exist,âtes
+Exister,Passé simple,ils exist,èrent
+Exister,Passé antérieur,j'eus exist,é
+Exister,Passé antérieur,tu eus exist,é
+Exister,Passé antérieur,il eut exist,é
+Exister,Passé antérieur,nous eûmes exist,é
+Exister,Passé antérieur,vous eûtes exist,é
+Exister,Passé antérieur,ils eurent exist,é
+Exister,Futur,j'exist,erai
+Exister,Futur,tu exist,eras
+Exister,Futur,il exist,era
+Exister,Futur,nous exist,erons
+Exister,Futur,vous exist,erez
+Exister,Futur,ils exist,eront
+Exister,Futur antérieur,j'aurai exist,é
+Exister,Futur antérieur,tu auras exist,é
+Exister,Futur antérieur,il aura exist,é
+Exister,Futur antérieur,nous aurons exist,é
+Exister,Futur antérieur,vous aurez exist,é
+Exister,Futur antérieur,ils auront exist,é
+Exister,Futur proche,je vais exist,er
+Exister,Futur proche,tu vas exist,er
+Exister,Futur proche,il va exist,er
+Exister,Futur proche,nous allons exist,er
+Exister,Futur proche,vous allez exist,er
+Exister,Futur proche,ils vont exist,er
+Envoyer,Présent,j'env,oie
+Envoyer,Présent,tu env,oies
+Envoyer,Présent,il env,oie
+Envoyer,Présent,nous env,oyons
+Envoyer,Présent,vous env,oyez
+Envoyer,Présent,ils env,oient
+Envoyer,Passé composé,j'ai env,oyé
+Envoyer,Passé composé,tu as env,oyé
+Envoyer,Passé composé,il a env,oyé
+Envoyer,Passé composé,nous avons env,oyé
+Envoyer,Passé composé,vous avez env,oyé
+Envoyer,Passé composé,ils ont env,oyé
+Envoyer,Imparfait,j'env,oyais
+Envoyer,Imparfait,tu env,oyais
+Envoyer,Imparfait,il env,oyait
+Envoyer,Imparfait,nous env,oyions
+Envoyer,Imparfait,vous env,oyiez
+Envoyer,Imparfait,ils env,oyaient
+Envoyer,Plus-que-parfait,j'avais env,oyé
+Envoyer,Plus-que-parfait,tu avais env,oyé
+Envoyer,Plus-que-parfait,il avait env,oyé
+Envoyer,Plus-que-parfait,nous avions env,oyé
+Envoyer,Plus-que-parfait,vous aviez env,oyé
+Envoyer,Plus-que-parfait,ils avaient env,oyé
+Envoyer,Passé simple,j'env,oyai
+Envoyer,Passé simple,tu env,oyas
+Envoyer,Passé simple,il env,oya
+Envoyer,Passé simple,nous env,oyâmes
+Envoyer,Passé simple,vous env,oyâtes
+Envoyer,Passé simple,ils env,oyèrent
+Envoyer,Passé antérieur,j'eus env,oyé
+Envoyer,Passé antérieur,tu eus env,oyé
+Envoyer,Passé antérieur,il eut env,oyé
+Envoyer,Passé antérieur,nous eûmes env,oyé
+Envoyer,Passé antérieur,vous eûtes env,oyé
+Envoyer,Passé antérieur,ils eurent env,oyé
+Envoyer,Futur,j'env,errai
+Envoyer,Futur,tu env,erras
+Envoyer,Futur,il env,erra
+Envoyer,Futur,nous env,errons
+Envoyer,Futur,vous env,errez
+Envoyer,Futur,ils env,erront
+Envoyer,Futur antérieur,j'aurai env,oyé
+Envoyer,Futur antérieur,tu auras env,oyé
+Envoyer,Futur antérieur,il aura env,oyé
+Envoyer,Futur antérieur,nous aurons env,oyé
+Envoyer,Futur antérieur,vous aurez env,oyé
+Envoyer,Futur antérieur,ils auront env,oyé
+Envoyer,Futur proche,je vais env,oyer
+Envoyer,Futur proche,tu vas env,oyer
+Envoyer,Futur proche,il va env,oyer
+Envoyer,Futur proche,nous allons env,oyer
+Envoyer,Futur proche,vous allez env,oyer
+Envoyer,Futur proche,ils vont env,oyer
+Expliquer,Présent,j'expliqu,e
+Expliquer,Présent,tu expliqu,es
+Expliquer,Présent,il expliqu,e
+Expliquer,Présent,nous expliqu,ons
+Expliquer,Présent,vous expliqu,ez
+Expliquer,Présent,ils expliqu,ent
+Expliquer,Passé composé,j'ai expliqu,é
+Expliquer,Passé composé,tu as expliqu,é
+Expliquer,Passé composé,il a expliqu,é
+Expliquer,Passé composé,nous avons expliqu,é
+Expliquer,Passé composé,vous avez expliqu,é
+Expliquer,Passé composé,ils ont expliqu,é
+Expliquer,Imparfait,j'expliqu,ais
+Expliquer,Imparfait,tu expliqu,ais
+Expliquer,Imparfait,il expliqu,ait
+Expliquer,Imparfait,nous expliqu,ions
+Expliquer,Imparfait,vous expliqu,iez
+Expliquer,Imparfait,ils expliqu,aient
+Expliquer,Plus-que-parfait,j'avais expliqu,é
+Expliquer,Plus-que-parfait,tu avais expliqu,é
+Expliquer,Plus-que-parfait,il avait expliqu,é
+Expliquer,Plus-que-parfait,nous avions expliqu,é
+Expliquer,Plus-que-parfait,vous aviez expliqu,é
+Expliquer,Plus-que-parfait,ils avaient expliqu,é
+Expliquer,Passé simple,j'expliqu,ai
+Expliquer,Passé simple,tu expliqu,as
+Expliquer,Passé simple,il expliqu,a
+Expliquer,Passé simple,nous expliqu,âmes
+Expliquer,Passé simple,vous expliqu,âtes
+Expliquer,Passé simple,ils expliqu,èrent
+Expliquer,Passé antérieur,j'eus expliqu,é
+Expliquer,Passé antérieur,tu eus expliqu,é
+Expliquer,Passé antérieur,il eut expliqu,é
+Expliquer,Passé antérieur,nous eûmes expliqu,é
+Expliquer,Passé antérieur,vous eûtes expliqu,é
+Expliquer,Passé antérieur,ils eurent expliqu,é
+Expliquer,Futur,j'expliqu,erai
+Expliquer,Futur,tu expliqu,eras
+Expliquer,Futur,il expliqu,era
+Expliquer,Futur,nous expliqu,erons
+Expliquer,Futur,vous expliqu,erez
+Expliquer,Futur,ils expliqu,eront
+Expliquer,Futur antérieur,j'aurai expliqu,é
+Expliquer,Futur antérieur,tu auras expliqu,é
+Expliquer,Futur antérieur,il aura expliqu,é
+Expliquer,Futur antérieur,nous aurons expliqu,é
+Expliquer,Futur antérieur,vous aurez expliqu,é
+Expliquer,Futur antérieur,ils auront expliqu,é
+Expliquer,Futur proche,je vais expliqu,er
+Expliquer,Futur proche,tu vas expliqu,er
+Expliquer,Futur proche,il va expliqu,er
+Expliquer,Futur proche,nous allons expliqu,er
+Expliquer,Futur proche,vous allez expliqu,er
+Expliquer,Futur proche,ils vont expliqu,er
+Manger,Présent,je man,ge
+Manger,Présent,tu man,ges
+Manger,Présent,il man,ge
+Manger,Présent,nous man,geons
+Manger,Présent,vous man,gez
+Manger,Présent,ils man,gent
+Manger,Passé composé,j'ai man,gé
+Manger,Passé composé,tu as man,gé
+Manger,Passé composé,il a man,gé
+Manger,Passé composé,nous avons man,gé
+Manger,Passé composé,vous avez man,gé
+Manger,Passé composé,ils ont man,gé
+Manger,Imparfait,je man,geais
+Manger,Imparfait,tu man,geais
+Manger,Imparfait,il man,geait
+Manger,Imparfait,nous man,gions
+Manger,Imparfait,vous man,giez
+Manger,Imparfait,ils man,geaient
+Manger,Plus-que-parfait,j'avais man,gé
+Manger,Plus-que-parfait,tu avais man,gé
+Manger,Plus-que-parfait,il avait man,gé
+Manger,Plus-que-parfait,nous avions man,gé
+Manger,Plus-que-parfait,vous aviez man,gé
+Manger,Plus-que-parfait,ils avaient man,gé
+Manger,Passé simple,je man,geai
+Manger,Passé simple,tu man,geas
+Manger,Passé simple,il man,gea
+Manger,Passé simple,nous man,geâmes
+Manger,Passé simple,vous man,geâtes
+Manger,Passé simple,ils man,gèrent
+Manger,Passé antérieur,j'eus man,gé
+Manger,Passé antérieur,tu eus man,gé
+Manger,Passé antérieur,il eut man,gé
+Manger,Passé antérieur,nous eûmes man,gé
+Manger,Passé antérieur,vous eûtes man,gé
+Manger,Passé antérieur,ils eurent man,gé
+Manger,Futur,je man,gerai
+Manger,Futur,tu man,geras
+Manger,Futur,il man,gera
+Manger,Futur,nous man,gerons
+Manger,Futur,vous man,gerez
+Manger,Futur,ils man,geront
+Manger,Futur antérieur,j'aurai man,gé
+Manger,Futur antérieur,tu auras man,gé
+Manger,Futur antérieur,il aura man,gé
+Manger,Futur antérieur,nous aurons man,gé
+Manger,Futur antérieur,vous aurez man,gé
+Manger,Futur antérieur,ils auront man,gé
+Manger,Futur proche,je vais man,ger
+Manger,Futur proche,tu vas man,ger
+Manger,Futur proche,il va man,ger
+Manger,Futur proche,nous allons man,ger
+Manger,Futur proche,vous allez man,ger
+Manger,Futur proche,ils vont man,ger
+Valoir,Présent,je va,ux
+Valoir,Présent,tu va,ux
+Valoir,Présent,il va,ut
+Valoir,Présent,nous va,lons
+Valoir,Présent,vous va,lez
+Valoir,Présent,ils va,lent
+Valoir,Passé composé,j'ai va,lu
+Valoir,Passé composé,tu as va,lu
+Valoir,Passé composé,il a va,lu
+Valoir,Passé composé,nous avons va,lu
+Valoir,Passé composé,vous avez va,lu
+Valoir,Passé composé,ils ont va,lu
+Valoir,Imparfait,je va,lais
+Valoir,Imparfait,tu va,lais
+Valoir,Imparfait,il va,lait
+Valoir,Imparfait,nous va,lions
+Valoir,Imparfait,vous va,liez
+Valoir,Imparfait,ils va,laient
+Valoir,Plus-que-parfait,j'avais va,lu
+Valoir,Plus-que-parfait,tu avais va,lu
+Valoir,Plus-que-parfait,il avait va,lu
+Valoir,Plus-que-parfait,nous avions va,lu
+Valoir,Plus-que-parfait,vous aviez va,lu
+Valoir,Plus-que-parfait,ils avaient va,lu
+Valoir,Passé simple,je va,lus
+Valoir,Passé simple,tu va,lus
+Valoir,Passé simple,il va,lut
+Valoir,Passé simple,nous va,lûmes
+Valoir,Passé simple,vous va,lûtes
+Valoir,Passé simple,ils va,lurent
+Valoir,Passé antérieur,j'eus va,lu
+Valoir,Passé antérieur,tu eus va,lu
+Valoir,Passé antérieur,il eut va,lu
+Valoir,Passé antérieur,nous eûmes va,lu
+Valoir,Passé antérieur,vous eûtes va,lu
+Valoir,Passé antérieur,ils eurent va,lu
+Valoir,Futur,je va,udrai
+Valoir,Futur,tu va,udras
+Valoir,Futur,il va,udra
+Valoir,Futur,nous va,udrons
+Valoir,Futur,vous va,udrez
+Valoir,Futur,ils va,udront
+Valoir,Futur antérieur,j'aurai va,lu
+Valoir,Futur antérieur,tu auras va,lu
+Valoir,Futur antérieur,il aura va,lu
+Valoir,Futur antérieur,nous aurons va,lu
+Valoir,Futur antérieur,vous aurez va,lu
+Valoir,Futur antérieur,ils auront va,lu
+Valoir,Futur proche,je vais va,loir
+Valoir,Futur proche,tu vas va,loir
+Valoir,Futur proche,il va va,loir
+Valoir,Futur proche,nous allons va,loir
+Valoir,Futur proche,vous allez va,loir
+Valoir,Futur proche,ils vont va,loir
+Oublier,Présent,j'oubli,e
+Oublier,Présent,tu oubli,es
+Oublier,Présent,il oubli,e
+Oublier,Présent,nous oubli,ons
+Oublier,Présent,vous oubli,ez
+Oublier,Présent,ils oubli,ent
+Oublier,Passé composé,j'ai oubli,é
+Oublier,Passé composé,tu as oubli,é
+Oublier,Passé composé,il a oubli,é
+Oublier,Passé composé,nous avons oubli,é
+Oublier,Passé composé,vous avez oubli,é
+Oublier,Passé composé,ils ont oubli,é
+Oublier,Imparfait,j'oubli,ais
+Oublier,Imparfait,tu oubli,ais
+Oublier,Imparfait,il oubli,ait
+Oublier,Imparfait,nous oubli,ions
+Oublier,Imparfait,vous oubli,iez
+Oublier,Imparfait,ils oubli,aient
+Oublier,Plus-que-parfait,j'avais oubli,é
+Oublier,Plus-que-parfait,tu avais oubli,é
+Oublier,Plus-que-parfait,il avait oubli,é
+Oublier,Plus-que-parfait,nous avions oubli,é
+Oublier,Plus-que-parfait,vous aviez oubli,é
+Oublier,Plus-que-parfait,ils avaient oubli,é
+Oublier,Passé simple,j'oubli,ai
+Oublier,Passé simple,tu oubli,as
+Oublier,Passé simple,il oubli,a
+Oublier,Passé simple,nous oubli,âmes
+Oublier,Passé simple,vous oubli,âtes
+Oublier,Passé simple,ils oubli,èrent
+Oublier,Passé antérieur,j'eus oubli,é
+Oublier,Passé antérieur,tu eus oubli,é
+Oublier,Passé antérieur,il eut oubli,é
+Oublier,Passé antérieur,nous eûmes oubli,é
+Oublier,Passé antérieur,vous eûtes oubli,é
+Oublier,Passé antérieur,ils eurent oubli,é
+Oublier,Futur,j'oubli,erai
+Oublier,Futur,tu oubli,eras
+Oublier,Futur,il oubli,era
+Oublier,Futur,nous oubli,erons
+Oublier,Futur,vous oubli,erez
+Oublier,Futur,ils oubli,eront
+Oublier,Futur antérieur,j'aurai oubli,é
+Oublier,Futur antérieur,tu auras oubli,é
+Oublier,Futur antérieur,il aura oubli,é
+Oublier,Futur antérieur,nous aurons oubli,é
+Oublier,Futur antérieur,vous aurez oubli,é
+Oublier,Futur antérieur,ils auront oubli,é
+Oublier,Futur proche,je vais oubli,er
+Oublier,Futur proche,tu vas oubli,er
+Oublier,Futur proche,il va oubli,er
+Oublier,Futur proche,nous allons oubli,er
+Oublier,Futur proche,vous allez oubli,er
+Oublier,Futur proche,ils vont oubli,er
+Rentrer,Présent,je rentr,e
+Rentrer,Présent,tu rentr,es
+Rentrer,Présent,il rentr,e
+Rentrer,Présent,nous rentr,ons
+Rentrer,Présent,vous rentr,ez
+Rentrer,Présent,ils rentr,ent
+Rentrer,Passé composé,je suis rentr,é
+Rentrer,Passé composé,tu es rentr,é
+Rentrer,Passé composé,il est rentr,é
+Rentrer,Passé composé,nous sommes rentr,és
+Rentrer,Passé composé,vous êtes rentr,és
+Rentrer,Passé composé,ils sont rentr,és
+Rentrer,Imparfait,je rentr,ais
+Rentrer,Imparfait,tu rentr,ais
+Rentrer,Imparfait,il rentr,ait
+Rentrer,Imparfait,nous rentr,ions
+Rentrer,Imparfait,vous rentr,iez
+Rentrer,Imparfait,ils rentr,aient
+Rentrer,Plus-que-parfait,j'étais rentr,é
+Rentrer,Plus-que-parfait,tu étais rentr,é
+Rentrer,Plus-que-parfait,il était rentr,é
+Rentrer,Plus-que-parfait,nous étions rentr,és
+Rentrer,Plus-que-parfait,vous étiez rentr,és
+Rentrer,Plus-que-parfait,ils étaient rentr,és
+Rentrer,Passé simple,je rentr,ai
+Rentrer,Passé simple,tu rentr,as
+Rentrer,Passé simple,il rentr,a
+Rentrer,Passé simple,nous rentr,âmes
+Rentrer,Passé simple,vous rentr,âtes
+Rentrer,Passé simple,ils rentr,èrent
+Rentrer,Passé antérieur,je fus rentr,é
+Rentrer,Passé antérieur,tu fus rentr,é
+Rentrer,Passé antérieur,il fut rentr,é
+Rentrer,Passé antérieur,nous fûmes rentr,és
+Rentrer,Passé antérieur,vous fûtes rentr,és
+Rentrer,Passé antérieur,ils furent rentr,és
+Rentrer,Futur,je rentr,erai
+Rentrer,Futur,tu rentr,eras
+Rentrer,Futur,il rentr,era
+Rentrer,Futur,nous rentr,erons
+Rentrer,Futur,vous rentr,erez
+Rentrer,Futur,ils rentr,eront
+Rentrer,Futur antérieur,je serai rentr,é
+Rentrer,Futur antérieur,tu seras rentr,é
+Rentrer,Futur antérieur,il sera rentr,é
+Rentrer,Futur antérieur,nous serons rentr,és
+Rentrer,Futur antérieur,vous serez rentr,és
+Rentrer,Futur antérieur,ils seront rentr,és
+Rentrer,Futur proche,je vais rentr,er
+Rentrer,Futur proche,tu vas rentr,er
+Rentrer,Futur proche,il va rentr,er
+Rentrer,Futur proche,nous allons rentr,er
+Rentrer,Futur proche,vous allez rentr,er
+Rentrer,Futur proche,ils vont rentr,er
+Pousser,Présent,je pouss,e
+Pousser,Présent,tu pouss,es
+Pousser,Présent,il pouss,e
+Pousser,Présent,nous pouss,ons
+Pousser,Présent,vous pouss,ez
+Pousser,Présent,ils pouss,ent
+Pousser,Passé composé,j'ai pouss,é
+Pousser,Passé composé,tu as pouss,é
+Pousser,Passé composé,il a pouss,é
+Pousser,Passé composé,nous avons pouss,é
+Pousser,Passé composé,vous avez pouss,é
+Pousser,Passé composé,ils ont pouss,é
+Pousser,Imparfait,je pouss,ais
+Pousser,Imparfait,tu pouss,ais
+Pousser,Imparfait,il pouss,ait
+Pousser,Imparfait,nous pouss,ions
+Pousser,Imparfait,vous pouss,iez
+Pousser,Imparfait,ils pouss,aient
+Pousser,Plus-que-parfait,j'avais pouss,é
+Pousser,Plus-que-parfait,tu avais pouss,é
+Pousser,Plus-que-parfait,il avait pouss,é
+Pousser,Plus-que-parfait,nous avions pouss,é
+Pousser,Plus-que-parfait,vous aviez pouss,é
+Pousser,Plus-que-parfait,ils avaient pouss,é
+Pousser,Passé simple,je pouss,ai
+Pousser,Passé simple,tu pouss,as
+Pousser,Passé simple,il pouss,a
+Pousser,Passé simple,nous pouss,âmes
+Pousser,Passé simple,vous pouss,âtes
+Pousser,Passé simple,ils pouss,èrent
+Pousser,Passé antérieur,j'eus pouss,é
+Pousser,Passé antérieur,tu eus pouss,é
+Pousser,Passé antérieur,il eut pouss,é
+Pousser,Passé antérieur,nous eûmes pouss,é
+Pousser,Passé antérieur,vous eûtes pouss,é
+Pousser,Passé antérieur,ils eurent pouss,é
+Pousser,Futur,je pouss,erai
+Pousser,Futur,tu pouss,eras
+Pousser,Futur,il pouss,era
+Pousser,Futur,nous pouss,erons
+Pousser,Futur,vous pouss,erez
+Pousser,Futur,ils pouss,eront
+Pousser,Futur antérieur,j'aurai pouss,é
+Pousser,Futur antérieur,tu auras pouss,é
+Pousser,Futur antérieur,il aura pouss,é
+Pousser,Futur antérieur,nous aurons pouss,é
+Pousser,Futur antérieur,vous aurez pouss,é
+Pousser,Futur antérieur,ils auront pouss,é
+Pousser,Futur proche,je vais pouss,er
+Pousser,Futur proche,tu vas pouss,er
+Pousser,Futur proche,il va pouss,er
+Pousser,Futur proche,nous allons pouss,er
+Pousser,Futur proche,vous allez pouss,er
+Pousser,Futur proche,ils vont pouss,er
+Occuper,Présent,j'occup,e
+Occuper,Présent,tu occup,es
+Occuper,Présent,il occup,e
+Occuper,Présent,nous occup,ons
+Occuper,Présent,vous occup,ez
+Occuper,Présent,ils occup,ent
+Occuper,Passé composé,j'ai occup,é
+Occuper,Passé composé,tu as occup,é
+Occuper,Passé composé,il a occup,é
+Occuper,Passé composé,nous avons occup,é
+Occuper,Passé composé,vous avez occup,é
+Occuper,Passé composé,ils ont occup,é
+Occuper,Imparfait,j'occup,ais
+Occuper,Imparfait,tu occup,ais
+Occuper,Imparfait,il occup,ait
+Occuper,Imparfait,nous occup,ions
+Occuper,Imparfait,vous occup,iez
+Occuper,Imparfait,ils occup,aient
+Occuper,Plus-que-parfait,j'avais occup,é
+Occuper,Plus-que-parfait,tu avais occup,é
+Occuper,Plus-que-parfait,il avait occup,é
+Occuper,Plus-que-parfait,nous avions occup,é
+Occuper,Plus-que-parfait,vous aviez occup,é
+Occuper,Plus-que-parfait,ils avaient occup,é
+Occuper,Passé simple,j'occup,ai
+Occuper,Passé simple,tu occup,as
+Occuper,Passé simple,il occup,a
+Occuper,Passé simple,nous occup,âmes
+Occuper,Passé simple,vous occup,âtes
+Occuper,Passé simple,ils occup,èrent
+Occuper,Passé antérieur,j'eus occup,é
+Occuper,Passé antérieur,tu eus occup,é
+Occuper,Passé antérieur,il eut occup,é
+Occuper,Passé antérieur,nous eûmes occup,é
+Occuper,Passé antérieur,vous eûtes occup,é
+Occuper,Passé antérieur,ils eurent occup,é
+Occuper,Futur,j'occup,erai
+Occuper,Futur,tu occup,eras
+Occuper,Futur,il occup,era
+Occuper,Futur,nous occup,erons
+Occuper,Futur,vous occup,erez
+Occuper,Futur,ils occup,eront
+Occuper,Futur antérieur,j'aurai occup,é
+Occuper,Futur antérieur,tu auras occup,é
+Occuper,Futur antérieur,il aura occup,é
+Occuper,Futur antérieur,nous aurons occup,é
+Occuper,Futur antérieur,vous aurez occup,é
+Occuper,Futur antérieur,ils auront occup,é
+Occuper,Futur proche,je vais occup,er
+Occuper,Futur proche,tu vas occup,er
+Occuper,Futur proche,il va occup,er
+Occuper,Futur proche,nous allons occup,er
+Occuper,Futur proche,vous allez occup,er
+Occuper,Futur proche,ils vont occup,er
+Compter,Présent,je compt,e
+Compter,Présent,tu compt,es
+Compter,Présent,il compt,e
+Compter,Présent,nous compt,ons
+Compter,Présent,vous compt,ez
+Compter,Présent,ils compt,ent
+Compter,Passé composé,j'ai compt,é
+Compter,Passé composé,tu as compt,é
+Compter,Passé composé,il a compt,é
+Compter,Passé composé,nous avons compt,é
+Compter,Passé composé,vous avez compt,é
+Compter,Passé composé,ils ont compt,é
+Compter,Imparfait,je compt,ais
+Compter,Imparfait,tu compt,ais
+Compter,Imparfait,il compt,ait
+Compter,Imparfait,nous compt,ions
+Compter,Imparfait,vous compt,iez
+Compter,Imparfait,ils compt,aient
+Compter,Plus-que-parfait,j'avais compt,é
+Compter,Plus-que-parfait,tu avais compt,é
+Compter,Plus-que-parfait,il avait compt,é
+Compter,Plus-que-parfait,nous avions compt,é
+Compter,Plus-que-parfait,vous aviez compt,é
+Compter,Plus-que-parfait,ils avaient compt,é
+Compter,Passé simple,je compt,ai
+Compter,Passé simple,tu compt,as
+Compter,Passé simple,il compt,a
+Compter,Passé simple,nous compt,âmes
+Compter,Passé simple,vous compt,âtes
+Compter,Passé simple,ils compt,èrent
+Compter,Passé antérieur,j'eus compt,é
+Compter,Passé antérieur,tu eus compt,é
+Compter,Passé antérieur,il eut compt,é
+Compter,Passé antérieur,nous eûmes compt,é
+Compter,Passé antérieur,vous eûtes compt,é
+Compter,Passé antérieur,ils eurent compt,é
+Compter,Futur,je compt,erai
+Compter,Futur,tu compt,eras
+Compter,Futur,il compt,era
+Compter,Futur,nous compt,erons
+Compter,Futur,vous compt,erez
+Compter,Futur,ils compt,eront
+Compter,Futur antérieur,j'aurai compt,é
+Compter,Futur antérieur,tu auras compt,é
+Compter,Futur antérieur,il aura compt,é
+Compter,Futur antérieur,nous aurons compt,é
+Compter,Futur antérieur,vous aurez compt,é
+Compter,Futur antérieur,ils auront compt,é
+Compter,Futur proche,je vais compt,er
+Compter,Futur proche,tu vas compt,er
+Compter,Futur proche,il va compt,er
+Compter,Futur proche,nous allons compt,er
+Compter,Futur proche,vous allez compt,er
+Compter,Futur proche,ils vont compt,er
+Empêcher,Présent,j'empêch,e
+Empêcher,Présent,tu empêch,es
+Empêcher,Présent,il empêch,e
+Empêcher,Présent,nous empêch,ons
+Empêcher,Présent,vous empêch,ez
+Empêcher,Présent,ils empêch,ent
+Empêcher,Passé composé,j'ai empêch,é
+Empêcher,Passé composé,tu as empêch,é
+Empêcher,Passé composé,il a empêch,é
+Empêcher,Passé composé,nous avons empêch,é
+Empêcher,Passé composé,vous avez empêch,é
+Empêcher,Passé composé,ils ont empêch,é
+Empêcher,Imparfait,j'empêch,ais
+Empêcher,Imparfait,tu empêch,ais
+Empêcher,Imparfait,il empêch,ait
+Empêcher,Imparfait,nous empêch,ions
+Empêcher,Imparfait,vous empêch,iez
+Empêcher,Imparfait,ils empêch,aient
+Empêcher,Plus-que-parfait,j'avais empêch,é
+Empêcher,Plus-que-parfait,tu avais empêch,é
+Empêcher,Plus-que-parfait,il avait empêch,é
+Empêcher,Plus-que-parfait,nous avions empêch,é
+Empêcher,Plus-que-parfait,vous aviez empêch,é
+Empêcher,Plus-que-parfait,ils avaient empêch,é
+Empêcher,Passé simple,j'empêch,ai
+Empêcher,Passé simple,tu empêch,as
+Empêcher,Passé simple,il empêch,a
+Empêcher,Passé simple,nous empêch,âmes
+Empêcher,Passé simple,vous empêch,âtes
+Empêcher,Passé simple,ils empêch,èrent
+Empêcher,Passé antérieur,j'eus empêch,é
+Empêcher,Passé antérieur,tu eus empêch,é
+Empêcher,Passé antérieur,il eut empêch,é
+Empêcher,Passé antérieur,nous eûmes empêch,é
+Empêcher,Passé antérieur,vous eûtes empêch,é
+Empêcher,Passé antérieur,ils eurent empêch,é
+Empêcher,Futur,j'empêch,erai
+Empêcher,Futur,tu empêch,eras
+Empêcher,Futur,il empêch,era
+Empêcher,Futur,nous empêch,erons
+Empêcher,Futur,vous empêch,erez
+Empêcher,Futur,ils empêch,eront
+Empêcher,Futur antérieur,j'aurai empêch,é
+Empêcher,Futur antérieur,tu auras empêch,é
+Empêcher,Futur antérieur,il aura empêch,é
+Empêcher,Futur antérieur,nous aurons empêch,é
+Empêcher,Futur antérieur,vous aurez empêch,é
+Empêcher,Futur antérieur,ils auront empêch,é
+Empêcher,Futur proche,je vais empêch,er
+Empêcher,Futur proche,tu vas empêch,er
+Empêcher,Futur proche,il va empêch,er
+Empêcher,Futur proche,nous allons empêch,er
+Empêcher,Futur proche,vous allez empêch,er
+Empêcher,Futur proche,ils vont empêch,er
+Plaire,Présent,je pl,ais
+Plaire,Présent,tu pl,ais
+Plaire,Présent,il pl,aît
+Plaire,Présent,nous pl,aisons
+Plaire,Présent,vous pl,aisez
+Plaire,Présent,ils pl,aisent
+Plaire,Passé composé,j'ai pl,u
+Plaire,Passé composé,tu as pl,u
+Plaire,Passé composé,il a pl,u
+Plaire,Passé composé,nous avons pl,u
+Plaire,Passé composé,vous avez pl,u
+Plaire,Passé composé,ils ont pl,u
+Plaire,Imparfait,je pl,aisais
+Plaire,Imparfait,tu pl,aisais
+Plaire,Imparfait,il pl,aisait
+Plaire,Imparfait,nous pl,aisions
+Plaire,Imparfait,vous pl,aisiez
+Plaire,Imparfait,ils pl,aisaient
+Plaire,Plus-que-parfait,j'avais pl,u
+Plaire,Plus-que-parfait,tu avais pl,u
+Plaire,Plus-que-parfait,il avait pl,u
+Plaire,Plus-que-parfait,nous avions pl,u
+Plaire,Plus-que-parfait,vous aviez pl,u
+Plaire,Plus-que-parfait,ils avaient pl,u
+Plaire,Passé simple,je pl,us
+Plaire,Passé simple,tu pl,us
+Plaire,Passé simple,il pl,ut
+Plaire,Passé simple,nous pl,ûmes
+Plaire,Passé simple,vous pl,ûtes
+Plaire,Passé simple,ils pl,urent
+Plaire,Passé antérieur,j'eus pl,u
+Plaire,Passé antérieur,tu eus pl,u
+Plaire,Passé antérieur,il eut pl,u
+Plaire,Passé antérieur,nous eûmes pl,u
+Plaire,Passé antérieur,vous eûtes pl,u
+Plaire,Passé antérieur,ils eurent pl,u
+Plaire,Futur,je pl,airai
+Plaire,Futur,tu pl,airas
+Plaire,Futur,il pl,aira
+Plaire,Futur,nous pl,airons
+Plaire,Futur,vous pl,airez
+Plaire,Futur,ils pl,airont
+Plaire,Futur antérieur,j'aurai pl,u
+Plaire,Futur antérieur,tu auras pl,u
+Plaire,Futur antérieur,il aura pl,u
+Plaire,Futur antérieur,nous aurons pl,u
+Plaire,Futur antérieur,vous aurez pl,u
+Plaire,Futur antérieur,ils auront pl,u
+Plaire,Futur proche,je vais pl,aire
+Plaire,Futur proche,tu vas pl,aire
+Plaire,Futur proche,il va pl,aire
+Plaire,Futur proche,nous allons pl,aire
+Plaire,Futur proche,vous allez pl,aire
+Plaire,Futur proche,ils vont pl,aire
+Travailler,Présent,je travaill,e
+Travailler,Présent,tu travaill,es
+Travailler,Présent,il travaill,e
+Travailler,Présent,nous travaill,ons
+Travailler,Présent,vous travaill,ez
+Travailler,Présent,ils travaill,ent
+Travailler,Passé composé,j'ai travaill,é
+Travailler,Passé composé,tu as travaill,é
+Travailler,Passé composé,il a travaill,é
+Travailler,Passé composé,nous avons travaill,é
+Travailler,Passé composé,vous avez travaill,é
+Travailler,Passé composé,ils ont travaill,é
+Travailler,Imparfait,je travaill,ais
+Travailler,Imparfait,tu travaill,ais
+Travailler,Imparfait,il travaill,ait
+Travailler,Imparfait,nous travaill,ions
+Travailler,Imparfait,vous travaill,iez
+Travailler,Imparfait,ils travaill,aient
+Travailler,Plus-que-parfait,j'avais travaill,é
+Travailler,Plus-que-parfait,tu avais travaill,é
+Travailler,Plus-que-parfait,il avait travaill,é
+Travailler,Plus-que-parfait,nous avions travaill,é
+Travailler,Plus-que-parfait,vous aviez travaill,é
+Travailler,Plus-que-parfait,ils avaient travaill,é
+Travailler,Passé simple,je travaill,ai
+Travailler,Passé simple,tu travaill,as
+Travailler,Passé simple,il travaill,a
+Travailler,Passé simple,nous travaill,âmes
+Travailler,Passé simple,vous travaill,âtes
+Travailler,Passé simple,ils travaill,èrent
+Travailler,Passé antérieur,j'eus travaill,é
+Travailler,Passé antérieur,tu eus travaill,é
+Travailler,Passé antérieur,il eut travaill,é
+Travailler,Passé antérieur,nous eûmes travaill,é
+Travailler,Passé antérieur,vous eûtes travaill,é
+Travailler,Passé antérieur,ils eurent travaill,é
+Travailler,Futur,je travaill,erai
+Travailler,Futur,tu travaill,eras
+Travailler,Futur,il travaill,era
+Travailler,Futur,nous travaill,erons
+Travailler,Futur,vous travaill,erez
+Travailler,Futur,ils travaill,eront
+Travailler,Futur antérieur,j'aurai travaill,é
+Travailler,Futur antérieur,tu auras travaill,é
+Travailler,Futur antérieur,il aura travaill,é
+Travailler,Futur antérieur,nous aurons travaill,é
+Travailler,Futur antérieur,vous aurez travaill,é
+Travailler,Futur antérieur,ils auront travaill,é
+Travailler,Futur proche,je vais travaill,er
+Travailler,Futur proche,tu vas travaill,er
+Travailler,Futur proche,il va travaill,er
+Travailler,Futur proche,nous allons travaill,er
+Travailler,Futur proche,vous allez travaill,er
+Travailler,Futur proche,ils vont travaill,er
+S'écrier,Présent,je m'écri,e
+S'écrier,Présent,tu t'écri,es
+S'écrier,Présent,il s'écri,e
+S'écrier,Présent,nous nous écri,ons
+S'écrier,Présent,vous vous écri,ez
+S'écrier,Présent,ils s'écri,ent
+S'écrier,Passé composé,je me suis écri,é
+S'écrier,Passé composé,tu t'es écri,é
+S'écrier,Passé composé,il s'est écri,é
+S'écrier,Passé composé,nous nous sommes écri,és
+S'écrier,Passé composé,vous vous êtes écri,és
+S'écrier,Passé composé,ils se sont écri,és
+S'écrier,Imparfait,je m'écri,ais
+S'écrier,Imparfait,tu t'écri,ais
+S'écrier,Imparfait,il s'écri,ait
+S'écrier,Imparfait,nous nous écri,ions
+S'écrier,Imparfait,vous vous écri,iez
+S'écrier,Imparfait,ils s'écri,aient
+S'écrier,Plus-que-parfait,je m'étais écri,é
+S'écrier,Plus-que-parfait,tu t'étais écri,é
+S'écrier,Plus-que-parfait,il s'était écri,é
+S'écrier,Plus-que-parfait,nous nous étions écri,és
+S'écrier,Plus-que-parfait,vous vous étiez écri,és
+S'écrier,Plus-que-parfait,ils s'étaient écri,és
+S'écrier,Passé simple,je m'écri,ai
+S'écrier,Passé simple,tu t'écri,as
+S'écrier,Passé simple,il s'écri,a
+S'écrier,Passé simple,nous nous écri,âmes
+S'écrier,Passé simple,vous vous écri,âtes
+S'écrier,Passé simple,ils s'écri,èrent
+S'écrier,Passé antérieur,je me fus écri,é
+S'écrier,Passé antérieur,tu te fus écri,é
+S'écrier,Passé antérieur,il se fut écri,é
+S'écrier,Passé antérieur,nous nous fûmes écri,és
+S'écrier,Passé antérieur,vous vous fûtes écri,és
+S'écrier,Passé antérieur,ils se furent écri,és
+S'écrier,Futur,je m'écri,erai
+S'écrier,Futur,tu t'écri,eras
+S'écrier,Futur,il s'écri,era
+S'écrier,Futur,nous nous écri,erons
+S'écrier,Futur,vous vous écri,erez
+S'écrier,Futur,ils s'écri,eront
+S'écrier,Futur antérieur,je me serai écri,é
+S'écrier,Futur antérieur,tu te seras écri,é
+S'écrier,Futur antérieur,il se sera écri,é
+S'écrier,Futur antérieur,nous nous serons écri,és
+S'écrier,Futur antérieur,vous vous serez écri,és
+S'écrier,Futur antérieur,ils se seront écri,és
+S'écrier,Futur proche,je vais m'écri,er
+S'écrier,Futur proche,tu vas t'écri,er
+S'écrier,Futur proche,il va s'écri,er
+S'écrier,Futur proche,nous allons nous écri,er
+S'écrier,Futur proche,vous allez vous écri,er
+S'écrier,Futur proche,ils vont s'écri,er

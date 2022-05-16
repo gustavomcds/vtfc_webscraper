@@ -9,7 +9,7 @@ with open(os.path.join('config', 'params.yaml'), 'r') as file:
     params = yaml.safe_load(file)
 
 # Choose between FR and ENG
-LANG = input('Choose the language: ')
+LANG = input('Choose the language (FR or ENG): ')
 
 if LANG == 'FR':
     print('You chose french')
@@ -27,7 +27,7 @@ STRIP_CONJUG_VERB = False if LANG == 'FR' else True
 dict_most_used_verbs_conjugations = VTFC.get_most_used_verbs_conjugations(HOME_URL, strip_conjug_verb=STRIP_CONJUG_VERB)
 
 # Setting output filepath
-output_filepath = os.path.join(params['OUTPUTFOLDERNAME', OUTPUTFILENAME])
+output_filepath = os.path.join(params['OUTPUTFOLDERNAME'], OUTPUTFILENAME)
 
 # Exporting data to json and csv files
 export_to_json(dict_most_used_verbs_conjugations, f"{output_filepath}.json")

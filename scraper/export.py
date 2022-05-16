@@ -98,10 +98,10 @@ def export_to_sqlite(data, db_path, db_name='ConjugationMostUsedVerbs.db', heade
                     {headers[1]}, 
                     {headers[2]}, 
                     {headers[3]}
-                ) VALUIES (
+                ) VALUES (
                     ?, ?, ?, ?
                 )
             """, 
-            df_most_used_verbs_conjungations.to_records()
+            df_most_used_verbs_conjungations.to_records(index=False)
         )
         conn.commit()
